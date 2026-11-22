@@ -42,7 +42,7 @@
 </head>
 <body>
 <h1>坂道出演情報</h1>
-<p class="sub">SakamichiAppearances ― 坂道グループメンバーのYouTube出演動画データベース（試作：乃木坂46のみ）</p>
+<p class="sub">SakamichiAppearances ― 坂道グループ（乃木坂46・櫻坂46・日向坂46）メンバーのYouTube出演動画データベース</p>
 
 <div class="stats" id="stats"></div>
 
@@ -58,6 +58,12 @@
       <option value="">区分：すべて</option>
       <option value="official">公式</option>
       <option value="appearance">出演</option>
+    </select>
+    <select id="f-family">
+      <option value="">グループ：すべて</option>
+      <option value="nogizaka">乃木坂46</option>
+      <option value="keyaki_sakura">櫻坂46系</option>
+      <option value="keyaki_hinata">日向坂46系</option>
     </select>
     <select id="f-member"><option value="">メンバー：すべて</option></select>
     <select id="f-gen">
@@ -81,10 +87,16 @@
       <option value="active">現役</option>
       <option value="og">OG</option>
     </select>
+    <select id="mf-family">
+      <option value="">グループ：すべて</option>
+      <option value="nogizaka">乃木坂46</option>
+      <option value="keyaki_sakura">櫻坂46系</option>
+      <option value="keyaki_hinata">日向坂46系</option>
+    </select>
     <select id="mf-gen"><option value="">期：すべて</option></select>
   </div>
   <table>
-    <thead><tr><th>名前</th><th>期</th><th>状態</th><th>加入日</th><th>卒業日</th><th>備考</th></tr></thead>
+    <thead><tr><th>名前</th><th>グループ</th><th>期</th><th>状態</th><th>加入日</th><th>卒業日</th><th>備考</th></tr></thead>
     <tbody id="members"></tbody>
   </table>
   <p class="empty hidden" id="members-empty">条件に合うメンバーがいません。</p>
@@ -105,15 +117,24 @@ const todayStr = () => {
 // 現役/OGは保存せず、卒業日と今日の比較で導出する
 const statusOf = m => (!m.graduation_date || m.graduation_date > todayStr()) ? "active" : "og";
 
-let MEMBERS = [], VIDEOS = [], META = {};
+let MEMBERS = [], VIDEOS = [], META = {}, MEMBERS_META = {};
 const memberByName = {};
+const FAM_SHORT = { nogizaka: "乃木坂", keyaki_sakura: "櫻坂系", keyaki_hinata: "日向坂系" };
+
+// 表示名は「卒業時点（現役は現在）のグループ名」を改名境界から導出する
+function groupNameOf(m) {
+  const b = (MEMBERS_META.rename_boundaries || {})[m.family];
+  if (!b) return "乃木坂46";
+  const ref = m.graduation_date || todayStr();
+  return ref <= b.old_until ? b.old : b.new;
+}
 
 function genOptions(sel) {
   const seen = new Map();
   for (const m of MEMBERS) {
     const g = m.generation;
-    const key = g.group == null ? "label:" + g.label : "group:" + g.group;
-    if (!seen.has(key)) seen.set(key, { key, label: g.group == null ? g.label : g.group + "期", sort: g.sort ?? 999 });
+    const key = genKeyOf(m);
+    if (!seen.has(key)) seen.set(key, { key, label: FAM_SHORT[m.family] + " " + g.label, sort: (g.sort ?? 999) });
   }
   [...seen.values()].sort((a, b) => a.sort - b.sort).forEach(o => {
     const el = document.createElement("option");
@@ -121,7 +142,7 @@ function genOptions(sel) {
     sel.appendChild(el);
   });
 }
-const genKeyOf = m => m.generation.group == null ? "label:" + m.generation.label : "group:" + m.generation.group;
+const genKeyOf = m => m.family + ":" + (m.generation.group == null ? "label:" + m.generation.label : "group:" + m.generation.group);
 
 function renderStats() {
   const active = MEMBERS.filter(m => statusOf(m) === "active").length;
@@ -138,12 +159,14 @@ function renderStats() {
 function renderVideos() {
   const q = document.getElementById("q").value.trim();
   const cat = document.getElementById("f-category").value;
+  const fam = document.getElementById("f-family").value;
   const mem = document.getElementById("f-member").value;
   const gen = document.getElementById("f-gen").value;
   const sort = document.getElementById("f-sort").value;
   let list = VIDEOS.filter(v =>
     (!q || v.title.includes(q) || (v.channel_title || "").includes(q)) &&
     (!cat || v.category === cat) &&
+    (!fam || v.members.some(name => memberByName[name] && memberByName[name].family === fam)) &&
     (!mem || v.members.includes(mem)) &&
     (!gen || v.members.some(name => memberByName[name] && genKeyOf(memberByName[name]) === gen))
   );
@@ -170,10 +193,12 @@ function renderVideos() {
 function renderMembers() {
   const q = document.getElementById("mq").value.trim();
   const st = document.getElementById("mf-status").value;
+  const fam = document.getElementById("mf-family").value;
   const gen = document.getElementById("mf-gen").value;
   const list = MEMBERS.filter(m =>
     (!q || m.name.includes(q) || (m.yomi || "").includes(q)) &&
     (!st || statusOf(m) === st) &&
+    (!fam || m.family === fam) &&
     (!gen || genKeyOf(m) === gen)
   );
   document.getElementById("members").innerHTML = list.map(m => {
@@ -181,6 +206,7 @@ function renderMembers() {
     const future = st === "active" && m.graduation_date;
     return `<tr>
       <td><b>${m.name}</b><br><span class="meta">${m.yomi || ""}</span></td>
+      <td>${groupNameOf(m)}</td>
       <td>${m.generation.label}</td>
       <td><span class="badge ${st === "og" ? "og" : ""}">${st === "og" ? "OG" : "現役"}</span>${future ? `<br><span class="meta">${m.graduation_date} 卒業予定</span>` : ""}</td>
       <td>${m.join_date || "―"}</td>
@@ -196,20 +222,25 @@ async function init() {
     fetch("data/members.json").then(r => r.json()),
     fetch("data/videos.json").then(r => r.json()),
   ]);
-  MEMBERS = mj.members; VIDEOS = vj.videos; META = vj.meta;
+  MEMBERS = mj.members; VIDEOS = vj.videos; META = vj.meta; MEMBERS_META = mj.meta || {};
   MEMBERS.forEach(m => memberByName[m.name] = m);
   const memSel = document.getElementById("f-member");
-  MEMBERS.filter(m => statusOf(m) === "active").forEach(m => {
-    const el = document.createElement("option");
-    el.value = m.name; el.textContent = `${m.name}（${m.generation.label}）`;
-    memSel.appendChild(el);
-  });
+  for (const fam of ["nogizaka", "keyaki_sakura", "keyaki_hinata"]) {
+    const og = document.createElement("optgroup");
+    og.label = FAM_SHORT[fam];
+    MEMBERS.filter(m => m.family === fam).forEach(m => {
+      const el = document.createElement("option");
+      el.value = m.name; el.textContent = `${m.name}（${m.generation.label}）`;
+      og.appendChild(el);
+    });
+    memSel.appendChild(og);
+  }
   genOptions(document.getElementById("f-gen"));
   genOptions(document.getElementById("mf-gen"));
   renderStats(); renderVideos(); renderMembers();
-  ["q", "f-category", "f-member", "f-gen", "f-sort"].forEach(id =>
+  ["q", "f-category", "f-family", "f-member", "f-gen", "f-sort"].forEach(id =>
     document.getElementById(id).addEventListener("input", renderVideos));
-  ["mq", "mf-status", "mf-gen"].forEach(id =>
+  ["mq", "mf-status", "mf-family", "mf-gen"].forEach(id =>
     document.getElementById(id).addEventListener("input", renderMembers));
   const tv = document.getElementById("tab-videos"), tm = document.getElementById("tab-members");
   tv.addEventListener("click", () => {

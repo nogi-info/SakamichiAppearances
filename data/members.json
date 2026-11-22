@@ -1,12 +1,1964 @@
 {
  "meta": {
-  "family": "nogizaka",
-  "group_name": "乃木坂46",
-  "rename": null,
-  "member_count": 99,
+  "member_count": 201,
+  "rename_boundaries": {
+   "keyaki_sakura": {
+    "old": "欅坂46",
+    "old_until": "2020-10-13",
+    "new": "櫻坂46"
+   },
+   "keyaki_hinata": {
+    "old": "けやき坂46",
+    "old_until": "2019-02-10",
+    "new": "日向坂46"
+   }
+  },
+  "families": {
+   "nogizaka": "乃木坂46系",
+   "keyaki_sakura": "欅坂46・櫻坂46系",
+   "keyaki_hinata": "けやき坂46・日向坂46系"
+  },
   "source_note": "現役/OGは graduation_date と現在日時の比較で表示時に導出する"
  },
  "members": [
+  {
+   "id": "keyaki_hinata:井口眞緒",
+   "name": "井口眞緒",
+   "yomi": "いぐち まお",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2020-03-30",
+   "birth_date": "1995-11-10",
+   "birthplace": "新潟県",
+   "blood_type": "AB型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:佐々木久美",
+   "name": "佐々木久美",
+   "yomi": "ささき くみ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2025-04-06",
+   "birth_date": "1996-01-22",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 168.3,
+   "agency": "Seed & Flower",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:佐々木美玲",
+   "name": "佐々木美玲",
+   "yomi": "ささき みれい",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2025-04-05",
+   "birth_date": "1999-12-17",
+   "birthplace": "兵庫県",
+   "blood_type": "O型",
+   "height_cm": 165.7,
+   "agency": "クィーンビー",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:加藤史帆",
+   "name": "加藤史帆",
+   "yomi": "かとう しほ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2024-12-25",
+   "birth_date": "1998-02-02",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 160.5,
+   "agency": "Seed & Flower",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:影山優佳",
+   "name": "影山優佳",
+   "yomi": "かげやま ゆうか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2023-07-23",
+   "birth_date": "2001-05-08",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 155.0,
+   "agency": "プロダクション尾木",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:東村芽依",
+   "name": "東村芽依",
+   "yomi": "ひがしむら めい",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2025-01-25",
+   "birth_date": "1998-08-23",
+   "birthplace": "奈良県",
+   "blood_type": "O型",
+   "height_cm": 154.5,
+   "agency": "TWIN PLANET",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:柿崎芽実",
+   "name": "柿崎芽実",
+   "yomi": "かきざき めみ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2019-08-11",
+   "birth_date": "2001-12-02",
+   "birthplace": "長野県",
+   "blood_type": "A型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:潮紗理菜",
+   "name": "潮紗理菜",
+   "yomi": "うしお さりな",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2023-12-31",
+   "birth_date": "1997-12-26",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 157.5,
+   "agency": "セント・フォース",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:高本彩花",
+   "name": "高本彩花",
+   "yomi": "たかもと あやか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2024-07-31",
+   "birth_date": "1998-11-02",
+   "birthplace": "神奈川県",
+   "blood_type": "B型",
+   "height_cm": 162.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:高瀬愛奈",
+   "name": "高瀬愛奈",
+   "yomi": "たかせ まな",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2025-05-01",
+   "birth_date": "1998-09-20",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 157.2,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:齊藤京子",
+   "name": "齊藤京子",
+   "yomi": "さいとう きょうこ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2016-05-08",
+   "graduation_date": "2024-04-05",
+   "birth_date": "1997-09-05",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 155.5,
+   "agency": "東宝芸能",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:丹生明里",
+   "name": "丹生明里",
+   "yomi": "にぶ あかり",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2025-01-29",
+   "birth_date": "2001-02-15",
+   "birthplace": "埼玉県",
+   "blood_type": "AB型",
+   "height_cm": 157.0,
+   "agency": "Seed & Flower",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:宮田愛萌",
+   "name": "宮田愛萌",
+   "yomi": "みやた まなも",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2022-12-18",
+   "birth_date": "1998-04-28",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 159.3,
+   "agency": "株式会社FARM",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:富田鈴花",
+   "name": "富田鈴花",
+   "yomi": "とみた すずか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2025-08-05",
+   "birth_date": "2001-01-18",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 165.2,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:小坂菜緒",
+   "name": "小坂菜緒",
+   "yomi": "こさか なお",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": null,
+   "birth_date": "2002-09-07",
+   "birthplace": "大阪府",
+   "blood_type": "O型",
+   "height_cm": 161.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:松田好花",
+   "name": "松田好花",
+   "yomi": "まつだ このか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2026-02-28",
+   "birth_date": "1999-04-27",
+   "birthplace": "京都府",
+   "blood_type": "A型",
+   "height_cm": 157.5,
+   "agency": null,
+   "note": "卒業セレモニーは2026年1月29日。卒業日は最終活動日（リアルミート&グリート）を採用"
+  },
+  {
+   "id": "keyaki_hinata:河田陽菜",
+   "name": "河田陽菜",
+   "yomi": "かわた ひな",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2025-11-19",
+   "birth_date": "2001-07-23",
+   "birthplace": "山口県",
+   "blood_type": "B型",
+   "height_cm": 154.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:渡邉美穂",
+   "name": "渡邉美穂",
+   "yomi": "わたなべ みほ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2022-07-31",
+   "birth_date": "2000-02-24",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 158.2,
+   "agency": "クィーンビー",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:濱岸ひより",
+   "name": "濱岸ひより",
+   "yomi": "はまぎし ひより",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": "2024-12-05",
+   "birth_date": "2002-09-28",
+   "birthplace": "福岡県",
+   "blood_type": "A型",
+   "height_cm": 167.5,
+   "agency": "ホリプロ",
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:金村美玖",
+   "name": "金村美玖",
+   "yomi": "かねむら みく",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2017-08-13",
+   "graduation_date": null,
+   "birth_date": "2002-09-10",
+   "birthplace": "埼玉県",
+   "blood_type": "O型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:上村ひなの",
+   "name": "上村ひなの",
+   "yomi": "かみむら ひなの",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2004-04-12",
+   "birthplace": "東京都",
+   "blood_type": "AB型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:山口陽世",
+   "name": "山口陽世",
+   "yomi": "やまぐち はるよ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "新3期",
+    "group": 3,
+    "sort": 3.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": "2026-08-23",
+   "birth_date": "2004-02-23",
+   "birthplace": "鳥取県",
+   "blood_type": "O型",
+   "height_cm": 152.5,
+   "agency": null,
+   "note": "卒業セレモニーをもって卒業"
+  },
+  {
+   "id": "keyaki_hinata:森本茉莉",
+   "name": "森本茉莉",
+   "yomi": "もりもと まりぃ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "新3期",
+    "group": 3,
+    "sort": 3.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": "2026-12-11",
+   "birth_date": "2004-02-23",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 162.4,
+   "agency": null,
+   "note": "卒業セレモニーをもって卒業予定"
+  },
+  {
+   "id": "keyaki_hinata:髙橋未来虹",
+   "name": "髙橋未来虹",
+   "yomi": "たかはし みくに",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "新3期",
+    "group": 3,
+    "sort": 3.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2003-09-27",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 170.6,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:宮地すみれ",
+   "name": "宮地すみれ",
+   "yomi": "みやち すみれ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2005-12-31",
+   "birthplace": "神奈川県",
+   "blood_type": "不明",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:小西夏菜実",
+   "name": "小西夏菜実",
+   "yomi": "こにし ななみ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2004-10-03",
+   "birthplace": "兵庫県",
+   "blood_type": "B型",
+   "height_cm": 164.8,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:山下葉留花",
+   "name": "山下葉留花",
+   "yomi": "やました はるか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2003-05-20",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:岸帆夏",
+   "name": "岸帆夏",
+   "yomi": "きし ほのか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": "2023-12-07",
+   "birth_date": "2004-08-15",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 156.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:平尾帆夏",
+   "name": "平尾帆夏",
+   "yomi": "ひらお ほのか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2003-07-31",
+   "birthplace": "鳥取県",
+   "blood_type": "A型",
+   "height_cm": 158.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:平岡海月",
+   "name": "平岡海月",
+   "yomi": "ひらおか みつき",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2002-04-09",
+   "birthplace": "福井県",
+   "blood_type": "A型",
+   "height_cm": 157.9,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:正源司陽子",
+   "name": "正源司陽子",
+   "yomi": "しょうげんじ ようこ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2007-02-14",
+   "birthplace": "兵庫県",
+   "blood_type": "B型",
+   "height_cm": 158.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:清水理央",
+   "name": "清水理央",
+   "yomi": "しみず りお",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2005-01-15",
+   "birthplace": "千葉県",
+   "blood_type": "AB型",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:渡辺莉奈",
+   "name": "渡辺莉奈",
+   "yomi": "わたなべ りな",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2009-02-07",
+   "birthplace": "福岡県",
+   "blood_type": "A型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:石塚瑶季",
+   "name": "石塚瑶季",
+   "yomi": "いしづか たまき",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2004-08-06",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 153.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:竹内希来里",
+   "name": "竹内希来里",
+   "yomi": "たけうち きらり",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2006-02-20",
+   "birthplace": "広島県",
+   "blood_type": "AB型",
+   "height_cm": 154.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:藤嶌果歩",
+   "name": "藤嶌果歩",
+   "yomi": "ふじしま かほ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2022-09-22",
+   "graduation_date": null,
+   "birth_date": "2006-08-07",
+   "birthplace": "北海道",
+   "blood_type": "不明",
+   "height_cm": 160.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:下田衣珠季",
+   "name": "下田衣珠季",
+   "yomi": "しもだ いずき",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2006-12-26",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:佐藤優羽",
+   "name": "佐藤優羽",
+   "yomi": "さとう ゆう",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2006-09-10",
+   "birthplace": "福岡県",
+   "blood_type": "AB型",
+   "height_cm": 159.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:坂井新奈",
+   "name": "坂井新奈",
+   "yomi": "さかい にいな",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2009-03-14",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:大田美月",
+   "name": "大田美月",
+   "yomi": "おおた みづき",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2006-12-07",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:大野愛実",
+   "name": "大野愛実",
+   "yomi": "おおの まなみ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2007-05-05",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 153.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:松尾桜",
+   "name": "松尾桜",
+   "yomi": "まつお さくら",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2005-06-08",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 159.2,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:片山紗希",
+   "name": "片山紗希",
+   "yomi": "かたやま さき",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2006-12-26",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 159.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:蔵盛妃那乃",
+   "name": "蔵盛妃那乃",
+   "yomi": "くらもり ひなの",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2006-01-23",
+   "birthplace": "大阪府",
+   "blood_type": "B型",
+   "height_cm": 153.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:高井俐香",
+   "name": "高井俐香",
+   "yomi": "たかい りか",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2007-08-01",
+   "birthplace": "兵庫県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_hinata:鶴崎仁香",
+   "name": "鶴崎仁香",
+   "yomi": "つるさき にこ",
+   "family": "keyaki_hinata",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2025-03-11",
+   "graduation_date": null,
+   "birth_date": "2004-03-27",
+   "birthplace": "神奈川県",
+   "blood_type": "B型",
+   "height_cm": 166.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:上村莉菜",
+   "name": "上村莉菜",
+   "yomi": "うえむら りな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2025-02-16",
+   "birth_date": "1997-01-04",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 153.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:今泉佑唯",
+   "name": "今泉佑唯",
+   "yomi": "いまいずみ ゆい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2018-11-04",
+   "birth_date": "1998-09-30",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 153.0,
+   "agency": "seju",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:佐藤詩織",
+   "name": "佐藤詩織",
+   "yomi": "さとう しおり",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-10-13",
+   "birth_date": "1996-11-16",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:原田葵",
+   "name": "原田葵",
+   "yomi": "はらだ あおい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2022-06-11",
+   "birth_date": "2000-05-07",
+   "birthplace": "東京都",
+   "blood_type": "AB型",
+   "height_cm": 156.0,
+   "agency": "フジテレビジョン",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:土生瑞穂",
+   "name": "土生瑞穂",
+   "yomi": "はぶ みづほ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2023-11-25",
+   "birth_date": "1997-07-07",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 171.6,
+   "agency": "エースクルー・エンタテインメント",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:守屋茜",
+   "name": "守屋茜",
+   "yomi": "もりや あかね",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2021-12-19",
+   "birth_date": "1997-11-12",
+   "birthplace": "宮城県",
+   "blood_type": "A型",
+   "height_cm": 163.5,
+   "agency": "テンカラット",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:小林由依",
+   "name": "小林由依",
+   "yomi": "こばやし ゆい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2024-02-01",
+   "birth_date": "1999-10-23",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:小池美波",
+   "name": "小池美波",
+   "yomi": "こいけ みなみ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2025-05-30",
+   "birth_date": "1998-11-14",
+   "birthplace": "兵庫県",
+   "blood_type": "B型",
+   "height_cm": 158.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:尾関梨香",
+   "name": "尾関梨香",
+   "yomi": "おぜき りか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2022-09-11",
+   "birth_date": "1997-10-07",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 156.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:平手友梨奈",
+   "name": "平手友梨奈",
+   "yomi": "ひらて ゆりな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-01-23",
+   "birth_date": "2001-06-25",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 163.0,
+   "agency": "クラウドナイン",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:志田愛佳",
+   "name": "志田愛佳",
+   "yomi": "しだ まなか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2018-11-16",
+   "birth_date": "1998-11-23",
+   "birthplace": "新潟県",
+   "blood_type": "A型",
+   "height_cm": 169.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:渡辺梨加",
+   "name": "渡辺梨加",
+   "yomi": "わたなべ りか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2021-12-19",
+   "birth_date": "1995-05-16",
+   "birthplace": "茨城県",
+   "blood_type": "O型",
+   "height_cm": 166.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:渡邉理佐",
+   "name": "渡邉理佐",
+   "yomi": "わたなべ りさ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2022-05-22",
+   "birth_date": "1998-07-27",
+   "birthplace": "茨城県",
+   "blood_type": "O型",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:石森虹花",
+   "name": "石森虹花",
+   "yomi": "いしもり にじか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-09-30",
+   "birth_date": "1997-05-07",
+   "birthplace": "宮城県",
+   "blood_type": "A型",
+   "height_cm": 162.7,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:米谷奈々未",
+   "name": "米谷奈々未",
+   "yomi": "よねたに ななみ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2019-02-10",
+   "birth_date": "2000-02-24",
+   "birthplace": "大阪府",
+   "blood_type": "B型",
+   "height_cm": 159.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:織田奈那",
+   "name": "織田奈那",
+   "yomi": "おだ なな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-01-23",
+   "birth_date": "1998-06-04",
+   "birthplace": "静岡県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": "seju",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:菅井友香",
+   "name": "菅井友香",
+   "yomi": "すがい ゆうか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2022-11-09",
+   "birth_date": "1995-11-29",
+   "birthplace": "東京都",
+   "blood_type": "AB型",
+   "height_cm": 165.0,
+   "agency": "トップコート",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:鈴本美愉",
+   "name": "鈴本美愉",
+   "yomi": "すずもと みゆ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-01-23",
+   "birth_date": "1997-12-05",
+   "birthplace": "愛知県",
+   "blood_type": "AB型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:長沢菜々香",
+   "name": "長沢菜々香",
+   "yomi": "ながさわ ななこ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2020-03-31",
+   "birth_date": "1997-04-23",
+   "birthplace": "山形県",
+   "blood_type": "A型",
+   "height_cm": 158.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:齋藤冬優花",
+   "name": "齋藤冬優花",
+   "yomi": "さいとう ふゆか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-08-21",
+   "graduation_date": "2025-01-13",
+   "birth_date": "1998-02-15",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 158.0,
+   "agency": "INFINITY",
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:長濱ねる",
+   "name": "長濱ねる",
+   "yomi": "ながはま ねる",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2015-11-30",
+   "graduation_date": "2019-07-30",
+   "birth_date": "1998-09-04",
+   "birthplace": "長崎県",
+   "blood_type": "O型",
+   "height_cm": 159.0,
+   "agency": "フラーム",
+   "note": "特例として加入（加入日は特例の2015年11月30日）。けやき坂46との兼任期間があったが、本DBでは欅坂46の在籍のみを記録する。"
+  },
+  {
+   "id": "keyaki_sakura:井上梨名",
+   "name": "井上梨名",
+   "yomi": "いのうえ りな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2026-02-28",
+   "birth_date": "2001-01-29",
+   "birthplace": "兵庫県",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": "卒業セレモニーは2025年12月17日。卒業日は活動終了日を採用"
+  },
+  {
+   "id": "keyaki_sakura:山﨑天",
+   "name": "山﨑天",
+   "yomi": "やまさき てん",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2005-09-28",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 168.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:松平璃子",
+   "name": "松平璃子",
+   "yomi": "まつだいら りこ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2021-03-14",
+   "birth_date": "1998-05-05",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 169.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:松田里奈",
+   "name": "松田里奈",
+   "yomi": "まつだ りな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "1999-10-13",
+   "birthplace": "宮崎県",
+   "blood_type": "O型",
+   "height_cm": 159.5,
+   "agency": null,
+   "note": "卒業発表済み（2026年内の活動をもって卒業）。卒業セレモニーは2026年11月15日に実施済みで、最終活動日は未発表"
+  },
+  {
+   "id": "keyaki_sakura:森田ひかる",
+   "name": "森田ひかる",
+   "yomi": "もりた ひかる",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2001-07-10",
+   "birthplace": "福岡県",
+   "blood_type": "B型",
+   "height_cm": 150.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:武元唯衣",
+   "name": "武元唯衣",
+   "yomi": "たけもと ゆい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2026-05-31",
+   "birth_date": "2002-03-23",
+   "birthplace": "滋賀県",
+   "blood_type": "O型",
+   "height_cm": 158.5,
+   "agency": null,
+   "note": "卒業セレモニーは2026年5月13日。卒業日は最終活動日（ミート&グリート）を採用。在籍記録は2026年6月30日まで"
+  },
+  {
+   "id": "keyaki_sakura:田村保乃",
+   "name": "田村保乃",
+   "yomi": "たむら ほの",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2027-01-29",
+   "birth_date": "1998-10-21",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": "卒業コンサート最終日を卒業予定日として設定（公式の最終活動日発表は未確認）"
+  },
+  {
+   "id": "keyaki_sakura:藤吉夏鈴",
+   "name": "藤吉夏鈴",
+   "yomi": "ふじよし かりん",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2001-08-29",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 166.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:関有美子",
+   "name": "関有美子",
+   "yomi": "せき ゆみこ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2023-04-30",
+   "birth_date": "1998-06-29",
+   "birthplace": "福岡県",
+   "blood_type": "A型",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:増本綺良",
+   "name": "増本綺良",
+   "yomi": "ますもと きら",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": "2026-09-30",
+   "birth_date": "2002-01-12",
+   "birthplace": "兵庫県",
+   "blood_type": "A型",
+   "height_cm": 158.4,
+   "agency": null,
+   "note": "卒業セレモニーをもって卒業。在籍記録は2026年10月31日まで"
+  },
+  {
+   "id": "keyaki_sakura:大園玲",
+   "name": "大園玲",
+   "yomi": "おおぞの れい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2000-04-18",
+   "birthplace": "鹿児島県",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:大沼晶保",
+   "name": "大沼晶保",
+   "yomi": "おおぬま あきほ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "1999-10-12",
+   "birthplace": "静岡県",
+   "blood_type": "B型",
+   "height_cm": 162.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:守屋麗奈",
+   "name": "守屋麗奈",
+   "yomi": "もりや れな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2000-01-02",
+   "birthplace": "東京都",
+   "blood_type": "AB型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:幸阪茉里乃",
+   "name": "幸阪茉里乃",
+   "yomi": "こうさか まりの",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2002-12-19",
+   "birthplace": "三重県",
+   "blood_type": "O型",
+   "height_cm": 154.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:遠藤光莉",
+   "name": "遠藤光莉",
+   "yomi": "えんどう ひかり",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "新2期",
+    "group": 2,
+    "sort": 2.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "1999-04-17",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 164.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:中嶋優月",
+   "name": "中嶋優月",
+   "yomi": "なかしま ゆづき",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2003-02-17",
+   "birthplace": "福岡県",
+   "blood_type": "A型",
+   "height_cm": 162.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:向井純葉",
+   "name": "向井純葉",
+   "yomi": "むかい いとは",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2006-05-09",
+   "birthplace": "広島県",
+   "blood_type": "AB型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:小島凪紗",
+   "name": "小島凪紗",
+   "yomi": "こじま なぎさ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2005-07-07",
+   "birthplace": "長野県",
+   "blood_type": "不明",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:小田倉麗奈",
+   "name": "小田倉麗奈",
+   "yomi": "おだくら れいな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2004-07-25",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:山下瞳月",
+   "name": "山下瞳月",
+   "yomi": "やました しづき",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2005-01-22",
+   "birthplace": "京都府",
+   "blood_type": "A型",
+   "height_cm": 152.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:村井優",
+   "name": "村井優",
+   "yomi": "むらい ゆう",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2004-08-18",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:村山美羽",
+   "name": "村山美羽",
+   "yomi": "むらやま みう",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2005-02-15",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 168.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:的野美青",
+   "name": "的野美青",
+   "yomi": "まとの みお",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2006-11-08",
+   "birthplace": "福岡県",
+   "blood_type": "AB型",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:石森璃花",
+   "name": "石森璃花",
+   "yomi": "いしもり りか",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2002-01-13",
+   "birthplace": "群馬県",
+   "blood_type": "B型",
+   "height_cm": 159.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:谷口愛季",
+   "name": "谷口愛季",
+   "yomi": "たにぐち あいり",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2005-04-12",
+   "birthplace": "山口県",
+   "blood_type": "O型",
+   "height_cm": 151.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:遠藤理子",
+   "name": "遠藤理子",
+   "yomi": "えんどう りこ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2023-01-05",
+   "graduation_date": null,
+   "birth_date": "2006-01-09",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 155.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:中川智尋",
+   "name": "中川智尋",
+   "yomi": "なかがわ ちひろ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2007-09-16",
+   "birthplace": "長崎県",
+   "blood_type": "O型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:佐藤愛桜",
+   "name": "佐藤愛桜",
+   "yomi": "さとう ねお",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2006-12-01",
+   "birthplace": "佐賀県",
+   "blood_type": "O型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:勝又春",
+   "name": "勝又春",
+   "yomi": "かつまた はる",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2004-01-24",
+   "birthplace": "京都府",
+   "blood_type": "A型",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:山川宇衣",
+   "name": "山川宇衣",
+   "yomi": "やまかわ うい",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2005-09-19",
+   "birthplace": "宮城県",
+   "blood_type": "不明",
+   "height_cm": 159.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:山田桃実",
+   "name": "山田桃実",
+   "yomi": "やまだ ももみ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2008-07-20",
+   "birthplace": "岡山県",
+   "blood_type": "AB型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:松本和子",
+   "name": "松本和子",
+   "yomi": "まつもと わこ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2005-02-06",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:浅井恋乃未",
+   "name": "浅井恋乃未",
+   "yomi": "あさい このみ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2004-12-22",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:目黒陽色",
+   "name": "目黒陽色",
+   "yomi": "めぐろ ひいろ",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2006-01-24",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 169.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "keyaki_sakura:稲熊ひな",
+   "name": "稲熊ひな",
+   "yomi": "いなぐま ひな",
+   "family": "keyaki_sakura",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2025-04-15",
+   "graduation_date": null,
+   "birth_date": "2006-03-09",
+   "birthplace": "愛知県",
+   "blood_type": "AB型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
   {
    "id": "nogizaka:中元日芽香",
    "name": "中元日芽香",
