@@ -1,0 +1,1892 @@
+{
+ "meta": {
+  "family": "nogizaka",
+  "group_name": "乃木坂46",
+  "rename": null,
+  "member_count": 99,
+  "source_note": "現役/OGは graduation_date と現在日時の比較で表示時に導出する"
+ },
+ "members": [
+  {
+   "id": "nogizaka:中元日芽香",
+   "name": "中元日芽香",
+   "yomi": "なかもと ひめか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2017-11-19",
+   "birth_date": "1996-04-13",
+   "birthplace": "広島県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:中田花奈",
+   "name": "中田花奈",
+   "yomi": "なかだ かな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2020-10-25",
+   "birth_date": "1994-08-06",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 158.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:井上小百合",
+   "name": "井上小百合",
+   "yomi": "いのうえ さゆり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2020-04-27",
+   "birth_date": "1994-12-14",
+   "birthplace": "埼玉県",
+   "blood_type": "B型",
+   "height_cm": 156.0,
+   "agency": "シス・カンパニー",
+   "note": null
+  },
+  {
+   "id": "nogizaka:伊藤万理華",
+   "name": "伊藤万理華",
+   "yomi": "いとう まりか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2017-12-23",
+   "birth_date": "1996-02-20",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 158.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:伊藤寧々",
+   "name": "伊藤寧々",
+   "yomi": "いとう ねね",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2014-10-19",
+   "birth_date": "1995-12-12",
+   "birthplace": "岐阜県",
+   "blood_type": "B型",
+   "height_cm": 149.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:和田まあや",
+   "name": "和田まあや",
+   "yomi": "わだ まあや",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2022-12-04",
+   "birth_date": "1998-04-23",
+   "birthplace": "広島県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:大和里菜",
+   "name": "大和里菜",
+   "yomi": "やまと りな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2014-12-15",
+   "birth_date": "1994-12-14",
+   "birthplace": "宮城県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:安藤美雲",
+   "name": "安藤美雲",
+   "yomi": "あんどう みくも",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2013-06-16",
+   "birth_date": "1993-05-21",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:宮澤成良",
+   "name": "宮澤成良",
+   "yomi": "みやざわ せいら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2013-11-17",
+   "birth_date": "1993-10-29",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 168.0,
+   "agency": "イデア",
+   "note": null
+  },
+  {
+   "id": "nogizaka:岩瀬佑美子",
+   "name": "岩瀬佑美子",
+   "yomi": "いわせ ゆみこ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2012-11-18",
+   "birth_date": "1990-06-12",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 153.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:川後陽菜",
+   "name": "川後陽菜",
+   "yomi": "かわご ひな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-12-20",
+   "birth_date": "1998-03-22",
+   "birthplace": "長崎県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": "LAND",
+   "note": null
+  },
+  {
+   "id": "nogizaka:川村真洋",
+   "name": "川村真洋",
+   "yomi": "かわむら まひろ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-03-31",
+   "birth_date": "1995-07-23",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 158.0,
+   "agency": "TWIN PLANET",
+   "note": null
+  },
+  {
+   "id": "nogizaka:市來玲奈",
+   "name": "市來玲奈",
+   "yomi": "いちき れな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2014-07-21",
+   "birth_date": "1996-01-22",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 153.0,
+   "agency": "日本テレビ放送網",
+   "note": null
+  },
+  {
+   "id": "nogizaka:斉藤優里",
+   "name": "斉藤優里",
+   "yomi": "さいとう ゆうり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2019-06-30",
+   "birth_date": "1993-07-20",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 157.0,
+   "agency": "株式会社321",
+   "note": null
+  },
+  {
+   "id": "nogizaka:斎藤ちはる",
+   "name": "斎藤ちはる",
+   "yomi": "さいとう ちはる",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-07-16",
+   "birth_date": "1997-02-17",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 167.0,
+   "agency": "テレビ朝日",
+   "note": null
+  },
+  {
+   "id": "nogizaka:星野みなみ",
+   "name": "星野みなみ",
+   "yomi": "ほしの みなみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2022-02-12",
+   "birth_date": "1998-02-06",
+   "birthplace": "千葉県",
+   "blood_type": "B型",
+   "height_cm": 155.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:松村沙友理",
+   "name": "松村沙友理",
+   "yomi": "まつむら さゆり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2021-07-13",
+   "birth_date": "1992-08-27",
+   "birthplace": "大阪府",
+   "blood_type": "B型",
+   "height_cm": 164.0,
+   "agency": "FIRST AGENT",
+   "note": null
+  },
+  {
+   "id": "nogizaka:柏幸奈",
+   "name": "柏幸奈",
+   "yomi": "かしわ ゆきな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2013-11-17",
+   "birth_date": "1994-08-12",
+   "birthplace": "神奈川県",
+   "blood_type": "B型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:桜井玲香",
+   "name": "桜井玲香",
+   "yomi": "さくらい れいか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2019-09-01",
+   "birth_date": "1994-05-16",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 157.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:樋口日奈",
+   "name": "樋口日奈",
+   "yomi": "ひぐち ひな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2022-10-31",
+   "birth_date": "1998-01-31",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:橋本奈々未",
+   "name": "橋本奈々未",
+   "yomi": "はしもと ななみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2017-02-20",
+   "birth_date": "1993-02-20",
+   "birthplace": "北海道",
+   "blood_type": "B型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:永島聖羅",
+   "name": "永島聖羅",
+   "yomi": "ながしま せいら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2016-03-20",
+   "birth_date": "1994-05-19",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 159.0,
+   "agency": "ホリプロ",
+   "note": null
+  },
+  {
+   "id": "nogizaka:深川麻衣",
+   "name": "深川麻衣",
+   "yomi": "ふかがわ まい",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2016-06-16",
+   "birth_date": "1991-03-29",
+   "birthplace": "静岡県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": "テンカラット",
+   "note": null
+  },
+  {
+   "id": "nogizaka:生田絵梨花",
+   "name": "生田絵梨花",
+   "yomi": "いくた えりか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2021-12-31",
+   "birth_date": "1997-01-22",
+   "birthplace": "デュッセルドルフ",
+   "blood_type": "A型",
+   "height_cm": 160.0,
+   "agency": "太田プロダクション",
+   "note": null
+  },
+  {
+   "id": "nogizaka:生駒里奈",
+   "name": "生駒里奈",
+   "yomi": "いこま りな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-05-06",
+   "birth_date": "1995-12-29",
+   "birthplace": "秋田県",
+   "blood_type": "AB型",
+   "height_cm": 153.0,
+   "agency": "A.M.Entertainment",
+   "note": null
+  },
+  {
+   "id": "nogizaka:畠中清羅",
+   "name": "畠中清羅",
+   "yomi": "はたなか せいら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2015-04-04",
+   "birth_date": "1995-12-05",
+   "birthplace": "大分県",
+   "blood_type": "B型",
+   "height_cm": 150.0,
+   "agency": "MSC",
+   "note": null
+  },
+  {
+   "id": "nogizaka:白石麻衣",
+   "name": "白石麻衣",
+   "yomi": "しらいし まい",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2020-10-28",
+   "birth_date": "1992-08-20",
+   "birthplace": "群馬県",
+   "blood_type": "A型",
+   "height_cm": 162.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:秋元真夏",
+   "name": "秋元真夏",
+   "yomi": "あきもと まなつ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2023-02-26",
+   "birth_date": "1993-08-20",
+   "birthplace": "埼玉県",
+   "blood_type": "B型",
+   "height_cm": 156.0,
+   "agency": "ジャパン・ミュージックエンターテインメント",
+   "note": null
+  },
+  {
+   "id": "nogizaka:能條愛未",
+   "name": "能條愛未",
+   "yomi": "のうじょう あみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-12-15",
+   "birth_date": "1994-10-18",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 162.0,
+   "agency": "TWIN PLANET",
+   "note": null
+  },
+  {
+   "id": "nogizaka:若月佑美",
+   "name": "若月佑美",
+   "yomi": "わかつき ゆみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-11-30",
+   "birth_date": "1994-06-27",
+   "birthplace": "静岡県",
+   "blood_type": "O型",
+   "height_cm": 157.7,
+   "agency": "ゼスト",
+   "note": null
+  },
+  {
+   "id": "nogizaka:衛藤美彩",
+   "name": "衛藤美彩",
+   "yomi": "えとう みさ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2019-03-31",
+   "birth_date": "1993-01-04",
+   "birthplace": "大分県",
+   "blood_type": "AB型",
+   "height_cm": 163.0,
+   "agency": "TWIN PLANET",
+   "note": null
+  },
+  {
+   "id": "nogizaka:西野七瀬",
+   "name": "西野七瀬",
+   "yomi": "にしの ななせ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2018-12-31",
+   "birth_date": "1994-05-25",
+   "birthplace": "大阪府",
+   "blood_type": "O型",
+   "height_cm": 159.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:高山一実",
+   "name": "高山一実",
+   "yomi": "たかやま かずみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2021-11-21",
+   "birth_date": "1994-02-08",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 162.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:齋藤飛鳥",
+   "name": "齋藤飛鳥",
+   "yomi": "さいとう あすか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "1期",
+    "group": 1,
+    "sort": 1.0
+   },
+   "join_date": "2011-08-21",
+   "graduation_date": "2022-12-31",
+   "birth_date": "1998-08-10",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 158.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:伊藤かりん",
+   "name": "伊藤かりん",
+   "yomi": "いとう かりん",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2019-05-24",
+   "birth_date": "1993-05-26",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 154.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:伊藤純奈",
+   "name": "伊藤純奈",
+   "yomi": "いとう じゅんな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2021-08-31",
+   "birth_date": "1998-11-30",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 166.0,
+   "agency": "Tie Works",
+   "note": null
+  },
+  {
+   "id": "nogizaka:佐々木琴子",
+   "name": "佐々木琴子",
+   "yomi": "ささき ことこ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2020-03-31",
+   "birth_date": "1998-08-28",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 163.0,
+   "agency": "アルディ",
+   "note": null
+  },
+  {
+   "id": "nogizaka:北野日奈子",
+   "name": "北野日奈子",
+   "yomi": "きたの ひなこ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2022-04-30",
+   "birth_date": "1996-07-17",
+   "birthplace": "北海道",
+   "blood_type": "O型",
+   "height_cm": 158.0,
+   "agency": "am合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:堀未央奈",
+   "name": "堀未央奈",
+   "yomi": "ほり みおな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2021-03-28",
+   "birth_date": "1996-10-15",
+   "birthplace": "岐阜県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": "am合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:寺田蘭世",
+   "name": "寺田蘭世",
+   "yomi": "てらだ らんぜ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2021-12-12",
+   "birth_date": "1998-09-23",
+   "birthplace": "東京都",
+   "blood_type": "不明",
+   "height_cm": 155.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:山崎怜奈",
+   "name": "山崎怜奈",
+   "yomi": "やまざき れな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2022-07-17",
+   "birth_date": "1997-05-21",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 164.0,
+   "agency": "マウントケープ",
+   "note": null
+  },
+  {
+   "id": "nogizaka:新内眞衣",
+   "name": "新内眞衣",
+   "yomi": "しんうち まい",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2022-02-10",
+   "birth_date": "1992-01-22",
+   "birthplace": "埼玉県",
+   "blood_type": "B型",
+   "height_cm": 165.0,
+   "agency": "セント・フォース",
+   "note": null
+  },
+  {
+   "id": "nogizaka:渡辺みり愛",
+   "name": "渡辺みり愛",
+   "yomi": "わたなべ みりあ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2021-08-31",
+   "birth_date": "1999-11-01",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 153.0,
+   "agency": "アリゲーター",
+   "note": null
+  },
+  {
+   "id": "nogizaka:相楽伊織",
+   "name": "相楽伊織",
+   "yomi": "さがら いおり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2018-07-16",
+   "birth_date": "1997-11-26",
+   "birthplace": "埼玉県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": "am合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:矢田里沙子",
+   "name": "矢田里沙子",
+   "yomi": "やだ りさこ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2014-10-18",
+   "birth_date": "1995-03-08",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 158.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:米徳京花",
+   "name": "米徳京花",
+   "yomi": "よねとく きょうか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2014-10-18",
+   "birth_date": "1999-04-14",
+   "birthplace": "神奈川県",
+   "blood_type": "AB型",
+   "height_cm": 163.0,
+   "agency": "CLONEA",
+   "note": null
+  },
+  {
+   "id": "nogizaka:西川七海",
+   "name": "西川七海",
+   "yomi": "にしかわ ななみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2014-03-22",
+   "birth_date": "1993-07-03",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:鈴木絢音",
+   "name": "鈴木絢音",
+   "yomi": "すずき あやね",
+   "family": "nogizaka",
+   "generation": {
+    "label": "2期",
+    "group": 2,
+    "sort": 2.0
+   },
+   "join_date": "2013-03-28",
+   "graduation_date": "2023-03-28",
+   "birth_date": "1999-03-05",
+   "birthplace": "秋田県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": "A.M.Entertainment",
+   "note": null
+  },
+  {
+   "id": "nogizaka:与田祐希",
+   "name": "与田祐希",
+   "yomi": "よだ ゆうき",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2025-02-23",
+   "birth_date": "2000-05-05",
+   "birthplace": "福岡県",
+   "blood_type": "O型",
+   "height_cm": 153.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:中村麗乃",
+   "name": "中村麗乃",
+   "yomi": "なかむら れの",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2025-06-26",
+   "birth_date": "2001-09-27",
+   "birthplace": "東京都",
+   "blood_type": "不明",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:久保史緒里",
+   "name": "久保史緒里",
+   "yomi": "くぼ しおり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2025-11-27",
+   "birth_date": "2001-07-14",
+   "birthplace": "宮城県",
+   "blood_type": "O型",
+   "height_cm": 161.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:伊藤理々杏",
+   "name": "伊藤理々杏",
+   "yomi": "いとう りりあ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2026-12-18",
+   "birth_date": "2002-10-08",
+   "birthplace": "沖縄県",
+   "blood_type": "B型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": "卒業発表済み。2026年12月18日に卒業セレモニーを実施予定で、その日までは現役。旧CSVでは卒業日が空だった。"
+  },
+  {
+   "id": "nogizaka:佐藤楓",
+   "name": "佐藤楓",
+   "yomi": "さとう かえで",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2025-05-06",
+   "birth_date": "1998-03-23",
+   "birthplace": "愛知県",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:吉田綾乃クリスティー",
+   "name": "吉田綾乃クリスティー",
+   "yomi": "よしだ あやのクリスティー",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2026-08-09",
+   "birth_date": "1995-09-06",
+   "birthplace": "大分県",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": "2026年8月9日の真夏の全国ツアー2026福岡公演内の卒業セレモニーをもって卒業（公式発表で確認）。旧CSVでは現役扱いだった。"
+  },
+  {
+   "id": "nogizaka:向井葉月",
+   "name": "向井葉月",
+   "yomi": "むかい はづき",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2024-12-31",
+   "birth_date": "1999-08-23",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 152.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:大園桃子",
+   "name": "大園桃子",
+   "yomi": "おおぞの ももこ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2021-09-04",
+   "birth_date": "1999-09-13",
+   "birthplace": "鹿児島県",
+   "blood_type": "O型",
+   "height_cm": 156.4,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:山下美月",
+   "name": "山下美月",
+   "yomi": "やました みづき",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2024-05-12",
+   "birth_date": "1999-07-26",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 160.0,
+   "agency": "乃木坂46合同会社",
+   "note": null
+  },
+  {
+   "id": "nogizaka:岩本蓮加",
+   "name": "岩本蓮加",
+   "yomi": "いわもと れんか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": null,
+   "birth_date": "2004-02-02",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 159.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:梅澤美波",
+   "name": "梅澤美波",
+   "yomi": "うめざわ みなみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2026-05-21",
+   "birth_date": "1999-01-06",
+   "birthplace": "神奈川県",
+   "blood_type": "A型",
+   "height_cm": 170.0,
+   "agency": null,
+   "note": "2026年5月21日の卒業コンサートをもって卒業（Wikipedia・報道で確認）。旧CSVでは現役扱いだった。"
+  },
+  {
+   "id": "nogizaka:阪口珠美",
+   "name": "阪口珠美",
+   "yomi": "さかぐち たまみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "3期",
+    "group": 3,
+    "sort": 3.0
+   },
+   "join_date": "2016-09-04",
+   "graduation_date": "2024-07-15",
+   "birth_date": "2001-11-10",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 161.0,
+   "agency": "ディープスキル",
+   "note": null
+  },
+  {
+   "id": "nogizaka:北川悠理",
+   "name": "北川悠理",
+   "yomi": "きたがわ ゆり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2023-06-30",
+   "birth_date": "2001-08-08",
+   "birthplace": "カリフォルニア州",
+   "blood_type": "不明",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:掛橋沙耶香",
+   "name": "掛橋沙耶香",
+   "yomi": "かけはし さやか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2024-08-19",
+   "birth_date": "2002-11-20",
+   "birthplace": "岡山県",
+   "blood_type": "B型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:早川聖来",
+   "name": "早川聖来",
+   "yomi": "はやかわ せいら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2023-08-24",
+   "birth_date": "2000-08-24",
+   "birthplace": "大阪府",
+   "blood_type": "A型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:柴田柚菜",
+   "name": "柴田柚菜",
+   "yomi": "しばた ゆな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2003-03-03",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:清宮レイ",
+   "name": "清宮レイ",
+   "yomi": "せいみや レイ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2024-07-17",
+   "birth_date": "2003-08-01",
+   "birthplace": "埼玉県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": "マシットスター",
+   "note": null
+  },
+  {
+   "id": "nogizaka:田村真佑",
+   "name": "田村真佑",
+   "yomi": "たむら まゆ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "1999-01-12",
+   "birthplace": "埼玉県",
+   "blood_type": "A型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:矢久保美緒",
+   "name": "矢久保美緒",
+   "yomi": "やくぼ みお",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": "2025-12-31",
+   "birth_date": "2002-08-14",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 153.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:筒井あやめ",
+   "name": "筒井あやめ",
+   "yomi": "つつい あやめ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2004-06-08",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:賀喜遥香",
+   "name": "賀喜遥香",
+   "yomi": "かき はるか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2001-08-08",
+   "birthplace": "栃木県",
+   "blood_type": "A型",
+   "height_cm": 166.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:遠藤さくら",
+   "name": "遠藤さくら",
+   "yomi": "えんどう さくら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2001-10-03",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:金川紗耶",
+   "name": "金川紗耶",
+   "yomi": "かながわ さや",
+   "family": "nogizaka",
+   "generation": {
+    "label": "4期",
+    "group": 4,
+    "sort": 4.0
+   },
+   "join_date": "2018-11-29",
+   "graduation_date": null,
+   "birth_date": "2001-10-31",
+   "birthplace": "北海道",
+   "blood_type": "O型",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:佐藤璃果",
+   "name": "佐藤璃果",
+   "yomi": "さとう りか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "新4期",
+    "group": 4,
+    "sort": 4.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": "2026-05-02",
+   "birth_date": "2001-08-09",
+   "birthplace": "岩手県",
+   "blood_type": "B型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": "2026年2月16日に卒業発表。卒業セレモニーは3月19日、最終活動は5月2日のリアルミート&グリートで、卒業日は最終活動日を採用（Wikipediaで確認）。旧CSVでは現役扱いだった。"
+  },
+  {
+   "id": "nogizaka:弓木奈於",
+   "name": "弓木奈於",
+   "yomi": "ゆみき なお",
+   "family": "nogizaka",
+   "generation": {
+    "label": "新4期",
+    "group": 4,
+    "sort": 4.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "1999-02-03",
+   "birthplace": "京都府",
+   "blood_type": "A型",
+   "height_cm": 165.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:松尾美佑",
+   "name": "松尾美佑",
+   "yomi": "まつお みゆ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "新4期",
+    "group": 4,
+    "sort": 4.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": "2025-12-31",
+   "birth_date": "2004-01-03",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 167.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:林瑠奈",
+   "name": "林瑠奈",
+   "yomi": "はやし るな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "新4期",
+    "group": 4,
+    "sort": 4.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2003-10-02",
+   "birthplace": "神奈川県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:黒見明香",
+   "name": "黒見明香",
+   "yomi": "くろみ はるか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "新4期",
+    "group": 4,
+    "sort": 4.5
+   },
+   "join_date": "2020-02-16",
+   "graduation_date": null,
+   "birth_date": "2004-01-19",
+   "birthplace": "東京都",
+   "blood_type": "O型",
+   "height_cm": 163.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:一ノ瀬美空",
+   "name": "一ノ瀬美空",
+   "yomi": "いちのせ みく",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2003-05-24",
+   "birthplace": "福岡県",
+   "blood_type": "B型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:中西アルノ",
+   "name": "中西アルノ",
+   "yomi": "なかにし アルノ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2003-03-17",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:五百城茉央",
+   "name": "五百城茉央",
+   "yomi": "いおき まお",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2005-07-29",
+   "birthplace": "兵庫県",
+   "blood_type": "O型",
+   "height_cm": 166.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:井上和",
+   "name": "井上和",
+   "yomi": "いのうえ なぎ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2005-02-17",
+   "birthplace": "神奈川県",
+   "blood_type": "B型",
+   "height_cm": 158.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:冨里奈央",
+   "name": "冨里奈央",
+   "yomi": "とみさと なお",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2006-09-18",
+   "birthplace": "千葉県",
+   "blood_type": "O型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:奥田いろは",
+   "name": "奥田いろは",
+   "yomi": "おくだ いろは",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2005-08-20",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:小川彩",
+   "name": "小川彩",
+   "yomi": "おがわ あや",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2007-06-27",
+   "birthplace": "千葉県",
+   "blood_type": "B型",
+   "height_cm": 154.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:岡本姫奈",
+   "name": "岡本姫奈",
+   "yomi": "おかもと ひな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2003-12-17",
+   "birthplace": "愛知県",
+   "blood_type": "A型",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:川﨑桜",
+   "name": "川﨑桜",
+   "yomi": "かわさき さくら",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2003-04-17",
+   "birthplace": "神奈川県",
+   "blood_type": "不明",
+   "height_cm": 155.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:池田瑛紗",
+   "name": "池田瑛紗",
+   "yomi": "いけだ てれさ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2002-05-12",
+   "birthplace": "東京都",
+   "blood_type": "不明",
+   "height_cm": 162.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:菅原咲月",
+   "name": "菅原咲月",
+   "yomi": "すがわら さつき",
+   "family": "nogizaka",
+   "generation": {
+    "label": "5期",
+    "group": 5,
+    "sort": 5.0
+   },
+   "join_date": "2022-02-01",
+   "graduation_date": null,
+   "birth_date": "2005-10-31",
+   "birthplace": "千葉県",
+   "blood_type": "A型",
+   "height_cm": 158.5,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:増田三莉音",
+   "name": "増田三莉音",
+   "yomi": "ますだ みりね",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2009-11-01",
+   "birthplace": "大阪府",
+   "blood_type": "O型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:大越ひなの",
+   "name": "大越ひなの",
+   "yomi": "おおこし ひなの",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2004-12-01",
+   "birthplace": "静岡県",
+   "blood_type": "B型",
+   "height_cm": 164.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:小津玲奈",
+   "name": "小津玲奈",
+   "yomi": "おづ れいな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2007-04-17",
+   "birthplace": "東京都",
+   "blood_type": "AB型",
+   "height_cm": 155.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:川端晃菜",
+   "name": "川端晃菜",
+   "yomi": "かわばた ひな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2011-01-14",
+   "birthplace": "東京都",
+   "blood_type": "B型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:愛宕心響",
+   "name": "愛宕心響",
+   "yomi": "あたご ここね",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2005-09-17",
+   "birthplace": "兵庫県",
+   "blood_type": "不明",
+   "height_cm": 160.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:森平麗心",
+   "name": "森平麗心",
+   "yomi": "もりひら うるみ",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2008-10-05",
+   "birthplace": "東京都",
+   "blood_type": "A型",
+   "height_cm": 156.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:海邉朱莉",
+   "name": "海邉朱莉",
+   "yomi": "かいべ あかり",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2007-02-14",
+   "birthplace": "兵庫県",
+   "blood_type": "O型",
+   "height_cm": 166.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:瀬戸口心月",
+   "name": "瀬戸口心月",
+   "yomi": "せとぐち みつき",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2005-07-16",
+   "birthplace": "鹿児島県",
+   "blood_type": "A型",
+   "height_cm": 153.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:矢田萌華",
+   "name": "矢田萌華",
+   "yomi": "やだ もえか",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2008-01-27",
+   "birthplace": "秋田県",
+   "blood_type": "B型",
+   "height_cm": 161.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:鈴木佑捺",
+   "name": "鈴木佑捺",
+   "yomi": "すずき ゆうな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2006-05-18",
+   "birthplace": "山梨県",
+   "blood_type": "AB型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:長嶋凛桜",
+   "name": "長嶋凛桜",
+   "yomi": "ながしま りお",
+   "family": "nogizaka",
+   "generation": {
+    "label": "6期",
+    "group": 6,
+    "sort": 6.0
+   },
+   "join_date": "2025-02-05",
+   "graduation_date": null,
+   "birth_date": "2007-05-25",
+   "birthplace": "北海道",
+   "blood_type": "A型",
+   "height_cm": 157.0,
+   "agency": null,
+   "note": null
+  },
+  {
+   "id": "nogizaka:松井玲奈",
+   "name": "松井玲奈",
+   "yomi": "まつい れな",
+   "family": "nogizaka",
+   "generation": {
+    "label": "交換留学",
+    "group": null,
+    "sort": null
+   },
+   "join_date": "2014-04-24",
+   "graduation_date": "2015-05-14",
+   "birth_date": "1991-07-27",
+   "birthplace": "愛知県",
+   "blood_type": "O型",
+   "height_cm": 162.0,
+   "agency": "A-PLUS",
+   "note": null
+  }
+ ]
+}

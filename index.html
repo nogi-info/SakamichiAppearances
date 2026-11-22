@@ -5,14 +5,225 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>坂道出演情報 | SakamichiAppearances</title>
 <style>
-  body { font-family: system-ui, -apple-system, "Hiragino Sans", sans-serif; margin: 2rem auto; max-width: 40rem; padding: 0 1rem; line-height: 1.7; color: #222; }
-  h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
-  .sub { color: #666; margin-top: 0; }
+  :root { --accent:#7e1083; --ink:#222; --muted:#666; --line:#e3e3e3; --chip:#f3e8f5; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Hiragino Sans", sans-serif; margin: 0 auto; max-width: 64rem; padding: 1.25rem 1rem 3rem; line-height: 1.6; color: var(--ink); }
+  h1 { font-size: 1.5rem; margin: 0.5rem 0 0.1rem; }
+  .sub { color: var(--muted); margin: 0 0 1rem; font-size: 0.9rem; }
+  .stats { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+  .stat { border: 1px solid var(--line); border-radius: 0.6rem; padding: 0.45rem 0.8rem; font-size: 0.9rem; }
+  .stat b { font-size: 1.1rem; }
+  .tabs { display: flex; gap: 0.5rem; margin: 1rem 0; }
+  .tabs button { border: 1px solid var(--line); background: #fff; border-radius: 999px; padding: 0.35rem 1rem; cursor: pointer; font-size: 0.95rem; }
+  .tabs button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+  .filters select, .filters input { padding: 0.4rem 0.5rem; border: 1px solid var(--line); border-radius: 0.4rem; font-size: 0.95rem; }
+  .filters input { flex: 1 1 12rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1rem; }
+  .card { border: 1px solid var(--line); border-radius: 0.7rem; overflow: hidden; display: flex; flex-direction: column; }
+  .card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+  .card .body { padding: 0.6rem 0.8rem 0.8rem; display: flex; flex-direction: column; gap: 0.3rem; }
+  .card .title { font-weight: 600; font-size: 0.95rem; line-height: 1.45; }
+  .card .title a { color: var(--ink); text-decoration: none; }
+  .card .title a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 0.82rem; }
+  .badge { display: inline-block; font-size: 0.75rem; padding: 0.05rem 0.5rem; border-radius: 999px; background: var(--chip); color: var(--accent); font-weight: 600; }
+  .badge.og { background: #eee; color: #555; }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .tag { font-size: 0.78rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.02rem 0.55rem; cursor: pointer; background: #fff; }
+  .tag:hover { border-color: var(--accent); color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.45rem 0.5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  .empty { color: var(--muted); padding: 2rem 0; text-align: center; }
+  .note { color: var(--muted); font-size: 0.85rem; margin-top: 1.5rem; }
+  .hidden { display: none; }
 </style>
 </head>
 <body>
 <h1>坂道出演情報</h1>
-<p class="sub">SakamichiAppearances</p>
-<p>坂道グループ（乃木坂46・櫻坂46・日向坂46）メンバーのYouTube出演動画をまとめるデータベースです。現在準備中です。</p>
+<p class="sub">SakamichiAppearances ― 坂道グループメンバーのYouTube出演動画データベース（試作：乃木坂46のみ）</p>
+
+<div class="stats" id="stats"></div>
+
+<div class="tabs">
+  <button id="tab-videos" class="on" type="button">動画一覧</button>
+  <button id="tab-members" type="button">メンバー一覧</button>
+</div>
+
+<section id="view-videos">
+  <div class="filters">
+    <input id="q" type="search" placeholder="タイトル・チャンネル名で検索">
+    <select id="f-category">
+      <option value="">区分：すべて</option>
+      <option value="official">公式</option>
+      <option value="appearance">出演</option>
+    </select>
+    <select id="f-member"><option value="">メンバー：すべて</option></select>
+    <select id="f-gen">
+      <option value="">期：すべて</option>
+    </select>
+    <select id="f-sort">
+      <option value="new">新着順</option>
+      <option value="views">再生数順</option>
+    </select>
+  </div>
+  <div class="grid" id="videos"></div>
+  <p class="empty hidden" id="videos-empty">条件に合う動画がありません。</p>
+  <p class="note">掲載対象は、公式チャンネルの動画と、正規のチャンネルと判定した外部チャンネルの出演動画のみです。切り抜き・まとめ・ニュース量産などのチャンネルの動画は、収集していても掲載しません。</p>
+</section>
+
+<section id="view-members" class="hidden">
+  <div class="filters">
+    <input id="mq" type="search" placeholder="名前・よみで検索">
+    <select id="mf-status">
+      <option value="">現役/OG：すべて</option>
+      <option value="active">現役</option>
+      <option value="og">OG</option>
+    </select>
+    <select id="mf-gen"><option value="">期：すべて</option></select>
+  </div>
+  <table>
+    <thead><tr><th>名前</th><th>期</th><th>状態</th><th>加入日</th><th>卒業日</th><th>備考</th></tr></thead>
+    <tbody id="members"></tbody>
+  </table>
+  <p class="empty hidden" id="members-empty">条件に合うメンバーがいません。</p>
+  <p class="note">状態（現役/OG）は、卒業日と今日の日付の比較でその都度判定しています。卒業予定日が入っているメンバーは、その日までは現役として表示されます。</p>
+</section>
+
+<script>
+const fmt = n => n == null ? "―" : n.toLocaleString("ja-JP");
+const fmtDate = iso => {
+  if (!iso) return "―";
+  const d = new Date(iso);
+  return d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", year: "numeric", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+};
+const todayStr = () => {
+  const d = new Date();
+  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+};
+// 現役/OGは保存せず、卒業日と今日の比較で導出する
+const statusOf = m => (!m.graduation_date || m.graduation_date > todayStr()) ? "active" : "og";
+
+let MEMBERS = [], VIDEOS = [], META = {};
+const memberByName = {};
+
+function genOptions(sel) {
+  const seen = new Map();
+  for (const m of MEMBERS) {
+    const g = m.generation;
+    const key = g.group == null ? "label:" + g.label : "group:" + g.group;
+    if (!seen.has(key)) seen.set(key, { key, label: g.group == null ? g.label : g.group + "期", sort: g.sort ?? 999 });
+  }
+  [...seen.values()].sort((a, b) => a.sort - b.sort).forEach(o => {
+    const el = document.createElement("option");
+    el.value = o.key; el.textContent = o.label;
+    sel.appendChild(el);
+  });
+}
+const genKeyOf = m => m.generation.group == null ? "label:" + m.generation.label : "group:" + m.generation.group;
+
+function renderStats() {
+  const active = MEMBERS.filter(m => statusOf(m) === "active").length;
+  document.getElementById("stats").innerHTML = [
+    ["対象メンバー", MEMBERS.length + "名"],
+    ["現役", active + "名"],
+    ["掲載動画", VIDEOS.length + "件"],
+    ["うち公式", (META.official ?? 0) + "件"],
+    ["うち出演", (META.appearance ?? 0) + "件"],
+    ["収集した候補", (META.collected_total ?? 0) + "件"],
+  ].map(([k, v]) => `<div class="stat">${k} <b>${v}</b></div>`).join("");
+}
+
+function renderVideos() {
+  const q = document.getElementById("q").value.trim();
+  const cat = document.getElementById("f-category").value;
+  const mem = document.getElementById("f-member").value;
+  const gen = document.getElementById("f-gen").value;
+  const sort = document.getElementById("f-sort").value;
+  let list = VIDEOS.filter(v =>
+    (!q || v.title.includes(q) || (v.channel_title || "").includes(q)) &&
+    (!cat || v.category === cat) &&
+    (!mem || v.members.includes(mem)) &&
+    (!gen || v.members.some(name => memberByName[name] && genKeyOf(memberByName[name]) === gen))
+  );
+  list.sort((a, b) => sort === "views" ? (b.views ?? -1) - (a.views ?? -1) : (b.published_at || "").localeCompare(a.published_at || ""));
+  document.getElementById("videos").innerHTML = list.map(v => `
+    <article class="card">
+      <a href="${v.url}" target="_blank" rel="noopener"><img src="${v.thumbnail}" alt="" loading="lazy"></a>
+      <div class="body">
+        <div><span class="badge">${v.category === "official" ? "公式" : "出演"}</span></div>
+        <div class="title"><a href="${v.url}" target="_blank" rel="noopener">${v.title}</a></div>
+        <div class="meta">${v.channel_title || ""}</div>
+        <div class="meta">${fmtDate(v.published_at)} ・ 再生 ${fmt(v.views)} ・ 高評価 ${fmt(v.likes)}</div>
+        <div class="tags">${v.members.map(name => `<button class="tag" type="button" data-member="${name}">${name}</button>`).join("")}</div>
+      </div>
+    </article>`).join("");
+  document.getElementById("videos-empty").classList.toggle("hidden", list.length > 0);
+  document.querySelectorAll(".tag[data-member]").forEach(el =>
+    el.addEventListener("click", () => {
+      document.getElementById("f-member").value = el.dataset.member;
+      renderVideos();
+    }));
+}
+
+function renderMembers() {
+  const q = document.getElementById("mq").value.trim();
+  const st = document.getElementById("mf-status").value;
+  const gen = document.getElementById("mf-gen").value;
+  const list = MEMBERS.filter(m =>
+    (!q || m.name.includes(q) || (m.yomi || "").includes(q)) &&
+    (!st || statusOf(m) === st) &&
+    (!gen || genKeyOf(m) === gen)
+  );
+  document.getElementById("members").innerHTML = list.map(m => {
+    const st = statusOf(m);
+    const future = st === "active" && m.graduation_date;
+    return `<tr>
+      <td><b>${m.name}</b><br><span class="meta">${m.yomi || ""}</span></td>
+      <td>${m.generation.label}</td>
+      <td><span class="badge ${st === "og" ? "og" : ""}">${st === "og" ? "OG" : "現役"}</span>${future ? `<br><span class="meta">${m.graduation_date} 卒業予定</span>` : ""}</td>
+      <td>${m.join_date || "―"}</td>
+      <td>${m.graduation_date || "―"}</td>
+      <td class="meta">${m.note || ""}</td>
+    </tr>`;
+  }).join("");
+  document.getElementById("members-empty").classList.toggle("hidden", list.length > 0);
+}
+
+async function init() {
+  const [mj, vj] = await Promise.all([
+    fetch("data/members.json").then(r => r.json()),
+    fetch("data/videos.json").then(r => r.json()),
+  ]);
+  MEMBERS = mj.members; VIDEOS = vj.videos; META = vj.meta;
+  MEMBERS.forEach(m => memberByName[m.name] = m);
+  const memSel = document.getElementById("f-member");
+  MEMBERS.filter(m => statusOf(m) === "active").forEach(m => {
+    const el = document.createElement("option");
+    el.value = m.name; el.textContent = `${m.name}（${m.generation.label}）`;
+    memSel.appendChild(el);
+  });
+  genOptions(document.getElementById("f-gen"));
+  genOptions(document.getElementById("mf-gen"));
+  renderStats(); renderVideos(); renderMembers();
+  ["q", "f-category", "f-member", "f-gen", "f-sort"].forEach(id =>
+    document.getElementById(id).addEventListener("input", renderVideos));
+  ["mq", "mf-status", "mf-gen"].forEach(id =>
+    document.getElementById(id).addEventListener("input", renderMembers));
+  const tv = document.getElementById("tab-videos"), tm = document.getElementById("tab-members");
+  tv.addEventListener("click", () => {
+    tv.classList.add("on"); tm.classList.remove("on");
+    document.getElementById("view-videos").classList.remove("hidden");
+    document.getElementById("view-members").classList.add("hidden");
+  });
+  tm.addEventListener("click", () => {
+    tm.classList.add("on"); tv.classList.remove("on");
+    document.getElementById("view-members").classList.remove("hidden");
+    document.getElementById("view-videos").classList.add("hidden");
+  });
+}
+init();
+</script>
 </body>
 </html>
