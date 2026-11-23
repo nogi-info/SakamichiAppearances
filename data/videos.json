@@ -2,8 +2,8 @@
  "meta": {
   "collected_total": 690,
   "official": 4,
-  "appearance": 24,
-  "excluded_not_legit_or_noise": 662
+  "appearance": 25,
+  "excluded_not_legit_or_noise": 661
  },
  "videos": [
   {
@@ -228,6 +228,23 @@
    "views": 11242,
    "likes": 47,
    "comments": 4,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "kpVTL4ImGP8",
+   "title": "🎬 𝘚𝘦𝘳𝘪𝘦𝘴𝟥「落書き」より #秋元真夏 さんオールアップ👏",
+   "url": "https://www.youtube.com/watch?v=kpVTL4ImGP8",
+   "thumbnail": "https://i.ytimg.com/vi/kpVTL4ImGP8/mqdefault.jpg",
+   "channel_id": "UC8BA7cueyDKCDGm4MooV5yg",
+   "channel_title": "0番ホームの掲示板",
+   "published_at": "2026-11-19T02:00:16Z",
+   "category": "appearance",
+   "members": [
+    "秋元真夏"
+   ],
+   "views": 1116,
+   "likes": 19,
+   "comments": 1,
    "stats_at": "2026-11-23T17:57:16.474913+09:00"
   },
   {
