@@ -2,8 +2,8 @@
  "meta": {
   "collected_total": 690,
   "official": 4,
-  "appearance": 20,
-  "excluded_not_legit_or_noise": 664,
+  "appearance": 23,
+  "excluded_not_legit_or_noise": 661,
   "excluded_user": 2
  },
  "videos": [
@@ -316,6 +316,57 @@
    "views": 35193,
    "likes": 887,
    "comments": 103,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "r5AHFO8EWx8",
+   "title": "『#つよくなるとき』高山一実さんコメント付き特別予告映像",
+   "url": "https://www.youtube.com/watch?v=r5AHFO8EWx8",
+   "thumbnail": "https://i.ytimg.com/vi/r5AHFO8EWx8/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:57Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 153,
+   "likes": 7,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "XTPJLnYOekI",
+   "title": "高山一実(タレント・作家)映画予告ナレーションに初挑戦！『#つよくなるとき』特別予告",
+   "url": "https://www.youtube.com/watch?v=XTPJLnYOekI",
+   "thumbnail": "https://i.ytimg.com/vi/XTPJLnYOekI/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:48Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 88,
+   "likes": 4,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "o8snuxl420I",
+   "title": "『#つよくなるとき』高山一実さん特別インタビュー映像",
+   "url": "https://www.youtube.com/watch?v=o8snuxl420I",
+   "thumbnail": "https://i.ytimg.com/vi/o8snuxl420I/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:04Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 502,
+   "likes": 10,
+   "comments": 1,
    "stats_at": "2026-11-23T17:57:16.474913+09:00"
   },
   {
