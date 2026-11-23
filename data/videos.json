@@ -1,11 +1,110 @@
 {
  "meta": {
-  "collected_total": 186,
-  "official": 0,
-  "appearance": 2,
-  "excluded_not_legit_or_noise": 184
+  "collected_total": 690,
+  "official": 4,
+  "appearance": 24,
+  "excluded_not_legit_or_noise": 662
  },
  "videos": [
+  {
+   "video_id": "VzoLv3-Rnt0",
+   "title": "【チャリ旅】自転車で東京を爆走...！？【池田presents企画】",
+   "url": "https://www.youtube.com/watch?v=VzoLv3-Rnt0",
+   "thumbnail": "https://i.ytimg.com/vi/VzoLv3-Rnt0/mqdefault.jpg",
+   "channel_id": "UCfvohDfHt1v5N8l3BzPRsWQ",
+   "channel_title": "乃木坂配信中",
+   "published_at": "2026-11-23T03:00:30Z",
+   "category": "official",
+   "members": [
+    "五百城茉央",
+    "池田瑛紗"
+   ],
+   "views": 163618,
+   "likes": 5692,
+   "comments": 434,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "fHdHPrJmnhM",
+   "title": "【日向坂46】ひなくり2026神戸参戦の翌朝に北野坂で『真夜中の懺悔大会』を現役アイドルが新・冬制服で踊ってみた！大野愛実ちゃんセンター曲【J-Palette 早坂百花】#日向坂46 #踊ってみた",
+   "url": "https://www.youtube.com/watch?v=fHdHPrJmnhM",
+   "thumbnail": "https://i.ytimg.com/vi/fHdHPrJmnhM/mqdefault.jpg",
+   "channel_id": "UCfgXtKb6COjLbENFtVeKDoA",
+   "channel_title": "J-palette公式ex全国美少女チャンネル",
+   "published_at": "2026-11-23T03:00:21Z",
+   "category": "appearance",
+   "members": [
+    "大野愛実"
+   ],
+   "views": 988,
+   "likes": 3,
+   "comments": 1,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "P7becuO3AdE",
+   "title": "【11月23日(月)20:00～】週刊乃木坂ニュース～『君ロス』ユニット曲解禁SP～ゲストメンバーあり！ MC：菅原咲月【毎週(月)夜に生配信】",
+   "url": "https://www.youtube.com/watch?v=P7becuO3AdE",
+   "thumbnail": "https://i.ytimg.com/vi/P7becuO3AdE/mqdefault.jpg",
+   "channel_id": "UCfvohDfHt1v5N8l3BzPRsWQ",
+   "channel_title": "乃木坂配信中",
+   "published_at": "2026-11-23T02:40:37Z",
+   "category": "official",
+   "members": [
+    "菅原咲月"
+   ],
+   "views": 2,
+   "likes": 116,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "Z6xkP2OiumY",
+   "title": "【⬆️本編はコチラ⬆️】松本和子のなりきりムスカ大佐😎【ダイジェスト 】#shorts #櫻坂チャンネル",
+   "url": "https://www.youtube.com/watch?v=Z6xkP2OiumY",
+   "thumbnail": "https://i.ytimg.com/vi/Z6xkP2OiumY/mqdefault.jpg",
+   "channel_id": "UCDNDlqJRz4FsO_ByfUNOSuQ",
+   "channel_title": "櫻坂チャンネル",
+   "published_at": "2026-11-23T02:27:55Z",
+   "category": "official",
+   "members": [
+    "松本和子"
+   ],
+   "views": 10409,
+   "likes": 933,
+   "comments": 26,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "6RP6pmE-ymI",
+   "title": "日豊本線日向市駅(日向坂46駅)ライブカメラ宮崎県日向市",
+   "url": "https://www.youtube.com/watch?v=6RP6pmE-ymI",
+   "thumbnail": "https://i.ytimg.com/vi/6RP6pmE-ymI/mqdefault.jpg",
+   "channel_id": "UCdXIAPsUb-KHeyf0i1pANXw",
+   "channel_title": "日豊本線日向市駅(日向坂46駅)ライブカメラ宮崎県日向市",
+   "published_at": "2026-11-22T20:55:05Z",
+   "category": "appearance",
+   "members": [],
+   "views": 138,
+   "likes": 1,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "Jk--UkyfB7I",
+   "title": "【公式】「乃木坂工事中」# 591「揚げたらうまいもん選手権 後編」2026.11.22 OA",
+   "url": "https://www.youtube.com/watch?v=Jk--UkyfB7I",
+   "thumbnail": "https://i.ytimg.com/vi/Jk--UkyfB7I/mqdefault.jpg",
+   "channel_id": "UCfvohDfHt1v5N8l3BzPRsWQ",
+   "channel_title": "乃木坂配信中",
+   "published_at": "2026-11-22T15:45:29Z",
+   "category": "official",
+   "members": [],
+   "views": 481407,
+   "likes": 9585,
+   "comments": 1450,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
   {
    "video_id": "TcbAqojjkgU",
    "title": "【アナタは誰推し!?】清宮フレンズ2026『破壊力抜群の“ゴツかわいさ”…新メンバー加入でビジュアル面の強化に成功!!!』",
@@ -19,10 +118,28 @@
     "金川紗耶",
     "黒見明香"
    ],
-   "views": 157019,
-   "likes": 3369,
-   "comments": 358,
-   "stats_at": "2026-11-22T17:57:22.919056+09:00"
+   "views": 335085,
+   "likes": 5215,
+   "comments": 536,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "U47wafKH92I",
+   "title": "櫻坂TALK ABOUT #70【話が通じなそうな目/大園玲/小田倉麗奈】",
+   "url": "https://www.youtube.com/watch?v=U47wafKH92I",
+   "thumbnail": "https://i.ytimg.com/vi/U47wafKH92I/mqdefault.jpg",
+   "channel_id": "UCUWzdBnPFl6gkiQe2YjQgAA",
+   "channel_title": "公式 TBS Podcast",
+   "published_at": "2026-11-21T14:37:36Z",
+   "category": "appearance",
+   "members": [
+    "大園玲",
+    "小田倉麗奈"
+   ],
+   "views": 12008,
+   "likes": 358,
+   "comments": 21,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
   },
   {
    "video_id": "lA0myamGewE",
@@ -40,10 +157,333 @@
     "岡本姫奈",
     "大越ひなの"
    ],
-   "views": 30118,
-   "likes": 508,
-   "comments": 46,
-   "stats_at": "2026-11-22T17:57:22.919056+09:00"
+   "views": 41566,
+   "likes": 563,
+   "comments": 52,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "D3wzIsUOzzU",
+   "title": "RESEXXY｜TGC 富山 2026",
+   "url": "https://www.youtube.com/watch?v=D3wzIsUOzzU",
+   "thumbnail": "https://i.ytimg.com/vi/D3wzIsUOzzU/mqdefault.jpg",
+   "channel_id": "UCTfEtX6t1sFquTY1HyRXqKw",
+   "channel_title": "TOKYO GIRLS COLLECTION",
+   "published_at": "2026-11-21T10:31:15Z",
+   "category": "appearance",
+   "members": [
+    "小林由依"
+   ],
+   "views": 5195,
+   "likes": 59,
+   "comments": 10,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "33n94jfF0wM",
+   "title": "LOWRYS FARM｜SBI GROUP presents TGC 富山 2026",
+   "url": "https://www.youtube.com/watch?v=33n94jfF0wM",
+   "thumbnail": "https://i.ytimg.com/vi/33n94jfF0wM/mqdefault.jpg",
+   "channel_id": "UCTfEtX6t1sFquTY1HyRXqKw",
+   "channel_title": "TOKYO GIRLS COLLECTION",
+   "published_at": "2026-11-21T08:41:19Z",
+   "category": "appearance",
+   "members": [
+    "小林由依"
+   ],
+   "views": 8757,
+   "likes": 38,
+   "comments": 3,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "atTHf0PGJzw",
+   "title": "影山優佳、三浦透子からコミュ力を褒められつい自虐「うるさいだけ笑」ムードメーカーっぷりチラリ",
+   "url": "https://www.youtube.com/watch?v=atTHf0PGJzw",
+   "thumbnail": "https://i.ytimg.com/vi/atTHf0PGJzw/mqdefault.jpg",
+   "channel_id": "UCD0CcyMnVhEeAV5tNVM04cg",
+   "channel_title": "マイナビニュース【エンタメ・ホビー】",
+   "published_at": "2026-11-19T06:53:26Z",
+   "category": "appearance",
+   "members": [
+    "影山優佳"
+   ],
+   "views": 9744,
+   "likes": 29,
+   "comments": 1,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "5hicWFp0wDw",
+   "title": "影山優佳 、自虐交じりに自身と役柄の共通点を明かす　『リアルワールド』記者発表会",
+   "url": "https://www.youtube.com/watch?v=5hicWFp0wDw",
+   "thumbnail": "https://i.ytimg.com/vi/5hicWFp0wDw/mqdefault.jpg",
+   "channel_id": "UCRxDTCmIjgli-Xgh2KPE9dA",
+   "channel_title": "シネマトゥデイ",
+   "published_at": "2026-11-19T06:34:11Z",
+   "category": "appearance",
+   "members": [
+    "影山優佳"
+   ],
+   "views": 11242,
+   "likes": 47,
+   "comments": 4,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "yFjZUC9fezg",
+   "title": "【まだやってない人へ】若者こそ今すぐ始めないと損？筋トレが老後の貯金となる意外すぎる事実とは｜高山一実の推しごと",
+   "url": "https://www.youtube.com/watch?v=yFjZUC9fezg",
+   "thumbnail": "https://i.ytimg.com/vi/yFjZUC9fezg/mqdefault.jpg",
+   "channel_id": "UCRCI6zdxPdDyBLKNH0q3vug",
+   "channel_title": "mynt  公式チャンネル",
+   "published_at": "2026-11-18T10:00:34Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 61892,
+   "likes": 63,
+   "comments": 5,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "KDv6kCpO3kc",
+   "title": "本日 23:56〜 放送TBS #よるのブランチ に出演させていただきます！#秋元真夏 さんにMic One Two🎤💞",
+   "url": "https://www.youtube.com/watch?v=KDv6kCpO3kc",
+   "thumbnail": "https://i.ytimg.com/vi/KDv6kCpO3kc/mqdefault.jpg",
+   "channel_id": "UCbArTAvm5ldTLlCE3qyUs3g",
+   "channel_title": "MISS MERCY",
+   "published_at": "2026-11-18T09:06:04Z",
+   "category": "appearance",
+   "members": [
+    "秋元真夏"
+   ],
+   "views": 5195,
+   "likes": 244,
+   "comments": 3,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "nQIJMoaKxtg",
+   "title": "高山一実、元K-POPアイドル描く 映画予告のナレーションに初挑戦",
+   "url": "https://www.youtube.com/watch?v=nQIJMoaKxtg",
+   "thumbnail": "https://i.ytimg.com/vi/nQIJMoaKxtg/mqdefault.jpg",
+   "channel_id": "UCD0CcyMnVhEeAV5tNVM04cg",
+   "channel_title": "マイナビニュース【エンタメ・ホビー】",
+   "published_at": "2026-11-18T05:59:25Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 5503,
+   "likes": 8,
+   "comments": 1,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "zO1UzIZbG2s",
+   "title": "【高山一実、アイドル時代の葛藤を告白】「人を信じるって難しい」自身の経験と重ねた映画とは？／映画『#つよくなるとき』高山一実コメント付き予告",
+   "url": "https://www.youtube.com/watch?v=zO1UzIZbG2s",
+   "thumbnail": "https://i.ytimg.com/vi/zO1UzIZbG2s/mqdefault.jpg",
+   "channel_id": "UCDHBN6c7uHLyjZcxGdChZWA",
+   "channel_title": "moviecollectionjp",
+   "published_at": "2026-11-18T03:30:10Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 2811,
+   "likes": 10,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "kOzDxqmeQqo",
+   "title": "【常にアップデート】ディズニーは進化し続けている #mynt #高山一実",
+   "url": "https://www.youtube.com/watch?v=kOzDxqmeQqo",
+   "thumbnail": "https://i.ytimg.com/vi/kOzDxqmeQqo/mqdefault.jpg",
+   "channel_id": "UCRCI6zdxPdDyBLKNH0q3vug",
+   "channel_title": "mynt  公式チャンネル",
+   "published_at": "2026-11-17T10:00:23Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 1586,
+   "likes": 4,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "-iRhcOE6eYw",
+   "title": "【ご褒美企画】秋元真夏のチートデイ‼バター・生クリームをたっぷり堪能！",
+   "url": "https://www.youtube.com/watch?v=-iRhcOE6eYw",
+   "thumbnail": "https://i.ytimg.com/vi/-iRhcOE6eYw/mqdefault.jpg",
+   "channel_id": "UCnYJK7R2UXQtdyA0rdqOpXA",
+   "channel_title": "ゆるふわちゃんねる",
+   "published_at": "2026-11-17T09:00:13Z",
+   "category": "appearance",
+   "members": [
+    "秋元真夏"
+   ],
+   "views": 35193,
+   "likes": 887,
+   "comments": 103,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "r5AHFO8EWx8",
+   "title": "『#つよくなるとき』高山一実さんコメント付き特別予告映像",
+   "url": "https://www.youtube.com/watch?v=r5AHFO8EWx8",
+   "thumbnail": "https://i.ytimg.com/vi/r5AHFO8EWx8/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:57Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 153,
+   "likes": 7,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "XTPJLnYOekI",
+   "title": "高山一実(タレント・作家)映画予告ナレーションに初挑戦！『#つよくなるとき』特別予告",
+   "url": "https://www.youtube.com/watch?v=XTPJLnYOekI",
+   "thumbnail": "https://i.ytimg.com/vi/XTPJLnYOekI/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:48Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 88,
+   "likes": 4,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "o8snuxl420I",
+   "title": "『#つよくなるとき』高山一実さん特別インタビュー映像",
+   "url": "https://www.youtube.com/watch?v=o8snuxl420I",
+   "thumbnail": "https://i.ytimg.com/vi/o8snuxl420I/mqdefault.jpg",
+   "channel_id": "UC3HqFHFpEsQMn5T64DH6mBw",
+   "channel_title": "Elles Films",
+   "published_at": "2026-11-17T02:11:04Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 502,
+   "likes": 10,
+   "comments": 1,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "ACUN4yPhdPQ",
+   "title": "元K-POPアイドル描く『#つよくなるとき』高山一実コメント付き特別予告【2026年11月20日公開】",
+   "url": "https://www.youtube.com/watch?v=ACUN4yPhdPQ",
+   "thumbnail": "https://i.ytimg.com/vi/ACUN4yPhdPQ/mqdefault.jpg",
+   "channel_id": "UCYFuqPMLxH6DenFAlLeY58A",
+   "channel_title": "オリコン洋画館 ORICON NEWS",
+   "published_at": "2026-11-17T02:09:52Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 816,
+   "likes": 4,
+   "comments": 1,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "g0y-ONqRo3A",
+   "title": "高山一実、映画予告のナレーションに初挑戦！元乃木坂46として“アイドル”という存在への思いを込める　映画『#つよくなるとき』特別予告",
+   "url": "https://www.youtube.com/watch?v=g0y-ONqRo3A",
+   "thumbnail": "https://i.ytimg.com/vi/g0y-ONqRo3A/mqdefault.jpg",
+   "channel_id": "UCbZvkG2uAgr6Oiva4FytscQ",
+   "channel_title": "oricon",
+   "published_at": "2026-11-17T02:00:36Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 5335,
+   "likes": 48,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "zpXxZbwsbpk",
+   "title": "高山一実が映画予告ナレーション初挑戦『#つよくなるとき』コメント付き特別予告",
+   "url": "https://www.youtube.com/watch?v=zpXxZbwsbpk",
+   "thumbnail": "https://i.ytimg.com/vi/zpXxZbwsbpk/mqdefault.jpg",
+   "channel_id": "UC-ZryC2pJPhj_uv6YwWRKdQ",
+   "channel_title": "WEEKEND CINEMA ー最高の週末を、映画とともに。",
+   "published_at": "2026-11-17T02:00:00Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 166,
+   "likes": 2,
+   "comments": 0,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "Fnxj0eHZ0Ck",
+   "title": "【初耳怪談】※実際にあった※元アイドルの《遺書》を公開※恐怖※ユタでも祓えない…女優に憑いた生霊がヤバい【渡邉美穂】【やついいちろう】【島田秀平】【吉田猛々】【たっくー】【ガンジー横須賀】",
+   "url": "https://www.youtube.com/watch?v=Fnxj0eHZ0Ck",
+   "thumbnail": "https://i.ytimg.com/vi/Fnxj0eHZ0Ck/mqdefault.jpg",
+   "channel_id": "UCAERcCeke3w3YHdod0x1FBQ",
+   "channel_title": "初耳怪談",
+   "published_at": "2026-11-16T11:00:01Z",
+   "category": "appearance",
+   "members": [
+    "渡邉美穂"
+   ],
+   "views": 490779,
+   "likes": 4869,
+   "comments": 223,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "nPFlk76t_sI",
+   "title": "【売上約7000億円】オリエンタルランドが作った夢の国ディズニー #高山一実 #mynt",
+   "url": "https://www.youtube.com/watch?v=nPFlk76t_sI",
+   "thumbnail": "https://i.ytimg.com/vi/nPFlk76t_sI/mqdefault.jpg",
+   "channel_id": "UCRCI6zdxPdDyBLKNH0q3vug",
+   "channel_title": "mynt  公式チャンネル",
+   "published_at": "2026-11-16T10:00:35Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "views": 11817,
+   "likes": 32,
+   "comments": 4,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
+  },
+  {
+   "video_id": "jGlyorwrCOw",
+   "title": "ディズニー・クリスマスをFRUITS ZIPPER 真中まな＆松本かれんと原田葵アナが満喫リポート！初ディズニーロケでやる気MAX！ガチダンス・独特食リポ炸裂！？【めざましどようび完全版】",
+   "url": "https://www.youtube.com/watch?v=jGlyorwrCOw",
+   "thumbnail": "https://i.ytimg.com/vi/jGlyorwrCOw/mqdefault.jpg",
+   "channel_id": "UC3gp1pr5NYX87DU7nPjlmpA",
+   "channel_title": "めざましmedia",
+   "published_at": "2026-11-16T09:00:02Z",
+   "category": "appearance",
+   "members": [
+    "原田葵"
+   ],
+   "views": 162991,
+   "likes": 1374,
+   "comments": 58,
+   "stats_at": "2026-11-23T17:57:16.474913+09:00"
   }
  ]
 }
