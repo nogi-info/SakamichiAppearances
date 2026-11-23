@@ -2,8 +2,9 @@
  "meta": {
   "collected_total": 690,
   "official": 4,
-  "appearance": 25,
-  "excluded_not_legit_or_noise": 661
+  "appearance": 23,
+  "excluded_not_legit_or_noise": 661,
+  "excluded_user": 2
  },
  "videos": [
   {
@@ -22,23 +23,6 @@
    "views": 163618,
    "likes": 5692,
    "comments": 434,
-   "stats_at": "2026-11-23T17:57:16.474913+09:00"
-  },
-  {
-   "video_id": "fHdHPrJmnhM",
-   "title": "【日向坂46】ひなくり2026神戸参戦の翌朝に北野坂で『真夜中の懺悔大会』を現役アイドルが新・冬制服で踊ってみた！大野愛実ちゃんセンター曲【J-Palette 早坂百花】#日向坂46 #踊ってみた",
-   "url": "https://www.youtube.com/watch?v=fHdHPrJmnhM",
-   "thumbnail": "https://i.ytimg.com/vi/fHdHPrJmnhM/mqdefault.jpg",
-   "channel_id": "UCfgXtKb6COjLbENFtVeKDoA",
-   "channel_title": "J-palette公式ex全国美少女チャンネル",
-   "published_at": "2026-11-23T03:00:21Z",
-   "category": "appearance",
-   "members": [
-    "大野愛実"
-   ],
-   "views": 988,
-   "likes": 3,
-   "comments": 1,
    "stats_at": "2026-11-23T17:57:16.474913+09:00"
   },
   {
@@ -73,21 +57,6 @@
    "views": 10409,
    "likes": 933,
    "comments": 26,
-   "stats_at": "2026-11-23T17:57:16.474913+09:00"
-  },
-  {
-   "video_id": "6RP6pmE-ymI",
-   "title": "日豊本線日向市駅(日向坂46駅)ライブカメラ宮崎県日向市",
-   "url": "https://www.youtube.com/watch?v=6RP6pmE-ymI",
-   "thumbnail": "https://i.ytimg.com/vi/6RP6pmE-ymI/mqdefault.jpg",
-   "channel_id": "UCdXIAPsUb-KHeyf0i1pANXw",
-   "channel_title": "日豊本線日向市駅(日向坂46駅)ライブカメラ宮崎県日向市",
-   "published_at": "2026-11-22T20:55:05Z",
-   "category": "appearance",
-   "members": [],
-   "views": 138,
-   "likes": 1,
-   "comments": 0,
    "stats_at": "2026-11-23T17:57:16.474913+09:00"
   },
   {
