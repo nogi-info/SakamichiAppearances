@@ -2,9 +2,10 @@
  "meta": {
   "collected_total": 1184,
   "official": 5,
-  "appearance": 33,
+  "appearance": 30,
   "excluded_not_legit_or_noise": 1144,
-  "excluded_user": 2
+  "excluded_user": 5,
+  "held_no_member_match": 0
  },
  "videos": [
   {
@@ -20,36 +21,6 @@
    "views": 5016,
    "likes": 313,
    "comments": 12,
-   "stats_at": "2026-11-24T17:57:13.187979+09:00"
-  },
-  {
-   "video_id": "YMzM83Zifcc",
-   "title": "アイドルオタクが乃木坂46に転職した末路💃#社会人 #転職 #第二新卒 #ホワイト企業 #キャリカミ",
-   "url": "https://www.youtube.com/watch?v=YMzM83Zifcc",
-   "thumbnail": "https://i.ytimg.com/vi/YMzM83Zifcc/mqdefault.jpg",
-   "channel_id": "UCFbu-srHK4PIJS5UKZEKK3A",
-   "channel_title": "森山【キャリカミ広報】",
-   "published_at": "2026-11-24T02:00:34Z",
-   "category": "appearance",
-   "members": [],
-   "views": 3555,
-   "likes": 52,
-   "comments": 6,
-   "stats_at": "2026-11-24T17:57:13.187979+09:00"
-  },
-  {
-   "video_id": "STzPhAEbTZM",
-   "title": "日向坂46神戸ワールド記念",
-   "url": "https://www.youtube.com/watch?v=STzPhAEbTZM",
-   "thumbnail": "https://i.ytimg.com/vi/STzPhAEbTZM/mqdefault.jpg",
-   "channel_id": "UCO4zJwrMayZcsYaubck2emQ",
-   "channel_title": "長田タンク筋",
-   "published_at": "2026-11-24T01:42:03Z",
-   "category": "appearance",
-   "members": [],
-   "views": 4,
-   "likes": 2,
-   "comments": 0,
    "stats_at": "2026-11-24T17:57:13.187979+09:00"
   },
   {
@@ -101,21 +72,6 @@
    "views": 37268,
    "likes": 406,
    "comments": 30,
-   "stats_at": "2026-11-24T17:57:13.187979+09:00"
-  },
-  {
-   "video_id": "uHVzD5-9BiA",
-   "title": "【ベストナイン】法政大学(２年)／捕手 井上 和輝（東京六大学野球２０２６年 秋季リーグ戦）",
-   "url": "https://www.youtube.com/watch?v=uHVzD5-9BiA",
-   "thumbnail": "https://i.ytimg.com/vi/uHVzD5-9BiA/mqdefault.jpg",
-   "channel_id": "UCMIuWkjScXeQKG46ndHYh5w",
-   "channel_title": "東京六大学野球連盟「公認」チャンネル",
-   "published_at": "2026-11-23T08:00:11Z",
-   "category": "appearance",
-   "members": [],
-   "views": 4593,
-   "likes": 40,
-   "comments": 11,
    "stats_at": "2026-11-24T17:57:13.187979+09:00"
   },
   {
