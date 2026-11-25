@@ -2,10 +2,10 @@
  "meta": {
   "collected_total": 1697,
   "official": 10,
-  "appearance": 62,
+  "appearance": 63,
   "excluded_not_legit_or_noise": 1619,
   "excluded_user": 5,
-  "held_no_member_match": 1
+  "held_no_member_match": 0
  },
  "videos": [
   {
@@ -565,6 +565,23 @@
    "views": 463,
    "likes": 18,
    "comments": 1,
+   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+  },
+  {
+   "video_id": "035NnlkfmWQ",
+   "title": "元櫻坂４６武元さん緊急参戦！山手線１周 第２話！高輪おばけトンネル〜鶯谷駅ラブホ街",
+   "url": "https://www.youtube.com/watch?v=035NnlkfmWQ",
+   "thumbnail": "https://i.ytimg.com/vi/035NnlkfmWQ/mqdefault.jpg",
+   "channel_id": "UCL2TVHvzfnvO4qoo09Gs0Aw",
+   "channel_title": "ブクチャリ〜東ブクロ、自転車はじめます〜",
+   "published_at": "2026-11-22T03:08:02Z",
+   "category": "appearance",
+   "members": [
+    "武元唯衣"
+   ],
+   "views": 129676,
+   "likes": 1586,
+   "comments": 134,
    "stats_at": "2026-11-25T17:57:17.240784+09:00"
   },
   {
