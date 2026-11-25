@@ -2,9 +2,9 @@
  "meta": {
   "collected_total": 1697,
   "official": 10,
-  "appearance": 63,
+  "appearance": 62,
   "excluded_not_legit_or_noise": 1619,
-  "excluded_user": 5,
+  "excluded_user": 6,
   "held_no_member_match": 0
  },
  "videos": [
@@ -293,23 +293,6 @@
    "views": 41860,
    "likes": null,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
-  },
-  {
-   "video_id": "88GNjw1HzxA",
-   "title": "いちねん(のぶきよ)が勝手に考えた日向坂46メンバーの自己紹介ギャグ【大田美月】さん",
-   "url": "https://www.youtube.com/watch?v=88GNjw1HzxA",
-   "thumbnail": "https://i.ytimg.com/vi/88GNjw1HzxA/mqdefault.jpg",
-   "channel_id": "UCzqgmDEkeSY907WP6euzZ_w",
-   "channel_title": "よしもとおひさま化計画チャンネル",
-   "published_at": "2026-11-23T11:00:27Z",
-   "category": "appearance",
-   "members": [
-    "大田美月"
-   ],
-   "views": 4771,
-   "likes": 104,
-   "comments": 7,
    "stats_at": "2026-11-25T17:57:17.240784+09:00"
   },
   {
