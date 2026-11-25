@@ -175,7 +175,7 @@ function renderVideos() {
     <article class="card">
       <a href="${v.url}" target="_blank" rel="noopener"><img src="${v.thumbnail}" alt="" loading="lazy"></a>
       <div class="body">
-        <div><span class="badge">${v.category === "official" ? "公式" : "出演"}</span>${v.broadcast_content === "upcoming" ? ` <span class="badge og">公開予約${v.scheduled_start_time ? " " + fmtDate(v.scheduled_start_time) : ""}</span>` : v.broadcast_content === "live" ? ` <span class="badge og">配信中</span>` : ""}</div>
+        <div><span class="badge">${v.category === "official" ? "公式" : "出演"}</span>${v.broadcast_content === "upcoming" ? ` <span class="badge og">公開予約${v.scheduled_start_time ? " " + fmtDate(v.scheduled_start_time) : ""}</span>` : ""}</div>
         <div class="title"><a href="${v.url}" target="_blank" rel="noopener">${v.title}</a></div>
         <div class="meta">${v.channel_title || ""}</div>
         <div class="meta">${fmtDate(v.published_at)} ・ 再生 ${fmt(v.views)} ・ 高評価 ${fmt(v.likes)}</div>
