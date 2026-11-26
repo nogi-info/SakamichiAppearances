@@ -1,13 +1,156 @@
 {
  "meta": {
-  "collected_total": 1697,
-  "official": 10,
-  "appearance": 62,
-  "excluded_not_legit_or_noise": 1619,
+  "collected_total": 2172,
+  "official": 11,
+  "appearance": 87,
+  "excluded_not_legit_or_noise": 2065,
   "excluded_user": 6,
-  "held_no_member_match": 0
+  "held_no_member_match": 3
  },
  "videos": [
+  {
+   "video_id": "Ak4LgadpC44",
+   "title": "寂しさとは当たり前のようにそこにいたはずの誰かの影 #乃木坂46_君ロス#乃木坂46",
+   "url": "https://www.youtube.com/watch?v=Ak4LgadpC44",
+   "thumbnail": "https://i.ytimg.com/vi/Ak4LgadpC44/mqdefault.jpg",
+   "channel_id": "UCUzpZpX2wRYOk3J8QTFGxDg",
+   "channel_title": "乃木坂46 OFFICIAL YouTube CHANNEL",
+   "published_at": "2026-11-26T08:30:04Z",
+   "category": "official",
+   "members": [],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 6578,
+   "likes": 550,
+   "comments": 24,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "UcNNTcUWeUs",
+   "title": "【ブチギレ】指示を聞いてもらえない金川紗耶 #乃木坂46 #東パソ",
+   "url": "https://www.youtube.com/watch?v=UcNNTcUWeUs",
+   "thumbnail": "https://i.ytimg.com/vi/UcNNTcUWeUs/mqdefault.jpg",
+   "channel_id": "UCN6YOfSY67Cj16kIwvBjRaA",
+   "channel_title": "東京パソコンクラブ【公式】乃木坂46 × ゲーム",
+   "published_at": "2026-11-26T03:30:19Z",
+   "category": "appearance",
+   "members": [
+    "金川紗耶",
+    "林瑠奈",
+    "弓木奈於",
+    "岡本姫奈",
+    "大越ひなの"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 20999,
+   "likes": 785,
+   "comments": 38,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "EwIV0YaVT5U",
+   "title": "【必死】“長”の座を死守する弓木奈於 #乃木坂46 #東パソ",
+   "url": "https://www.youtube.com/watch?v=EwIV0YaVT5U",
+   "thumbnail": "https://i.ytimg.com/vi/EwIV0YaVT5U/mqdefault.jpg",
+   "channel_id": "UCN6YOfSY67Cj16kIwvBjRaA",
+   "channel_title": "東京パソコンクラブ【公式】乃木坂46 × ゲーム",
+   "published_at": "2026-11-26T03:00:01Z",
+   "category": "appearance",
+   "members": [
+    "金川紗耶",
+    "林瑠奈",
+    "弓木奈於",
+    "岡本姫奈",
+    "大越ひなの"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 7756,
+   "likes": 321,
+   "comments": 11,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "aSCPW4dlmyo",
+   "title": "【ドヤ顔】番組特権をアピールする弓木奈於 #乃木坂46 #東パソ",
+   "url": "https://www.youtube.com/watch?v=aSCPW4dlmyo",
+   "thumbnail": "https://i.ytimg.com/vi/aSCPW4dlmyo/mqdefault.jpg",
+   "channel_id": "UCN6YOfSY67Cj16kIwvBjRaA",
+   "channel_title": "東京パソコンクラブ【公式】乃木坂46 × ゲーム",
+   "published_at": "2026-11-26T02:30:32Z",
+   "category": "appearance",
+   "members": [
+    "金川紗耶",
+    "林瑠奈",
+    "弓木奈於",
+    "岡本姫奈",
+    "大越ひなの"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 16130,
+   "likes": 517,
+   "comments": 21,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "QzqWNFIC8Ls",
+   "title": "前田拳太郎が舞台挨拶で大ボケ！映画『巨頭ｵ』の見どころを聞かれ「王道ラブコメディになっています」に久保史緒里フリーズ！映画『巨頭ｵ』完成披露上映会【トークノーカット】",
+   "url": "https://www.youtube.com/watch?v=QzqWNFIC8Ls",
+   "thumbnail": "https://i.ytimg.com/vi/QzqWNFIC8Ls/mqdefault.jpg",
+   "channel_id": "UC5tpqrGMUhFrlOvdkr3IYbA",
+   "channel_title": "NB Press Online",
+   "published_at": "2026-11-25T15:19:27Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 233,
+   "likes": 9,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "BvPoFN60LqA",
+   "title": "大人になんかなるもんか大人になんかなれるもんか 川後陽菜 & YONAKA Band New EP『Meteor』収録曲「大人になんかなるもんか」",
+   "url": "https://www.youtube.com/watch?v=BvPoFN60LqA",
+   "thumbnail": "https://i.ytimg.com/vi/BvPoFN60LqA/mqdefault.jpg",
+   "channel_id": "UCygUvA0j15FpHp6kv2IuQYA",
+   "channel_title": "川後陽菜 / Hina Kawago",
+   "published_at": "2026-11-25T10:00:01Z",
+   "category": "appearance",
+   "members": [
+    "川後陽菜"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1125,
+   "likes": 30,
+   "comments": 4,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "IsW05CDQXac",
+   "title": "いちねん(のぶきよ)が勝手に考えた日向坂46メンバーの自己紹介ギャグ【片山紗希】さん",
+   "url": "https://www.youtube.com/watch?v=IsW05CDQXac",
+   "thumbnail": "https://i.ytimg.com/vi/IsW05CDQXac/mqdefault.jpg",
+   "channel_id": "UCzqgmDEkeSY907WP6euzZ_w",
+   "channel_title": "よしもとおひさま化計画チャンネル",
+   "published_at": "2026-11-25T09:00:36Z",
+   "category": "appearance",
+   "members": [
+    "片山紗希"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2350,
+   "likes": 71,
+   "comments": 5,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
   {
    "video_id": "CaH5DeWfRvY",
    "title": "言わなくたって わかっていると勝手にそう思い込んでいた #乃木坂46_君ロス#乃木坂46",
@@ -18,12 +161,12 @@
    "published_at": "2026-11-25T08:30:01Z",
    "category": "official",
    "members": [],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2515,
-   "likes": 384,
-   "comments": 18,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 68084,
+   "likes": 3628,
+   "comments": 108,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "kR6m_kyFOis",
@@ -37,12 +180,12 @@
    "members": [
     "金村美玖"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 796,
-   "likes": 7,
+   "views": 1415,
+   "likes": 15,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "RjKcMVGvorU",
@@ -54,12 +197,12 @@
    "published_at": "2026-11-25T03:00:24Z",
    "category": "official",
    "members": [],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 82757,
-   "likes": 3349,
-   "comments": 245,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 279401,
+   "likes": 6219,
+   "comments": 396,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "3WzqWQ1GeMA",
@@ -73,12 +216,12 @@
    "members": [
     "渡辺みり愛"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 728,
-   "likes": 26,
+   "views": 850,
+   "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "DjODNfYIUmw",
@@ -96,12 +239,12 @@
     "浅井恋乃未",
     "稲熊ひな"
    ],
-   "broadcast_content": null,
-   "scheduled_start_time": null,
-   "views": 427183,
-   "likes": 7310,
-   "comments": 194,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-24T11:00:00Z",
+   "views": 506244,
+   "likes": 7935,
+   "comments": 246,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "p_VX-J39eRc",
@@ -115,12 +258,12 @@
    "members": [
     "一ノ瀬美空"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 51635,
+   "views": 103966,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "nvTQ53uDiZY",
@@ -134,12 +277,12 @@
    "members": [
     "一ノ瀬美空"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 20321,
+   "views": 36770,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "PBt8PaRgdc0",
@@ -153,12 +296,12 @@
    "members": [
     "丹生明里"
    ],
-   "broadcast_content": "live",
+   "broadcast_content": "none",
    "scheduled_start_time": "2026-11-25T10:30:00Z",
-   "views": 0,
-   "likes": 25,
-   "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 25443,
+   "likes": 386,
+   "comments": 13,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "SZzhH6evVDM",
@@ -172,12 +315,12 @@
    "members": [
     "渡邉美穂"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 19981,
-   "likes": 373,
-   "comments": 8,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 30626,
+   "likes": 468,
+   "comments": 9,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "xdf2-SFtUW4",
@@ -191,12 +334,50 @@
    "members": [
     "正源司陽子"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 18672,
-   "likes": 1064,
-   "comments": 14,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 22323,
+   "likes": 1221,
+   "comments": 19,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "aKmhalJpx7M",
+   "title": "前田拳太郎、久保史緒里（元乃木坂46）共に“苦手”なホラー作品に出演　映画初主演の前田は「なんとかして逃げられないかなと」",
+   "url": "https://www.youtube.com/watch?v=aKmhalJpx7M",
+   "thumbnail": "https://i.ytimg.com/vi/aKmhalJpx7M/mqdefault.jpg",
+   "channel_id": "UCVCjfH_lIJGUdfotrN5Fftg",
+   "channel_title": "ENCOUNT｜エンカウント",
+   "published_at": "2026-11-24T12:10:52Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1370,
+   "likes": 9,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "Y8jeUzU6Tis",
+   "title": "【巨頭ｵ】近藤亮太監督、『リング』『呪怨』出演俳優を起用していたことを明かす！映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=Y8jeUzU6Tis",
+   "thumbnail": "https://i.ytimg.com/vi/Y8jeUzU6Tis/mqdefault.jpg",
+   "channel_id": "UCRxDTCmIjgli-Xgh2KPE9dA",
+   "channel_title": "シネマトゥデイ",
+   "published_at": "2026-11-24T12:08:16Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 4715,
+   "likes": 18,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "yUCxsIyvkgI",
@@ -210,12 +391,202 @@
    "members": [
     "小坂菜緒"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 13224,
-   "likes": 1147,
-   "comments": 22,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 15705,
+   "likes": 1329,
+   "comments": 25,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "YEOXv5Y9fZw",
+   "title": "前田拳太郎、久保史緒里（元乃木坂46）共に“苦手”なホラー作品に出演　映画初主演の前田は「なんとかして逃げられないかなと」",
+   "url": "https://www.youtube.com/watch?v=YEOXv5Y9fZw",
+   "thumbnail": "https://i.ytimg.com/vi/YEOXv5Y9fZw/mqdefault.jpg",
+   "channel_id": "UCVCjfH_lIJGUdfotrN5Fftg",
+   "channel_title": "ENCOUNT｜エンカウント",
+   "published_at": "2026-11-24T11:44:24Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 438,
+   "likes": 4,
+   "comments": 1,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "geOi0W-BGbc",
+   "title": "【巨頭ｵ】久保史緒里、撮影中に悪ノリする前田拳太郎ら男性陣に一喝!?　映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=geOi0W-BGbc",
+   "thumbnail": "https://i.ytimg.com/vi/geOi0W-BGbc/mqdefault.jpg",
+   "channel_id": "UCRxDTCmIjgli-Xgh2KPE9dA",
+   "channel_title": "シネマトゥデイ",
+   "published_at": "2026-11-24T11:38:26Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 5028,
+   "likes": 37,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "C2LzQZP7Yhc",
+   "title": "【巨頭ｵ】前田拳太郎、舞台あいさつで突然のボケ＆現場での“悪ノリ”も発覚!?　映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=C2LzQZP7Yhc",
+   "thumbnail": "https://i.ytimg.com/vi/C2LzQZP7Yhc/mqdefault.jpg",
+   "channel_id": "UCRxDTCmIjgli-Xgh2KPE9dA",
+   "channel_title": "シネマトゥデイ",
+   "published_at": "2026-11-24T10:58:33Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2921,
+   "likes": 17,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "bnN1mRDrVbk",
+   "title": "“ホラー苦手”前田拳太郎＆久保史緒里、監督にクレーム？「怖い話から逃げられない」　映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=bnN1mRDrVbk",
+   "thumbnail": "https://i.ytimg.com/vi/bnN1mRDrVbk/mqdefault.jpg",
+   "channel_id": "UCbZvkG2uAgr6Oiva4FytscQ",
+   "channel_title": "oricon",
+   "published_at": "2026-11-24T10:53:17Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 7440,
+   "likes": 41,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "EjCSD_7kBWc",
+   "title": "【トークノーカット】2ch発の最恐都市伝説が20年の時を経て映画化！前田拳太郎、久保史緒里、近藤亮太監督が登壇！映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=EjCSD_7kBWc",
+   "thumbnail": "https://i.ytimg.com/vi/EjCSD_7kBWc/mqdefault.jpg",
+   "channel_id": "UCRxDTCmIjgli-Xgh2KPE9dA",
+   "channel_title": "シネマトゥデイ",
+   "published_at": "2026-11-24T10:36:01Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3186,
+   "likes": 38,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "0OqX9YtnZ5s",
+   "title": "久保史緒里、前田拳太郎の急なボケに対応できず悔しがる　映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=0OqX9YtnZ5s",
+   "thumbnail": "https://i.ytimg.com/vi/0OqX9YtnZ5s/mqdefault.jpg",
+   "channel_id": "UCbZvkG2uAgr6Oiva4FytscQ",
+   "channel_title": "oricon",
+   "published_at": "2026-11-24T10:35:20Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 19521,
+   "likes": 97,
+   "comments": 2,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "HATCahv5Y44",
+   "title": "【ノーカット】2ch発ホラーが20年を経て映画化！前田拳太郎＆久保史緒里＆近藤亮太監督が集結！　映画『巨頭ｵ』完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=HATCahv5Y44",
+   "thumbnail": "https://i.ytimg.com/vi/HATCahv5Y44/mqdefault.jpg",
+   "channel_id": "UCbZvkG2uAgr6Oiva4FytscQ",
+   "channel_title": "oricon",
+   "published_at": "2026-11-24T10:30:14Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 11040,
+   "likes": 91,
+   "comments": 3,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "oWSDF0Nf3og",
+   "title": "【大河ドラマ 豊臣兄弟！】第46回予告「秀次の乱」| NHK",
+   "url": "https://www.youtube.com/watch?v=oWSDF0Nf3og",
+   "thumbnail": "https://i.ytimg.com/vi/oWSDF0Nf3og/mqdefault.jpg",
+   "channel_id": "UCip8ve30-AoX2y2OtAAmqFA",
+   "channel_title": "NHK",
+   "published_at": "2026-11-24T10:00:06Z",
+   "category": "appearance",
+   "members": [
+    "井上和"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 118107,
+   "likes": 430,
+   "comments": null,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "-691RRTuoP8",
+   "title": "乃木坂46 6期生 増田三莉音 コテコテの関西人やで！『乃木坂スター誕生！SIX』未公開映像【Blu-ray BOX 第2巻 発売中】",
+   "url": "https://www.youtube.com/watch?v=-691RRTuoP8",
+   "thumbnail": "https://i.ytimg.com/vi/-691RRTuoP8/mqdefault.jpg",
+   "channel_id": "UCazjJ6udlwl6cP_om1zqTQQ",
+   "channel_title": "VAP Official",
+   "published_at": "2026-11-24T09:00:09Z",
+   "category": "appearance",
+   "members": [
+    "増田三莉音"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 26658,
+   "likes": 183,
+   "comments": null,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "CEWu81dZggw",
+   "title": "いちねん(のぶきよ)が勝手に考えた日向坂46メンバーの自己紹介ギャグ【大野愛実】さん",
+   "url": "https://www.youtube.com/watch?v=CEWu81dZggw",
+   "thumbnail": "https://i.ytimg.com/vi/CEWu81dZggw/mqdefault.jpg",
+   "channel_id": "UCzqgmDEkeSY907WP6euzZ_w",
+   "channel_title": "よしもとおひさま化計画チャンネル",
+   "published_at": "2026-11-24T09:00:07Z",
+   "category": "appearance",
+   "members": [
+    "大野愛実"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3210,
+   "likes": 99,
+   "comments": 4,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "V9yaVsQDIzM",
@@ -227,12 +598,12 @@
    "published_at": "2026-11-24T08:30:09Z",
    "category": "official",
    "members": [],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 47111,
-   "likes": 2426,
-   "comments": 68,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 58021,
+   "likes": 2782,
+   "comments": 73,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "L336msL3dwY",
@@ -246,12 +617,31 @@
    "members": [
     "新内眞衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6423,
-   "likes": 101,
-   "comments": 7,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 8353,
+   "likes": 114,
+   "comments": 8,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "suTiTJz9rRE",
+   "title": "『神のクイズ』飯豊まりえ 特別映像│プライムビデオ",
+   "url": "https://www.youtube.com/watch?v=suTiTJz9rRE",
+   "thumbnail": "https://i.ytimg.com/vi/suTiTJz9rRE/mqdefault.jpg",
+   "channel_id": "UCOMLsUCr8F0zf6LSwxBnuRA",
+   "channel_title": "Prime Video JP - プライムビデオ",
+   "published_at": "2026-11-24T03:02:07Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 41740,
+   "likes": 121,
+   "comments": 1,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "PhUNS1M5YMg",
@@ -265,12 +655,12 @@
    "members": [
     "佐々木美玲"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1056,
-   "likes": 40,
+   "views": 1182,
+   "likes": 41,
    "comments": 4,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "aDlNBNyBbr8",
@@ -284,12 +674,12 @@
    "members": [
     "佐々木美玲"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1919,
-   "likes": 51,
+   "views": 2128,
+   "likes": 55,
    "comments": 2,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "N2o1ovXjCkA",
@@ -303,12 +693,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1446,
-   "likes": 26,
+   "views": 1475,
+   "likes": 27,
    "comments": 2,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "xgxrbUS88Yc",
@@ -322,12 +712,12 @@
    "members": [
     "一ノ瀬美空"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 41860,
+   "views": 115722,
    "likes": null,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "bHRwcITrqx8",
@@ -341,12 +731,12 @@
    "members": [
     "新内眞衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 595,
+   "views": 652,
    "likes": 1,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "UNO_i5UjWSs",
@@ -360,12 +750,12 @@
    "members": [
     "川後陽菜"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1241,
-   "likes": 34,
-   "comments": 3,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 1258,
+   "likes": 35,
+   "comments": 4,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "g4Ctwhx2QNI",
@@ -379,12 +769,12 @@
    "members": [
     "矢田萌華"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12578,
-   "likes": 79,
+   "views": 13468,
+   "likes": 82,
    "comments": null,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "C6sy4vKZELU",
@@ -398,12 +788,12 @@
    "members": [
     "齊藤京子"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 46486,
-   "likes": 477,
+   "views": 50312,
+   "likes": 504,
    "comments": 32,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "a9iTtdycD-I",
@@ -417,12 +807,12 @@
    "members": [
     "井上和"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 115458,
-   "likes": 947,
-   "comments": 56,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 132901,
+   "likes": 1117,
+   "comments": 69,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "VzoLv3-Rnt0",
@@ -437,12 +827,12 @@
     "五百城茉央",
     "池田瑛紗"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 463987,
-   "likes": 10217,
-   "comments": 603,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 495705,
+   "likes": 10553,
+   "comments": 610,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "P7becuO3AdE",
@@ -456,12 +846,12 @@
    "members": [
     "菅原咲月"
    ],
-   "broadcast_content": null,
-   "scheduled_start_time": null,
-   "views": 225317,
-   "likes": 4241,
-   "comments": 129,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-23T11:00:00Z",
+   "views": 236513,
+   "likes": 4308,
+   "comments": 132,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "Z6xkP2OiumY",
@@ -475,12 +865,12 @@
    "members": [
     "松本和子"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 25923,
-   "likes": 1606,
+   "views": 27409,
+   "likes": 1659,
    "comments": 42,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "Jk--UkyfB7I",
@@ -492,12 +882,12 @@
    "published_at": "2026-11-22T15:45:29Z",
    "category": "official",
    "members": [],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 834389,
-   "likes": 13009,
-   "comments": 1788,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 885940,
+   "likes": 13317,
+   "comments": 1811,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "G4fTG2nJt9Q",
@@ -511,12 +901,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1309,
-   "likes": 22,
+   "views": 1331,
+   "likes": 27,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "AV7OuR9Zhog",
@@ -550,12 +940,12 @@
     "齋藤飛鳥",
     "松田好花"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 167621,
-   "likes": 2555,
-   "comments": 134,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 180003,
+   "likes": 2624,
+   "comments": 136,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "cZTErpnu-fw",
@@ -569,12 +959,12 @@
    "members": [
     "齋藤飛鳥"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 3184,
+   "views": 4105,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "k2_QvucbTu4",
@@ -588,12 +978,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1364,
-   "likes": 19,
+   "views": 1399,
+   "likes": 20,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "VEb1hYioyNU",
@@ -626,12 +1016,31 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 129676,
-   "likes": 1586,
-   "comments": 134,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 135439,
+   "likes": 1628,
+   "comments": 136,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "zRCDqI8K8Pw",
+   "title": "まなびより Vol.138 【得意を生かして、みんな笑顔に！農福連携】",
+   "url": "https://www.youtube.com/watch?v=zRCDqI8K8Pw",
+   "thumbnail": "https://i.ytimg.com/vi/zRCDqI8K8Pw/mqdefault.jpg",
+   "channel_id": "UCEfb_QMfEb3p0pnAUAqsN2A",
+   "channel_title": "TOKYO FM Podcasts",
+   "published_at": "2026-11-22T01:05:37Z",
+   "category": "appearance",
+   "members": [
+    "松井玲奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 290,
+   "likes": 3,
+   "comments": 1,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "hZZ1sgLQZI0",
@@ -645,12 +1054,12 @@
    "members": [
     "生田絵梨花"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1486,
-   "likes": 20,
+   "views": 1595,
+   "likes": 23,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "TcbAqojjkgU",
@@ -665,12 +1074,12 @@
     "金川紗耶",
     "黒見明香"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 474853,
-   "likes": 6549,
-   "comments": 654,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 508598,
+   "likes": 6845,
+   "comments": 670,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "U47wafKH92I",
@@ -685,12 +1094,12 @@
     "大園玲",
     "小田倉麗奈"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 15387,
-   "likes": 403,
-   "comments": 24,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 16254,
+   "likes": 415,
+   "comments": 25,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "djl6F5zJhtw",
@@ -707,12 +1116,12 @@
     "加藤史帆",
     "大野愛実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 7916,
-   "likes": 282,
+   "views": 8448,
+   "likes": 301,
    "comments": 7,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "fq6A-_1fvzw",
@@ -726,12 +1135,12 @@
    "members": [
     "生田絵梨花"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 9261,
-   "likes": 119,
+   "views": 9470,
+   "likes": 121,
    "comments": 8,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "gk-uZJhMIF4",
@@ -745,12 +1154,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1410,
-   "likes": 26,
+   "views": 1418,
+   "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "xIpbb5yTpIU",
@@ -764,12 +1173,12 @@
    "members": [
     "山下美月"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1526,
+   "views": 1567,
    "likes": 18,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "lA0myamGewE",
@@ -787,12 +1196,12 @@
     "岡本姫奈",
     "大越ひなの"
    ],
-   "broadcast_content": null,
-   "scheduled_start_time": null,
-   "views": 49875,
-   "likes": 588,
-   "comments": 58,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-21T10:59:00Z",
+   "views": 52927,
+   "likes": 600,
+   "comments": 59,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "D3wzIsUOzzU",
@@ -806,12 +1215,12 @@
    "members": [
     "小林由依"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6685,
-   "likes": 63,
+   "views": 6914,
+   "likes": 65,
    "comments": 12,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "1pGV2rifyDs",
@@ -825,12 +1234,31 @@
    "members": [
     "今泉佑唯"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 456,
-   "likes": 8,
+   "views": 473,
+   "likes": 9,
    "comments": null,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "avi9Z4GXwkc",
+   "title": "【舞台裏に潜入】Malymoon×PECHE ランウェイ密着🍑",
+   "url": "https://www.youtube.com/watch?v=avi9Z4GXwkc",
+   "thumbnail": "https://i.ytimg.com/vi/avi9Z4GXwkc/mqdefault.jpg",
+   "channel_id": "UCnLk-FV9TFkGLCsVkwz3a8g",
+   "channel_title": "東村芽依 | めいちゃんねる",
+   "published_at": "2026-11-21T10:00:32Z",
+   "category": "appearance",
+   "members": [
+    "東村芽依"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 12966,
+   "likes": 690,
+   "comments": 54,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "33n94jfF0wM",
@@ -844,12 +1272,31 @@
    "members": [
     "小林由依"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12186,
-   "likes": 43,
+   "views": 13372,
+   "likes": 45,
    "comments": 3,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "YOSoQ5ozBLo",
+   "title": "堀未央奈さんご来店✨ ありがとうございました✨#ヘアスタイル #オススメ #おすすめ #fip #リフトレイヤー #ヘアカラー #小顔カッ...",
+   "url": "https://www.youtube.com/watch?v=YOSoQ5ozBLo",
+   "thumbnail": "https://i.ytimg.com/vi/YOSoQ5ozBLo/mqdefault.jpg",
+   "channel_id": "UCfC3nnTzvHqtw2U_wvSo6vQ",
+   "channel_title": "小西恭平 美容師 レイヤーカット 透明感カラー",
+   "published_at": "2026-11-20T22:35:29Z",
+   "category": "appearance",
+   "members": [
+    "堀未央奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 18,
+   "likes": 0,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "-0UuQPpT_BI",
@@ -863,12 +1310,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1475,
-   "likes": 30,
+   "views": 1490,
+   "likes": 32,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "HhCrGvXSHXE",
@@ -884,12 +1331,31 @@
     "加藤史帆",
     "大野愛実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 186419,
-   "likes": 1778,
-   "comments": 90,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 196818,
+   "likes": 1828,
+   "comments": 92,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "Z_S4TB0wUwM",
+   "title": "ういちの放浪記 ボートレース尼崎編【阪神電車 ジェット・シルバー杯〈初日〉】《ういち》《永島聖羅》",
+   "url": "https://www.youtube.com/watch?v=Z_S4TB0wUwM",
+   "thumbnail": "https://i.ytimg.com/vi/Z_S4TB0wUwM/mqdefault.jpg",
+   "channel_id": "UC-vpH4QQKPwsqsbESOfNgZQ",
+   "channel_title": "ボートレース尼崎【公式】",
+   "published_at": "2026-11-20T09:04:06Z",
+   "category": "appearance",
+   "members": [
+    "永島聖羅"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-20T01:10:00Z",
+   "views": 137124,
+   "likes": 240,
+   "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "coIJmQpOaAo",
@@ -904,12 +1370,12 @@
     "若月佑美",
     "樋口日奈"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6342,
-   "likes": 317,
-   "comments": 5,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 6758,
+   "likes": 324,
+   "comments": 6,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "0BOwWGdFzvo",
@@ -924,12 +1390,12 @@
     "若月佑美",
     "樋口日奈"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 412579,
-   "likes": 4522,
-   "comments": 229,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 437865,
+   "likes": 4596,
+   "comments": 230,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "B9y3ZPO0vFk",
@@ -943,12 +1409,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 51706,
-   "likes": 1520,
-   "comments": 83,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 53393,
+   "likes": 1559,
+   "comments": 84,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "ht8c7eFMFxk",
@@ -962,12 +1428,31 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2061,
-   "likes": 78,
+   "views": 2108,
+   "likes": 79,
    "comments": 3,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "E_qTBid6NdA",
+   "title": "夜ドラ [青の花 器の森] 第5週予告 | 毎週(月～木)夜10:45放送 | 松井玲奈主演。長崎県波佐見町を舞台に、焼き物づくりが紡ぐラブストーリー | NHK",
+   "url": "https://www.youtube.com/watch?v=E_qTBid6NdA",
+   "thumbnail": "https://i.ytimg.com/vi/E_qTBid6NdA/mqdefault.jpg",
+   "channel_id": "UCip8ve30-AoX2y2OtAAmqFA",
+   "channel_title": "NHK",
+   "published_at": "2026-11-20T03:00:20Z",
+   "category": "appearance",
+   "members": [
+    "松井玲奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 57657,
+   "likes": 175,
+   "comments": null,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "83z7r3e-KKk",
@@ -983,12 +1468,31 @@
     "加藤史帆",
     "大野愛実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 39265,
-   "likes": 829,
+   "views": 39763,
+   "likes": 831,
    "comments": 48,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "VzbuQFIo6Zw",
+   "title": "映画『殺人の門』本予告映像／90秒【2月19日公開】",
+   "url": "https://www.youtube.com/watch?v=VzbuQFIo6Zw",
+   "thumbnail": "https://i.ytimg.com/vi/VzbuQFIo6Zw/mqdefault.jpg",
+   "channel_id": "UCHjj-qlJhYWDacFwnaewV6Q",
+   "channel_title": "KADOKAWA映画",
+   "published_at": "2026-11-19T21:59:52Z",
+   "category": "appearance",
+   "members": [
+    "堀未央奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 306924,
+   "likes": 832,
+   "comments": 37,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "iTfIS5w2t1k",
@@ -1002,12 +1506,12 @@
    "members": [
     "武元唯衣"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 10856,
-   "likes": 126,
+   "views": 11725,
+   "likes": 132,
    "comments": 17,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "atTHf0PGJzw",
@@ -1021,12 +1525,12 @@
    "members": [
     "影山優佳"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 10682,
+   "views": 10910,
    "likes": 34,
    "comments": 2,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "5hicWFp0wDw",
@@ -1040,12 +1544,12 @@
    "members": [
     "影山優佳"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 11826,
+   "views": 12047,
    "likes": 50,
    "comments": 4,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "kpVTL4ImGP8",
@@ -1059,12 +1563,12 @@
    "members": [
     "秋元真夏"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1143,
-   "likes": 20,
+   "views": 1162,
+   "likes": 24,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "yFjZUC9fezg",
@@ -1078,12 +1582,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 107103,
-   "likes": 80,
+   "views": 126366,
+   "likes": 96,
    "comments": 7,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "KDv6kCpO3kc",
@@ -1097,12 +1601,12 @@
    "members": [
     "秋元真夏"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5321,
-   "likes": 249,
-   "comments": 3,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 5364,
+   "likes": 251,
+   "comments": 4,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "nQIJMoaKxtg",
@@ -1116,12 +1620,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5527,
+   "views": 5531,
    "likes": 9,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "zO1UzIZbG2s",
@@ -1135,12 +1639,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2828,
+   "views": 2837,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "kOzDxqmeQqo",
@@ -1154,12 +1658,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1612,
-   "likes": 4,
+   "views": 1626,
+   "likes": 6,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "-iRhcOE6eYw",
@@ -1173,12 +1677,12 @@
    "members": [
     "秋元真夏"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 36674,
-   "likes": 908,
+   "views": 37135,
+   "likes": 916,
    "comments": 102,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "r5AHFO8EWx8",
@@ -1192,12 +1696,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 165,
+   "views": 168,
    "likes": 8,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "XTPJLnYOekI",
@@ -1211,12 +1715,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 97,
+   "views": 98,
    "likes": 4,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "o8snuxl420I",
@@ -1230,12 +1734,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 639,
+   "views": 689,
    "likes": 15,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "ACUN4yPhdPQ",
@@ -1249,12 +1753,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 844,
+   "views": 856,
    "likes": 4,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "g0y-ONqRo3A",
@@ -1268,12 +1772,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5378,
+   "views": 5416,
    "likes": 48,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "zpXxZbwsbpk",
@@ -1287,12 +1791,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 171,
+   "views": 175,
    "likes": 2,
    "comments": 0,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "Fnxj0eHZ0Ck",
@@ -1306,12 +1810,12 @@
    "members": [
     "渡邉美穂"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 520112,
-   "likes": 5104,
-   "comments": 229,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 532688,
+   "likes": 5186,
+   "comments": 231,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "nPFlk76t_sI",
@@ -1325,12 +1829,12 @@
    "members": [
     "高山一実"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12122,
+   "views": 12239,
    "likes": 32,
    "comments": 4,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "jGlyorwrCOw",
@@ -1344,12 +1848,12 @@
    "members": [
     "原田葵"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 169529,
-   "likes": 1403,
+   "views": 171269,
+   "likes": 1412,
    "comments": 60,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "EWoew1JC5N4",
@@ -1363,12 +1867,12 @@
    "members": [
     "斉藤優里"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 94522,
-   "likes": 629,
-   "comments": 57,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "views": 95621,
+   "likes": 636,
+   "comments": 58,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
    "video_id": "WNb7T_5u7MU",
@@ -1384,12 +1888,12 @@
     "渡邉美穂",
     "宮田愛萌"
    ],
-   "broadcast_content": null,
+   "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6632,
+   "views": 6653,
    "likes": null,
    "comments": 3,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
   }
  ]
 }
