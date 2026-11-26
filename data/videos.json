@@ -2,10 +2,10 @@
  "meta": {
   "collected_total": 2172,
   "official": 11,
-  "appearance": 87,
+  "appearance": 89,
   "excluded_not_legit_or_noise": 2065,
-  "excluded_user": 6,
-  "held_no_member_match": 3
+  "excluded_user": 7,
+  "held_no_member_match": 0
  },
  "videos": [
   {
@@ -111,6 +111,25 @@
    "views": 233,
    "likes": 9,
    "comments": 0,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "Ea9K0nR26Xw",
+   "title": "【イギリスDisney購入品】カチューシャが1個6000円!? 日本との違いに驚いた",
+   "url": "https://www.youtube.com/watch?v=Ea9K0nR26Xw",
+   "thumbnail": "https://i.ytimg.com/vi/Ea9K0nR26Xw/mqdefault.jpg",
+   "channel_id": "UCRQoWfwbu1dDf0XujaNQ-9A",
+   "channel_title": "松井玲奈",
+   "published_at": "2026-11-25T10:00:07Z",
+   "category": "appearance",
+   "members": [
+    "松井玲奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-25T10:00:00Z",
+   "views": 12246,
+   "likes": 376,
+   "comments": 34,
    "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
@@ -1277,6 +1296,25 @@
    "views": 13372,
    "likes": 45,
    "comments": 3,
+   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+  },
+  {
+   "video_id": "usFl8XS37oc",
+   "title": "    【作業用動画】雨音で編み物をしながら集中する60分｜WORK WITH ME",
+   "url": "https://www.youtube.com/watch?v=usFl8XS37oc",
+   "thumbnail": "https://i.ytimg.com/vi/usFl8XS37oc/mqdefault.jpg",
+   "channel_id": "UCRQoWfwbu1dDf0XujaNQ-9A",
+   "channel_title": "松井玲奈",
+   "published_at": "2026-11-20T23:33:53Z",
+   "category": "appearance",
+   "members": [
+    "松井玲奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 22564,
+   "likes": 474,
+   "comments": 39,
    "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
