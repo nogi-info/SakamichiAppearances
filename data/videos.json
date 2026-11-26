@@ -2,8 +2,8 @@
  "meta": {
   "collected_total": 2172,
   "official": 11,
-  "appearance": 89,
-  "excluded_not_legit_or_noise": 2065,
+  "appearance": 87,
+  "excluded_not_legit_or_noise": 2067,
   "excluded_user": 7,
   "held_no_member_match": 0
  },
@@ -149,25 +149,6 @@
    "views": 1125,
    "likes": 30,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
-  },
-  {
-   "video_id": "IsW05CDQXac",
-   "title": "いちねん(のぶきよ)が勝手に考えた日向坂46メンバーの自己紹介ギャグ【片山紗希】さん",
-   "url": "https://www.youtube.com/watch?v=IsW05CDQXac",
-   "thumbnail": "https://i.ytimg.com/vi/IsW05CDQXac/mqdefault.jpg",
-   "channel_id": "UCzqgmDEkeSY907WP6euzZ_w",
-   "channel_title": "よしもとおひさま化計画チャンネル",
-   "published_at": "2026-11-25T09:00:36Z",
-   "category": "appearance",
-   "members": [
-    "片山紗希"
-   ],
-   "broadcast_content": "none",
-   "scheduled_start_time": null,
-   "views": 2350,
-   "likes": 71,
-   "comments": 5,
    "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
@@ -586,25 +567,6 @@
    "views": 26658,
    "likes": 183,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
-  },
-  {
-   "video_id": "CEWu81dZggw",
-   "title": "いちねん(のぶきよ)が勝手に考えた日向坂46メンバーの自己紹介ギャグ【大野愛実】さん",
-   "url": "https://www.youtube.com/watch?v=CEWu81dZggw",
-   "thumbnail": "https://i.ytimg.com/vi/CEWu81dZggw/mqdefault.jpg",
-   "channel_id": "UCzqgmDEkeSY907WP6euzZ_w",
-   "channel_title": "よしもとおひさま化計画チャンネル",
-   "published_at": "2026-11-24T09:00:07Z",
-   "category": "appearance",
-   "members": [
-    "大野愛実"
-   ],
-   "broadcast_content": "none",
-   "scheduled_start_time": null,
-   "views": 3210,
-   "likes": 99,
-   "comments": 4,
    "stats_at": "2026-11-26T17:57:04.301614+09:00"
   },
   {
