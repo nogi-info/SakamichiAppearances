@@ -23,7 +23,12 @@
    "views": 3556,
    "likes": 507,
    "comments": 24,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1440
+   ],
+   "is_short": true
   },
   {
    "video_id": "do_hpo6Wjwk",
@@ -42,7 +47,9 @@
    "views": 844,
    "likes": 11,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "-IBNySWbPPI",
@@ -61,7 +68,9 @@
    "views": 2,
    "likes": 0,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "iqy9aHhjGm8",
@@ -89,7 +98,12 @@
    "views": 2830,
    "likes": 448,
    "comments": 10,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "CrFeNvTkAAw",
@@ -108,7 +122,12 @@
    "views": 849,
    "likes": 38,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "cqlU9DipNVU",
@@ -127,7 +146,9 @@
    "views": 465,
    "likes": 38,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "EQXlhQa7Yl4",
@@ -146,7 +167,9 @@
    "views": 925,
    "likes": 11,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "E1JwXoeCFRc",
@@ -165,7 +188,9 @@
    "views": 17564,
    "likes": 225,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "S2Ha5TMZ554",
@@ -185,7 +210,12 @@
    "views": 11950,
    "likes": 1119,
    "comments": 17,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "Uz9nPZuZWqQ",
@@ -205,7 +235,9 @@
    "views": 1018,
    "likes": null,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "YDJRO0UC2t8",
@@ -224,7 +256,9 @@
    "views": 1292,
    "likes": 124,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "aca4t-W1COk",
@@ -243,7 +277,12 @@
    "views": 907,
    "likes": 7,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "UsQ5YZMlPds",
@@ -262,7 +301,12 @@
    "views": 5132,
    "likes": 154,
    "comments": 5,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "fv03R95ATPM",
@@ -281,7 +325,9 @@
    "views": 3844,
    "likes": 48,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "IfZ8TLqYrI8",
@@ -300,7 +346,12 @@
    "views": 932,
    "likes": 4,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "Ak4LgadpC44",
@@ -317,7 +368,12 @@
    "views": 97399,
    "likes": 4670,
    "comments": 132,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    960
+   ],
+   "is_short": true
   },
   {
    "video_id": "vNBDT6SzYOg",
@@ -336,7 +392,9 @@
    "views": 3563,
    "likes": 22,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "fK-rZ6J2FbE",
@@ -355,7 +413,9 @@
    "views": 11076,
    "likes": 204,
    "comments": 7,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "UcNNTcUWeUs",
@@ -378,7 +438,12 @@
    "views": 182497,
    "likes": 2691,
    "comments": 85,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "EwIV0YaVT5U",
@@ -401,7 +466,9 @@
    "views": 33919,
    "likes": 757,
    "comments": 21,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "aSCPW4dlmyo",
@@ -424,7 +491,12 @@
    "views": 91793,
    "likes": 1420,
    "comments": 41,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "QzqWNFIC8Ls",
@@ -443,7 +515,9 @@
    "views": 339,
    "likes": 9,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "QZHxREeII4Y",
@@ -462,7 +536,9 @@
    "views": 740,
    "likes": 19,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "-AfnGG_P-Q4",
@@ -481,7 +557,9 @@
    "views": 2899,
    "likes": 50,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "1u6Ar9ees58",
@@ -500,7 +578,9 @@
    "views": 7159,
    "likes": 74,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "anjBMNLPpsA",
@@ -519,7 +599,9 @@
    "views": 54762,
    "likes": 1351,
    "comments": 65,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "Ea9K0nR26Xw",
@@ -538,7 +620,9 @@
    "views": 21956,
    "likes": 471,
    "comments": 35,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "BvPoFN60LqA",
@@ -557,7 +641,12 @@
    "views": 1178,
    "likes": 33,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "pEa2ihvYhsM",
@@ -576,7 +665,9 @@
    "views": 13480,
    "likes": 35,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "CaH5DeWfRvY",
@@ -593,7 +684,12 @@
    "views": 81996,
    "likes": 4165,
    "comments": 115,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1440
+   ],
+   "is_short": true
   },
   {
    "video_id": "OA6CmA-g_1E",
@@ -612,7 +708,9 @@
    "views": 189227,
    "likes": 3318,
    "comments": 423,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "r_BNZRL_Pa8",
@@ -631,7 +729,9 @@
    "views": 22635,
    "likes": 235,
    "comments": 13,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "kR6m_kyFOis",
@@ -650,7 +750,12 @@
    "views": 1698,
    "likes": 25,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "RjKcMVGvorU",
@@ -667,7 +772,9 @@
    "views": 331920,
    "likes": 6762,
    "comments": 428,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "3WzqWQ1GeMA",
@@ -686,7 +793,9 @@
    "views": 894,
    "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "DjODNfYIUmw",
@@ -709,7 +818,9 @@
    "views": 540538,
    "likes": 8165,
    "comments": 268,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "p_VX-J39eRc",
@@ -728,7 +839,9 @@
    "views": 125456,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "nvTQ53uDiZY",
@@ -747,7 +860,9 @@
    "views": 43401,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "PBt8PaRgdc0",
@@ -766,7 +881,9 @@
    "views": 29177,
    "likes": 405,
    "comments": 15,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "SZzhH6evVDM",
@@ -785,7 +902,12 @@
    "views": 36624,
    "likes": 518,
    "comments": 11,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "xdf2-SFtUW4",
@@ -804,7 +926,9 @@
    "views": 23179,
    "likes": 1272,
    "comments": 19,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "aKmhalJpx7M",
@@ -823,7 +947,12 @@
    "views": 1392,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "Y8jeUzU6Tis",
@@ -842,7 +971,9 @@
    "views": 4822,
    "likes": 18,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "yUCxsIyvkgI",
@@ -861,7 +992,12 @@
    "views": 16584,
    "likes": 1379,
    "comments": 25,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "YEOXv5Y9fZw",
@@ -880,7 +1016,9 @@
    "views": 501,
    "likes": 5,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "geOi0W-BGbc",
@@ -899,7 +1037,9 @@
    "views": 5282,
    "likes": 39,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "C2LzQZP7Yhc",
@@ -918,7 +1058,9 @@
    "views": 3036,
    "likes": 18,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "bnN1mRDrVbk",
@@ -937,7 +1079,9 @@
    "views": 7496,
    "likes": 42,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "EjCSD_7kBWc",
@@ -956,7 +1100,9 @@
    "views": 3278,
    "likes": 38,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "0OqX9YtnZ5s",
@@ -975,7 +1121,9 @@
    "views": 22470,
    "likes": 109,
    "comments": 7,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "HATCahv5Y44",
@@ -994,7 +1142,9 @@
    "views": 11344,
    "likes": 96,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "ms8AfULWNuo",
@@ -1013,7 +1163,12 @@
    "views": 1254,
    "likes": 22,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "oWSDF0Nf3og",
@@ -1032,7 +1187,9 @@
    "views": 129317,
    "likes": 461,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "W--AgjRjTWM",
@@ -1051,7 +1208,9 @@
    "views": 41223,
    "likes": 1010,
    "comments": 58,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "-691RRTuoP8",
@@ -1070,7 +1229,9 @@
    "views": 28249,
    "likes": 189,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "UlDXV-at-Vw",
@@ -1089,7 +1250,12 @@
    "views": 3019,
    "likes": 101,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "V9yaVsQDIzM",
@@ -1106,7 +1272,12 @@
    "views": 66103,
    "likes": 3068,
    "comments": 80,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    960
+   ],
+   "is_short": true
   },
   {
    "video_id": "L336msL3dwY",
@@ -1125,7 +1296,9 @@
    "views": 9252,
    "likes": 120,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "suTiTJz9rRE",
@@ -1144,7 +1317,9 @@
    "views": 50369,
    "likes": 136,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "PhUNS1M5YMg",
@@ -1163,7 +1338,9 @@
    "views": 1288,
    "likes": 43,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "aDlNBNyBbr8",
@@ -1182,7 +1359,9 @@
    "views": 2269,
    "likes": 56,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "N2o1ovXjCkA",
@@ -1201,7 +1380,12 @@
    "views": 1516,
    "likes": 30,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "xgxrbUS88Yc",
@@ -1220,7 +1404,12 @@
    "views": 192015,
    "likes": null,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "_dKap4X2ma4",
@@ -1239,7 +1428,9 @@
    "views": 8916,
    "likes": 57,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "Ou3s-RVjmr0",
@@ -1258,7 +1449,9 @@
    "views": 6964,
    "likes": 145,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "bHRwcITrqx8",
@@ -1277,7 +1470,9 @@
    "views": 674,
    "likes": 1,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "UNO_i5UjWSs",
@@ -1296,7 +1491,12 @@
    "views": 1262,
    "likes": 36,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "g4Ctwhx2QNI",
@@ -1315,7 +1515,9 @@
    "views": 14078,
    "likes": 84,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "8AKVSb8XrzY",
@@ -1334,7 +1536,9 @@
    "views": 65912,
    "likes": 666,
    "comments": 51,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "C6sy4vKZELU",
@@ -1353,7 +1557,9 @@
    "views": 52995,
    "likes": 522,
    "comments": 33,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "ogL_ZXBfT7U",
@@ -1372,7 +1578,12 @@
    "views": 271,
    "likes": 30,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "a9iTtdycD-I",
@@ -1391,7 +1602,12 @@
    "views": 145025,
    "likes": 1205,
    "comments": 70,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "VzoLv3-Rnt0",
@@ -1411,7 +1627,9 @@
    "views": 516651,
    "likes": 10763,
    "comments": 618,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "P7becuO3AdE",
@@ -1430,7 +1648,9 @@
    "views": 245682,
    "likes": 4370,
    "comments": 134,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "Z6xkP2OiumY",
@@ -1449,7 +1669,12 @@
    "views": 28633,
    "likes": 1715,
    "comments": 42,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "Eq6jS4u2p1c",
@@ -1468,7 +1693,9 @@
    "views": 1899,
    "likes": 30,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "1bSQ1GwCX8A",
@@ -1487,7 +1714,12 @@
    "views": 5064,
    "likes": 35,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "Jk--UkyfB7I",
@@ -1504,7 +1736,9 @@
    "views": 923733,
    "likes": 13466,
    "comments": 1849,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "RVklx4nTLW0",
@@ -1523,7 +1757,9 @@
    "views": 6113,
    "likes": 30,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "G4fTG2nJt9Q",
@@ -1542,7 +1778,9 @@
    "views": 1342,
    "likes": 29,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "AV7OuR9Zhog",
@@ -1561,7 +1799,9 @@
    "views": 9993,
    "likes": 311,
    "comments": 17,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-25T17:57:17.240784+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "SYFMbr4B5HM",
@@ -1580,7 +1820,9 @@
    "views": 800,
    "likes": 13,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "LM4r6ZvkbPs",
@@ -1599,7 +1841,9 @@
    "views": 24949,
    "likes": 39,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "6orTkyPpXZ0",
@@ -1619,7 +1863,9 @@
    "views": 187849,
    "likes": 2659,
    "comments": 137,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "91q2pPEkdEk",
@@ -1638,7 +1884,9 @@
    "views": 2764,
    "likes": 29,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "UdtAIsT4DTI",
@@ -1657,7 +1905,9 @@
    "views": 22924,
    "likes": 41,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "cZTErpnu-fw",
@@ -1676,7 +1926,9 @@
    "views": 4237,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "k2_QvucbTu4",
@@ -1695,7 +1947,12 @@
    "views": 1426,
    "likes": 24,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "VEb1hYioyNU",
@@ -1714,7 +1971,9 @@
    "views": 463,
    "likes": 18,
    "comments": 1,
-   "stats_at": "2026-11-25T17:57:17.240784+09:00"
+   "stats_at": "2026-11-25T17:57:17.240784+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "035NnlkfmWQ",
@@ -1733,7 +1992,9 @@
    "views": 139585,
    "likes": 1648,
    "comments": 136,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "zRCDqI8K8Pw",
@@ -1752,7 +2013,9 @@
    "views": 295,
    "likes": 3,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "hZZ1sgLQZI0",
@@ -1771,7 +2034,12 @@
    "views": 1682,
    "likes": 25,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "TcbAqojjkgU",
@@ -1791,7 +2059,9 @@
    "views": 529922,
    "likes": 7033,
    "comments": 691,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "U47wafKH92I",
@@ -1811,7 +2081,9 @@
    "views": 17030,
    "likes": 424,
    "comments": 25,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "djl6F5zJhtw",
@@ -1833,7 +2105,12 @@
    "views": 8648,
    "likes": 303,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    1280
+   ],
+   "is_short": true
   },
   {
    "video_id": "fq6A-_1fvzw",
@@ -1852,7 +2129,9 @@
    "views": 9664,
    "likes": 127,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "gk-uZJhMIF4",
@@ -1871,7 +2150,9 @@
    "views": 1425,
    "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "xIpbb5yTpIU",
@@ -1890,7 +2171,12 @@
    "views": 1607,
    "likes": 19,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "VlWzkjhJn9U",
@@ -1909,7 +2195,9 @@
    "views": 1753,
    "likes": 21,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "lA0myamGewE",
@@ -1932,7 +2220,9 @@
    "views": 55684,
    "likes": 609,
    "comments": 60,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "D3wzIsUOzzU",
@@ -1951,7 +2241,9 @@
    "views": 7163,
    "likes": 67,
    "comments": 12,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "1pGV2rifyDs",
@@ -1970,7 +2262,9 @@
    "views": 511,
    "likes": 9,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "avi9Z4GXwkc",
@@ -1989,7 +2283,9 @@
    "views": 13413,
    "likes": 700,
    "comments": 54,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "aYhPDehTJqo",
@@ -2008,7 +2304,12 @@
    "views": 1338,
    "likes": 45,
    "comments": 5,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "FSwsMPfEDb8",
@@ -2027,7 +2328,9 @@
    "views": 67622,
    "likes": 331,
    "comments": 8,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "lp3iQEZGv-Q",
@@ -2046,7 +2349,9 @@
    "views": 8637,
    "likes": 301,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "EzezYuMgeZA",
@@ -2065,7 +2370,9 @@
    "views": 56284,
    "likes": 1862,
    "comments": 70,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "RQEa7nLKa3A",
@@ -2084,7 +2391,9 @@
    "views": 53060,
    "likes": 1053,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "nSUzNG-uL_A",
@@ -2103,7 +2412,9 @@
    "views": 102899,
    "likes": 2028,
    "comments": 97,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "5HJYRx0lcvw",
@@ -2122,7 +2433,9 @@
    "views": 2863,
    "likes": 87,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "33n94jfF0wM",
@@ -2141,7 +2454,9 @@
    "views": 14230,
    "likes": 47,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "VfMJ29sCC3o",
@@ -2160,7 +2475,9 @@
    "views": 19995,
    "likes": null,
    "comments": 41,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "usFl8XS37oc",
@@ -2179,7 +2496,9 @@
    "views": 23243,
    "likes": 477,
    "comments": 39,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "YOSoQ5ozBLo",
@@ -2198,7 +2517,12 @@
    "views": 18,
    "likes": 0,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    720,
+    960
+   ],
+   "is_short": true
   },
   {
    "video_id": "-0UuQPpT_BI",
@@ -2217,7 +2541,9 @@
    "views": 1508,
    "likes": 32,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "HhCrGvXSHXE",
@@ -2238,7 +2564,9 @@
    "views": 204167,
    "likes": 1867,
    "comments": 94,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "pKyqOKOoxtA",
@@ -2258,7 +2586,9 @@
    "views": 12671,
    "likes": 596,
    "comments": 20,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "-elO-8pYh1A",
@@ -2277,7 +2607,9 @@
    "views": 664,
    "likes": 14,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "Z_S4TB0wUwM",
@@ -2296,7 +2628,9 @@
    "views": 137270,
    "likes": 241,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "QvRaUxjBMA0",
@@ -2315,7 +2649,12 @@
    "views": 18036,
    "likes": 1104,
    "comments": 28,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "kR_s52J4pvs",
@@ -2334,7 +2673,9 @@
    "views": 237886,
    "likes": 3399,
    "comments": 208,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "coIJmQpOaAo",
@@ -2354,7 +2695,9 @@
    "views": 7077,
    "likes": 329,
    "comments": 6,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "0BOwWGdFzvo",
@@ -2374,7 +2717,9 @@
    "views": 461877,
    "likes": 4690,
    "comments": 231,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "B9y3ZPO0vFk",
@@ -2393,7 +2738,9 @@
    "views": 54875,
    "likes": 1581,
    "comments": 88,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "ht8c7eFMFxk",
@@ -2412,7 +2759,12 @@
    "views": 2147,
    "likes": 80,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "E_qTBid6NdA",
@@ -2431,7 +2783,9 @@
    "views": 61584,
    "likes": 190,
    "comments": null,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "83z7r3e-KKk",
@@ -2452,7 +2806,9 @@
    "views": 40111,
    "likes": 830,
    "comments": 49,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "VzbuQFIo6Zw",
@@ -2471,7 +2827,9 @@
    "views": 333569,
    "likes": 850,
    "comments": 37,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "iTfIS5w2t1k",
@@ -2490,7 +2848,9 @@
    "views": 12267,
    "likes": 134,
    "comments": 17,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "atTHf0PGJzw",
@@ -2509,7 +2869,9 @@
    "views": 11060,
    "likes": 35,
    "comments": 2,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "5hicWFp0wDw",
@@ -2528,7 +2890,9 @@
    "views": 12224,
    "likes": 51,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "kpVTL4ImGP8",
@@ -2547,7 +2911,12 @@
    "views": 1170,
    "likes": 25,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "yFjZUC9fezg",
@@ -2566,7 +2935,9 @@
    "views": 147322,
    "likes": 104,
    "comments": 7,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "KDv6kCpO3kc",
@@ -2585,7 +2956,12 @@
    "views": 5391,
    "likes": 251,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": [
+    1080,
+    1920
+   ],
+   "is_short": true
   },
   {
    "video_id": "nQIJMoaKxtg",
@@ -2604,7 +2980,9 @@
    "views": 5536,
    "likes": 9,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "zO1UzIZbG2s",
@@ -2623,7 +3001,9 @@
    "views": 2839,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "kOzDxqmeQqo",
@@ -2642,7 +3022,9 @@
    "views": 1648,
    "likes": 8,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "-iRhcOE6eYw",
@@ -2661,7 +3043,9 @@
    "views": 37420,
    "likes": 916,
    "comments": 102,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "r5AHFO8EWx8",
@@ -2680,7 +3064,9 @@
    "views": 170,
    "likes": 8,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "XTPJLnYOekI",
@@ -2699,7 +3085,9 @@
    "views": 100,
    "likes": 4,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "o8snuxl420I",
@@ -2718,7 +3106,9 @@
    "views": 740,
    "likes": 15,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "ACUN4yPhdPQ",
@@ -2737,7 +3127,9 @@
    "views": 871,
    "likes": 4,
    "comments": 1,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "g0y-ONqRo3A",
@@ -2756,7 +3148,9 @@
    "views": 5438,
    "likes": 48,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "zpXxZbwsbpk",
@@ -2775,7 +3169,9 @@
    "views": 177,
    "likes": 2,
    "comments": 0,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "Fnxj0eHZ0Ck",
@@ -2794,7 +3190,9 @@
    "views": 544458,
    "likes": 5276,
    "comments": 232,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "nPFlk76t_sI",
@@ -2813,7 +3211,9 @@
    "views": 12342,
    "likes": 33,
    "comments": 4,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": true
   },
   {
    "video_id": "jGlyorwrCOw",
@@ -2832,7 +3232,9 @@
    "views": 176378,
    "likes": 1443,
    "comments": 61,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "EWoew1JC5N4",
@@ -2851,7 +3253,9 @@
    "views": 97004,
    "likes": 643,
    "comments": 59,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   },
   {
    "video_id": "WNb7T_5u7MU",
@@ -2872,7 +3276,9 @@
    "views": 6733,
    "likes": null,
    "comments": 3,
-   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00",
+   "oar": null,
+   "is_short": false
   }
  ]
 }

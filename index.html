@@ -4,255 +4,571 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>坂道出演情報 | SakamichiAppearances</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
 <style>
-  :root { --accent:#7e1083; --ink:#222; --muted:#666; --line:#e3e3e3; --chip:#f3e8f5; }
-  * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, "Hiragino Sans", sans-serif; margin: 0 auto; max-width: 64rem; padding: 1.25rem 1rem 3rem; line-height: 1.6; color: var(--ink); }
-  h1 { font-size: 1.5rem; margin: 0.5rem 0 0.1rem; }
-  .sub { color: var(--muted); margin: 0 0 1rem; font-size: 0.9rem; }
-  .stats { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
-  .stat { border: 1px solid var(--line); border-radius: 0.6rem; padding: 0.45rem 0.8rem; font-size: 0.9rem; }
-  .stat b { font-size: 1.1rem; }
-  .tabs { display: flex; gap: 0.5rem; margin: 1rem 0; }
-  .tabs button { border: 1px solid var(--line); background: #fff; border-radius: 999px; padding: 0.35rem 1rem; cursor: pointer; font-size: 0.95rem; }
-  .tabs button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
-  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
-  .filters select, .filters input { padding: 0.4rem 0.5rem; border: 1px solid var(--line); border-radius: 0.4rem; font-size: 0.95rem; }
-  .filters input { flex: 1 1 12rem; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1rem; }
-  .card { border: 1px solid var(--line); border-radius: 0.7rem; overflow: hidden; display: flex; flex-direction: column; }
-  .card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
-  .card .body { padding: 0.6rem 0.8rem 0.8rem; display: flex; flex-direction: column; gap: 0.3rem; }
-  .card .title { font-weight: 600; font-size: 0.95rem; line-height: 1.45; }
-  .card .title a { color: var(--ink); text-decoration: none; }
-  .card .title a:hover { text-decoration: underline; }
-  .meta { color: var(--muted); font-size: 0.82rem; }
-  .badge { display: inline-block; font-size: 0.75rem; padding: 0.05rem 0.5rem; border-radius: 999px; background: var(--chip); color: var(--accent); font-weight: 600; }
-  .badge.og { background: #eee; color: #555; }
-  .tags { display: flex; flex-wrap: wrap; gap: 0.3rem; }
-  .tag { font-size: 0.78rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.02rem 0.55rem; cursor: pointer; background: #fff; }
-  .tag:hover { border-color: var(--accent); color: var(--accent); }
-  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
-  th, td { text-align: left; padding: 0.45rem 0.5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
-  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
-  .empty { color: var(--muted); padding: 2rem 0; text-align: center; }
-  .note { color: var(--muted); font-size: 0.85rem; margin-top: 1.5rem; }
-  .hidden { display: none; }
+:root{
+  --surface:#fbf9f4; --surface-container-lowest:#ffffff; --surface-container-low:#f5f3ee;
+  --surface-container:#f0eee9; --surface-container-high:#eae8e3; --surface-container-highest:#e4e2dd;
+  --on-surface:#1b1c19; --on-surface-variant:#4b4451;
+  --primary:#460a7f; --primary-container:#5e2b97; --on-primary:#ffffff;
+  --primary-fixed:#eedbff; --primary-fixed-dim:#dab9ff; --on-primary-fixed:#2a0053;
+  --secondary:#6d538a; --secondary-container:#dfbffe; --outline:#7c7483; --outline-variant:#cdc3d3;
+  --g-nogizaka:#6d28a8; --g-sakura:#c2437b; --g-hinata:#2f7fc4;
+  --rowh:272px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--surface);color:var(--on-surface);font-family:"Noto Sans JP","Noto Sans",sans-serif;font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.material-symbols-outlined{font-variation-settings:"FILL" 0,"wght" 400,"GRAD" 0,"opsz" 24;vertical-align:middle}
+.hidden{display:none !important}
+
+/* ---------- header ---------- */
+header.site{position:fixed;top:0;left:0;right:0;z-index:50;background:rgba(251,249,244,.82);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);box-shadow:0 1px 8px rgba(0,0,0,.05)}
+.header-in{max-width:1280px;margin:0 auto;padding:0 32px;height:80px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+.brand{display:flex;flex-direction:column}
+.brand .name{font-size:16px;line-height:24px;font-weight:600;letter-spacing:-.01em}
+.brand .tag{font-size:12px;line-height:16px;font-weight:500;color:var(--on-surface-variant)}
+.header-right{display:flex;align-items:center;gap:40px}
+nav.main{display:flex;align-items:center;gap:24px}
+nav.main a{font-size:13px;line-height:18px;font-weight:500;color:var(--on-surface-variant);transition:color .15s}
+nav.main a:hover{color:var(--on-surface)}
+nav.main a.active{color:var(--primary);font-weight:600}
+.avatar{width:32px;height:32px;border-radius:9999px;background:var(--primary);color:var(--on-primary);display:flex;align-items:center;justify-content:center;flex:none}
+.avatar .material-symbols-outlined{font-size:18px}
+nav.mobile{display:none}
+
+/* ---------- layout ---------- */
+main{max-width:1280px;margin:0 auto;padding:80px 32px 0;min-height:60vh}
+.page-head{padding:24px 0 8px}
+.summary{display:flex;align-items:center;gap:8px;color:var(--on-surface-variant);font-size:14px}
+.summary .dot{width:8px;height:8px;border-radius:9999px;background:var(--primary);flex:none}
+.summary b{font-size:15px;font-weight:600;color:var(--on-surface)}
+.summary b.og{color:var(--primary)}
+.head-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;margin-top:20px}
+.segment{display:inline-flex;align-items:center;background:var(--surface-container-high);padding:4px;border-radius:9999px;box-shadow:0 1px 2px rgba(0,0,0,.05)}
+.segment button{border:0;background:transparent;cursor:pointer;padding:6px 24px;border-radius:9999px;font-family:inherit;font-size:13px;font-weight:500;color:var(--on-surface-variant);transition:all .2s}
+.segment button:hover{color:var(--on-surface)}
+.segment button.on{background:var(--surface-container-lowest);color:var(--primary);font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.update-note{display:flex;align-items:center;gap:4px;font-size:12px;font-weight:500;color:var(--on-surface-variant)}
+.update-note .material-symbols-outlined{font-size:16px}
+h2.view-title{font-size:28px;line-height:38px;font-weight:600;letter-spacing:-.015em;padding:24px 0 4px}
+.view-sub{color:var(--on-surface-variant);margin-bottom:8px}
+
+/* ---------- day sections / gallery ---------- */
+section.day{padding:28px 0 12px}
+.day-head{display:flex;align-items:baseline;gap:16px;padding-bottom:20px}
+.day-head h2{font-size:28px;line-height:38px;font-weight:600;letter-spacing:-.015em}
+.day-head .count{font-size:13px;line-height:18px;font-weight:500;color:var(--primary);background:var(--primary-fixed);padding:2px 8px;border-radius:9999px}
+.gallery{display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start}
+.gallery::after{content:"";flex-grow:100000;flex-basis:0;height:0}
+.card{flex-grow:calc(var(--arr)*100);flex-basis:calc(var(--arr)*var(--rowh));min-width:0;background:var(--surface-container-lowest);border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(27,28,25,.07);transition:box-shadow .3s;display:block}
+.card:hover{box-shadow:0 16px 32px -12px rgba(27,28,25,.28)}
+.thumb{position:relative;aspect-ratio:var(--arstr);overflow:hidden;background:var(--surface-container-highest)}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
+.card:hover .thumb img{transform:scale(1.05)}
+.chip{position:absolute;top:12px;left:12px;display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,.9);backdrop-filter:blur(6px);padding:3px 10px 3px 8px;border-radius:9999px;font-size:12px;font-weight:500;color:var(--on-surface);box-shadow:0 1px 4px rgba(0,0,0,.12);z-index:2}
+.chip .dot{width:7px;height:7px;border-radius:9999px;flex:none}
+.badge-upcoming{position:absolute;top:12px;right:12px;background:var(--primary);color:var(--on-primary);font-size:11px;font-weight:600;padding:4px 10px;border-radius:9999px;z-index:2;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+.overlay{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:flex-end;padding:20px;background:linear-gradient(to top,rgba(10,5,18,.93) 0%,rgba(10,5,18,.5) 52%,rgba(10,5,18,0) 78%);opacity:0;transition:opacity .25s;z-index:1}
+.card:hover .overlay,.card:focus-visible .overlay{opacity:1}
+.ov-chan{display:flex;align-items:center;gap:8px;margin-bottom:6px;min-width:0}
+.badge-official{background:var(--primary);color:var(--on-primary);font-size:11px;line-height:14px;font-weight:600;padding:2px 7px;border-radius:4px;flex:none}
+.ov-chan .ch-name{font-size:12px;font-weight:500;color:rgba(255,255,255,.78);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ov-title{font-size:16px;line-height:24px;font-weight:600;color:#fff;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:10px}
+.ov-meta{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.ov-members{display:flex;align-items:center;gap:7px;font-size:13px;font-weight:500;color:#fff;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ov-members .dot{width:8px;height:8px;border-radius:9999px;flex:none}
+.ov-when{font-size:12px;font-weight:500;color:rgba(255,255,255,.8);flex:none}
+.mtext{display:none;padding:12px 14px 14px}
+.mtext .t{font-size:15px;line-height:22px;font-weight:600;height:44px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.mtext .mrow{display:flex;align-items:center;gap:7px;margin-top:8px;font-size:13px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mtext .mrow .dot{width:8px;height:8px;border-radius:9999px;flex:none}
+.mtext .meta{margin-top:4px;font-size:12px;font-weight:500;color:var(--on-surface-variant)}
+.empty{padding:32px 0;color:var(--on-surface-variant)}
+
+/* ---------- toolbar / list ---------- */
+.toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:16px 0 8px}
+.toolbar input[type="search"]{flex:1 1 220px;font-family:inherit;font-size:14px;padding:10px 16px;border:1px solid var(--outline-variant);border-radius:9999px;background:var(--surface-container-lowest);color:var(--on-surface)}
+.toolbar select{font-family:inherit;font-size:13px;font-weight:500;padding:9px 12px;border:1px solid var(--outline-variant);border-radius:9999px;background:var(--surface-container-lowest);color:var(--on-surface);max-width:220px}
+.count-line{font-size:13px;font-weight:500;color:var(--on-surface-variant);margin:8px 0 16px}
+.count-line b{color:var(--primary);font-size:15px}
+.vlist{display:flex;flex-direction:column;gap:12px}
+.vrow{display:flex;gap:16px;background:var(--surface-container-lowest);border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(27,28,25,.07);padding:12px;align-items:center}
+.vrow .th{height:88px;aspect-ratio:var(--arstr);border-radius:8px;overflow:hidden;flex:none;background:var(--surface-container-highest);display:block}
+.vrow .th img{width:100%;height:100%;object-fit:cover;display:block}
+.vrow .info{flex:1;min-width:0}
+.vrow .t{font-size:15px;line-height:22px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vrow .t:hover{text-decoration:underline}
+.vrow .mem{display:flex;align-items:center;gap:7px;margin-top:6px;font-size:13px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.vrow .mem .dot{width:8px;height:8px;border-radius:9999px;flex:none}
+.vrow .mem a:hover{color:var(--primary);text-decoration:underline}
+.vrow .meta{margin-top:4px;font-size:12px;font-weight:500;color:var(--on-surface-variant);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pill{display:inline-block;font-size:11px;line-height:14px;font-weight:600;padding:2px 7px;border-radius:4px;background:var(--primary-fixed);color:var(--on-primary-fixed);vertical-align:2px}
+.pill.solid{background:var(--primary);color:var(--on-primary);border-radius:9999px;padding:3px 9px}
+
+/* ---------- members ---------- */
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:16px}
+.mcard{background:var(--surface-container-lowest);border-radius:12px;box-shadow:0 1px 3px rgba(27,28,25,.07);padding:16px 18px;display:block;transition:box-shadow .25s}
+.mcard:hover{box-shadow:0 10px 24px -10px rgba(27,28,25,.25)}
+.mcard .nm{font-size:17px;font-weight:600;display:flex;align-items:center;gap:8px}
+.mcard .nm .dot{width:9px;height:9px;border-radius:9999px;flex:none}
+.mcard .yomi{font-size:12px;color:var(--on-surface-variant);margin-top:1px}
+.mcard .row{margin-top:10px;font-size:12px;font-weight:500;color:var(--on-surface-variant);display:flex;justify-content:space-between;gap:8px}
+.mcard .row b{color:var(--on-surface);font-size:13px}
+.backlink{display:inline-flex;align-items:center;gap:4px;font-size:13px;font-weight:500;color:var(--primary);margin-top:24px}
+.member-head{padding:12px 0 4px}
+.member-head h2{font-size:28px;line-height:38px;font-weight:600;letter-spacing:-.015em;display:flex;align-items:center;gap:10px}
+.member-head h2 .dot{width:11px;height:11px;border-radius:9999px;flex:none}
+.member-facts{display:flex;flex-wrap:wrap;gap:10px 28px;margin:14px 0 6px}
+.member-facts div{font-size:12px;font-weight:500;color:var(--on-surface-variant)}
+.member-facts div b{display:block;font-size:14px;color:var(--on-surface);margin-top:1px}
+.member-note{font-size:13px;color:var(--on-surface-variant);margin:6px 0 2px}
+h3.sec{font-size:18px;font-weight:600;margin:26px 0 14px}
+
+/* ---------- footer ---------- */
+footer.site{margin-top:56px;background:var(--surface-container-low)}
+.footer-in{max-width:1280px;margin:0 auto;padding:32px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+.footer-in .c{font-size:13px;font-weight:500}
+.footer-in .tag{font-size:12px;color:var(--on-surface-variant)}
+.footer-note{max-width:1280px;margin:0 auto;padding:0 32px 32px;font-size:12px;color:var(--on-surface-variant)}
+
+/* ---------- responsive ---------- */
+@media (max-width:1023px){
+  :root{--rowh:224px}
+}
+@media (max-width:767px){
+  :root{--rowh:200px}
+  .header-in{height:64px;padding:0 20px}
+  .brand .tag{display:none}
+  .header-right nav.main,.avatar{display:none}
+  nav.mobile{display:flex;gap:20px;padding:0 20px 12px}
+  nav.mobile a{font-size:13px;font-weight:500;color:var(--on-surface-variant)}
+  nav.mobile a.active{color:var(--primary);font-weight:600}
+  main{padding:118px 20px 0}
+  .gallery{gap:16px}
+  .card.portrait{flex-basis:calc(var(--arr)*var(--rowh)*1.35)}
+  .overlay{display:none}
+  .mtext{display:block}
+  .day-head h2,h2.view-title{font-size:22px;line-height:30px}
+  .vrow{gap:12px;padding:10px}
+  .vrow .th{height:72px}
+  .mgrid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+  .footer-in{padding:24px 20px}
+  .footer-note{padding:0 20px 24px}
+}
 </style>
 </head>
 <body>
-<h1>坂道出演情報</h1>
-<p class="sub">SakamichiAppearances ― 坂道グループ（乃木坂46・櫻坂46・日向坂46）メンバーのYouTube出演動画データベース</p>
-
-<div class="stats" id="stats"></div>
-
-<div class="tabs">
-  <button id="tab-videos" class="on" type="button">動画一覧</button>
-  <button id="tab-members" type="button">メンバー一覧</button>
-</div>
-
-<section id="view-videos">
-  <div class="filters">
-    <input id="q" type="search" placeholder="タイトル・チャンネル名で検索">
-    <select id="f-category">
-      <option value="">区分：すべて</option>
-      <option value="official">公式</option>
-      <option value="appearance">出演</option>
-    </select>
-    <select id="f-family">
-      <option value="">グループ：すべて</option>
-      <option value="nogizaka">乃木坂46</option>
-      <option value="keyaki_sakura">櫻坂46系</option>
-      <option value="keyaki_hinata">日向坂46系</option>
-    </select>
-    <select id="f-member"><option value="">メンバー：すべて</option></select>
-    <select id="f-gen">
-      <option value="">期：すべて</option>
-    </select>
-    <select id="f-sort">
-      <option value="new">新着順</option>
-      <option value="views">再生数順</option>
-    </select>
+<header class="site">
+  <div class="header-in">
+    <div class="brand">
+      <span class="name">坂道出演情報</span>
+      <span class="tag">卒業した後も、その人の活動を追い続けられる場所</span>
+    </div>
+    <div class="header-right">
+      <nav class="main" id="nav-main">
+        <a href="#/new" data-route="new">新着動画</a>
+        <a href="#/all" data-route="all">全動画</a>
+        <a href="#/members" data-route="members">メンバー</a>
+      </nav>
+      <div class="avatar"><span class="material-symbols-outlined">person</span></div>
+    </div>
   </div>
-  <div class="grid" id="videos"></div>
-  <p class="empty hidden" id="videos-empty">条件に合う動画がありません。</p>
-  <p class="note">掲載対象は、公式チャンネルの動画と、正規のチャンネルと判定した外部チャンネルの出演動画のみです。切り抜き・まとめ・ニュース量産などのチャンネルの動画は、収集していても掲載しません。</p>
-</section>
+  <nav class="mobile" id="nav-mobile">
+    <a href="#/new" data-route="new">新着動画</a>
+    <a href="#/all" data-route="all">全動画</a>
+    <a href="#/members" data-route="members">メンバー</a>
+  </nav>
+</header>
 
-<section id="view-members" class="hidden">
-  <div class="filters">
-    <input id="mq" type="search" placeholder="名前・よみで検索">
-    <select id="mf-status">
-      <option value="">現役/OG：すべて</option>
-      <option value="active">現役</option>
-      <option value="og">OG</option>
-    </select>
-    <select id="mf-family">
-      <option value="">グループ：すべて</option>
-      <option value="nogizaka">乃木坂46</option>
-      <option value="keyaki_sakura">櫻坂46系</option>
-      <option value="keyaki_hinata">日向坂46系</option>
-    </select>
-    <select id="mf-gen"><option value="">期：すべて</option></select>
+<main id="main">
+  <p class="empty" id="loading">読み込み中…</p>
+
+  <!-- 新着動画 -->
+  <section id="view-new" class="hidden">
+    <div class="page-head">
+      <p class="summary"><span class="dot"></span><span>直近24時間で <b id="sum-total">-</b> 件の新着（うちOGの出演 <b class="og" id="sum-og">-</b> 件）</span></p>
+      <div class="head-row">
+        <div class="segment" id="seg-new" role="tablist" aria-label="メンバー区分フィルター">
+          <button type="button" data-filter="all" class="on">すべて</button>
+          <button type="button" data-filter="active">現役</button>
+          <button type="button" data-filter="og">OG</button>
+        </div>
+        <span class="update-note"><span class="material-symbols-outlined">schedule</span>データは毎日18時ごろ更新されます</span>
+      </div>
+    </div>
+    <div id="days"></div>
+  </section>
+
+  <!-- 全動画 -->
+  <section id="view-all" class="hidden">
+    <h2 class="view-title">全動画</h2>
+    <p class="view-sub">掲載中のすべての動画から、検索・絞り込みができます。</p>
+    <div class="toolbar">
+      <input id="aq" type="search" placeholder="タイトル・チャンネル名・メンバー名で検索">
+      <div class="segment" id="seg-all" role="tablist" aria-label="メンバー区分フィルター">
+        <button type="button" data-filter="all" class="on">すべて</button>
+        <button type="button" data-filter="active">現役</button>
+        <button type="button" data-filter="og">OG</button>
+      </div>
+    </div>
+    <div class="toolbar">
+      <select id="af-family">
+        <option value="">グループ：すべて</option>
+        <option value="nogizaka">乃木坂46系</option>
+        <option value="keyaki_sakura">欅坂46・櫻坂46系</option>
+        <option value="keyaki_hinata">けやき坂46・日向坂46系</option>
+      </select>
+      <select id="af-category">
+        <option value="">区分：すべて</option>
+        <option value="official">公式</option>
+        <option value="appearance">出演</option>
+      </select>
+      <select id="af-member"><option value="">メンバー：すべて</option></select>
+      <select id="af-gen"><option value="">期：すべて</option></select>
+      <select id="af-sort">
+        <option value="new">新着順</option>
+        <option value="views">再生数順</option>
+      </select>
+    </div>
+    <p class="count-line" id="all-count"></p>
+    <div class="vlist" id="all-list"></div>
+    <p class="empty hidden" id="all-empty">条件に合う動画がありません。</p>
+  </section>
+
+  <!-- メンバー -->
+  <section id="view-members" class="hidden">
+    <h2 class="view-title">メンバー</h2>
+    <p class="view-sub">対象メンバー全員の、出演動画へのリンクです。</p>
+    <div class="toolbar">
+      <input id="mq" type="search" placeholder="名前・よみで検索">
+      <div class="segment" id="seg-members" role="tablist" aria-label="現役・OGフィルター">
+        <button type="button" data-filter="all" class="on">すべて</button>
+        <button type="button" data-filter="active">現役</button>
+        <button type="button" data-filter="og">OG</button>
+      </div>
+    </div>
+    <div class="toolbar">
+      <select id="mf-family">
+        <option value="">グループ：すべて</option>
+        <option value="nogizaka">乃木坂46系</option>
+        <option value="keyaki_sakura">欅坂46・櫻坂46系</option>
+        <option value="keyaki_hinata">けやき坂46・日向坂46系</option>
+      </select>
+      <select id="mf-gen"><option value="">期：すべて</option></select>
+      <select id="mf-sort">
+        <option value="roster">名簿順</option>
+        <option value="count">出演数が多い順</option>
+        <option value="recent">最近出演した順</option>
+      </select>
+    </div>
+    <p class="count-line" id="members-count"></p>
+    <div class="mgrid" id="members-grid"></div>
+    <p class="empty hidden" id="members-empty">条件に合うメンバーがいません。</p>
+  </section>
+
+  <!-- メンバー詳細 -->
+  <section id="view-member" class="hidden">
+    <a class="backlink" href="#/members"><span class="material-symbols-outlined">arrow_back</span>メンバー一覧へ</a>
+    <div id="member-detail"></div>
+  </section>
+</main>
+
+<footer class="site">
+  <div class="footer-in">
+    <span class="c">© 2025 坂道出演情報</span>
+    <span class="tag">卒業した後も、その人の活動を追い続けられる場所</span>
   </div>
-  <table>
-    <thead><tr><th>名前</th><th>グループ</th><th>期</th><th>状態</th><th>加入日</th><th>卒業日</th><th>備考</th></tr></thead>
-    <tbody id="members"></tbody>
-  </table>
-  <p class="empty hidden" id="members-empty">条件に合うメンバーがいません。</p>
-  <p class="note">状態（現役/OG）は、卒業日と今日の日付の比較でその都度判定しています。卒業予定日が入っているメンバーは、その日までは現役として表示されます。</p>
-</section>
+  <p class="footer-note">掲載対象は、公式チャンネルの動画と、正規のチャンネルと判定した外部チャンネルの出演動画のみです。切り抜き・まとめ等のチャンネルの動画は、収集していても掲載しません。状態（現役/OG）は卒業日と今日の日付の比較で表示時に判定しています。</p>
+</footer>
 
 <script>
-const fmt = n => n == null ? "―" : n.toLocaleString("ja-JP");
-const fmtDate = iso => {
-  if (!iso) return "―";
-  const d = new Date(iso);
-  return d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", year: "numeric", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
-};
-const todayStr = () => {
-  const d = new Date();
-  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-};
-// 現役/OGは保存せず、卒業日と今日の比較で導出する
+const FAMCOLOR = {nogizaka:"var(--g-nogizaka)", keyaki_sakura:"var(--g-sakura)", keyaki_hinata:"var(--g-hinata)"};
+const FAM_SHORT = {nogizaka:"乃木坂", keyaki_sakura:"櫻坂系", keyaki_hinata:"日向坂系"};
+const WD = ["日","月","火","水","木","金","土"];
+const esc = s => String(s ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+const todayStr = () => { const d = new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); };
 const statusOf = m => (!m.graduation_date || m.graduation_date > todayStr()) ? "active" : "og";
+const genKeyOf = m => m.family + ":" + (m.generation.group == null ? "label:" + m.generation.label : "group:" + m.generation.group);
 
-let MEMBERS = [], VIDEOS = [], META = {}, MEMBERS_META = {};
+let MEMBERS = [], VIDEOS = [], MEMBERS_META = {};
 const memberByName = {};
-const FAM_SHORT = { nogizaka: "乃木坂", keyaki_sakura: "櫻坂系", keyaki_hinata: "日向坂系" };
+const memberStats = {}; // name -> {count, latest}
 
-// 表示名は「卒業時点（現役は現在）のグループ名」を改名境界から導出する
-function groupNameOf(m) {
+function groupNameOf(m){
   const b = (MEMBERS_META.rename_boundaries || {})[m.family];
-  if (!b) return "乃木坂46";
+  if(!b) return "乃木坂46";
   const ref = m.graduation_date || todayStr();
   return ref <= b.old_until ? b.old : b.new;
 }
+function famOf(name){ const m = memberByName[name]; return m ? m.family : null; }
+function isOGName(name){ const m = memberByName[name]; return m ? statusOf(m) === "og" : false; }
 
-function genOptions(sel) {
-  const seen = new Map();
-  for (const m of MEMBERS) {
-    const g = m.generation;
-    const key = genKeyOf(m);
-    if (!seen.has(key)) seen.set(key, { key, label: FAM_SHORT[m.family] + " " + g.label, sort: (g.sort ?? 999) });
+function enrich(v){
+  const hasActive = v.members.length === 0 ? v.category === "official" : v.members.some(n => !isOGName(n));
+  const hasOG = v.members.some(n => isOGName(n));
+  const vertical = !!v.is_short || (Array.isArray(v.oar) && v.oar[0] < v.oar[1]);
+  let arw = 16, arh = 9, src, fallback;
+  if(vertical && Array.isArray(v.oar)){
+    src = "https://i.ytimg.com/vi/" + v.video_id + "/oardefault.jpg";
+    fallback = "https://i.ytimg.com/vi/" + v.video_id + "/maxresdefault.jpg";
+    arw = v.oar[0]; arh = v.oar[1];
+  } else if(vertical){
+    src = "https://i.ytimg.com/vi/" + v.video_id + "/maxresdefault.jpg";
+    fallback = v.thumbnail; arw = 9; arh = 16;
+  } else {
+    src = "https://i.ytimg.com/vi/" + v.video_id + "/maxresdefault.jpg";
+    fallback = v.thumbnail;
   }
-  [...seen.values()].sort((a, b) => a.sort - b.sort).forEach(o => {
+  return Object.assign({}, v, {hasActive, hasOG, vertical, arw, arh, src, fallback, pub: new Date(v.published_at)});
+}
+
+/* ---------- 表示ヘルパー ---------- */
+function jst(d){ return new Date(d.getTime() + 9*3600*1000); }
+function relTime(d, now){
+  const min = Math.max(1, Math.round((now - d)/60000));
+  if(min < 60) return min + "分前";
+  const h = Math.floor(min/60);
+  if(h < 24) return h + "時間前";
+  return Math.floor(h/24) + "日前";
+}
+function hm(d){ const j = jst(d); return (j.getUTCMonth()+1)+"/"+j.getUTCDate()+" " + String(j.getUTCHours()).padStart(2,"0")+":"+String(j.getUTCMinutes()).padStart(2,"0"); }
+function ymd(d){ const j = jst(d); return j.getUTCFullYear()+"/"+(j.getUTCMonth()+1)+"/"+j.getUTCDate(); }
+function fmtViews(v){
+  if(v == null) return "―";
+  if(v >= 10000){ const s = (Math.round(v/1000)/10).toString().replace(/\.0$/,""); return s + "万回"; }
+  return v.toLocaleString("ja-JP") + "回";
+}
+function memberLabel(v){
+  if(v.members.length === 0) return {text:"グループ公式動画", fam:null};
+  const names = v.members.slice(0,2).join("、");
+  const rest = v.members.length > 2 ? " ほか" + (v.members.length-2) + "名" : "";
+  return {text: names + rest, fam: famOf(v.members[0])};
+}
+function memberLinks(v){
+  if(v.members.length === 0) return '<span class="mem"><span class="dot" style="background:var(--primary-fixed-dim)"></span>グループ公式動画</span>';
+  const fam = famOf(v.members[0]);
+  const links = v.members.map(n => '<a href="#/member/' + encodeURIComponent(n) + '">' + esc(n) + '</a>').join("、");
+  return '<span class="mem"><span class="dot" style="background:' + (fam ? FAMCOLOR[fam] : "var(--primary-fixed-dim)") + '"></span><span style="overflow:hidden;text-overflow:ellipsis">' + links + '</span></span>';
+}
+
+/* ---------- 新着動画 ---------- */
+let newFilter = "all";
+function dayKey(d){ const j = jst(d); return j.getUTCFullYear()+"-"+(j.getUTCMonth()+1)+"-"+j.getUTCDate(); }
+function dayLabel(d, now){
+  const j = jst(d), t = jst(now);
+  const md = (j.getUTCMonth()+1)+"月"+j.getUTCDate()+"日（"+WD[j.getUTCDay()]+"）";
+  const same = (a,b) => a.getUTCFullYear()===b.getUTCFullYear() && a.getUTCMonth()===b.getUTCMonth() && a.getUTCDate()===b.getUTCDate();
+  if(same(j,t)) return "今日 " + md;
+  if(same(j, new Date(t.getTime() - 24*3600*1000))) return "昨日 " + md;
+  return md;
+}
+function cardHTML(v, now){
+  const ml = memberLabel(v);
+  const dotColor = ml.fam ? FAMCOLOR[ml.fam] : "var(--primary-fixed-dim)";
+  const upcoming = v.broadcast_content === "upcoming";
+  const when = upcoming && v.scheduled_start_time ? new Date(v.scheduled_start_time) : v.pub;
+  const badge = upcoming ? '<span class="badge-upcoming">公開予約 ' + hm(when) + '</span>' : "";
+  const official = v.category === "official" ? '<span class="badge-official">公式</span>' : "";
+  const arr = (v.arw/v.arh).toFixed(4);
+  return '<a class="card' + (v.vertical ? " portrait" : "") + '" style="--arr:' + arr + ';--arstr:' + v.arw + '/' + v.arh + '" href="' + esc(v.url) + '" target="_blank" rel="noopener">'
+    + '<div class="thumb"><img src="' + v.src + '" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'' + v.fallback + '\'">'
+    + '<span class="chip"><span class="dot" style="background:' + dotColor + '"></span>' + relTime(v.pub, now) + '</span>'
+    + badge
+    + '<div class="overlay"><div class="ov-chan">' + official + '<span class="ch-name">' + esc(v.channel_title) + '</span></div>'
+    + '<div class="ov-title">' + esc(v.title) + '</div>'
+    + '<div class="ov-meta"><span class="ov-members"><span class="dot" style="background:' + dotColor + '"></span>' + esc(ml.text) + '</span>'
+    + '<span class="ov-when">' + hm(v.pub) + ' ・ ' + fmtViews(v.views) + '</span></div></div>'
+    + '</div>'
+    + '<div class="mtext"><div class="t">' + esc(v.title) + '</div>'
+    + '<div class="mrow"><span class="dot" style="background:' + dotColor + '"></span>' + esc(ml.text) + '</div>'
+    + '<div class="meta">' + esc(v.channel_title) + ' ・ ' + relTime(v.pub, now) + ' ・ ' + fmtViews(v.views) + '</div></div>'
+    + '</a>';
+}
+function renderNew(){
+  const now = new Date();
+  const win = VIDEOS.filter(v => v.pub >= new Date(now.getTime() - 24*3600*1000) && v.pub <= now);
+  const vis = win.filter(v => newFilter === "all" || (newFilter === "active" ? v.hasActive : v.hasOG));
+  document.getElementById("sum-total").textContent = vis.length;
+  document.getElementById("sum-og").textContent = vis.filter(v => v.hasOG).length;
+  const groups = new Map();
+  vis.forEach(v => { const k = dayKey(v.pub); if(!groups.has(k)) groups.set(k, []); groups.get(k).push(v); });
+  const root = document.getElementById("days");
+  if(vis.length === 0){ root.innerHTML = '<p class="empty">直近24時間の新着動画はありません。</p>'; return; }
+  root.innerHTML = Array.from(groups.entries()).map(([k, list]) =>
+    '<section class="day"><div class="day-head"><h2>' + dayLabel(list[0].pub, now) + '</h2><span class="count">' + list.length + '件</span></div>'
+    + '<div class="gallery">' + list.map(v => cardHTML(v, now)).join("") + '</div></section>'
+  ).join("");
+}
+
+/* ---------- 全動画 ---------- */
+let allFilter = "all";
+function vrowHTML(v){
+  const upcoming = v.broadcast_content === "upcoming";
+  const when = upcoming && v.scheduled_start_time ? new Date(v.scheduled_start_time) : null;
+  const pills = (v.category === "official" ? ' <span class="pill">公式</span>' : "")
+    + (upcoming ? ' <span class="pill solid">公開予約' + (when ? " " + hm(when) : "") + '</span>' : "");
+  return '<article class="vrow">'
+    + '<a class="th" style="--arstr:' + v.arw + '/' + v.arh + '" href="' + esc(v.url) + '" target="_blank" rel="noopener"><img src="' + v.src + '" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'' + v.fallback + '\'"></a>'
+    + '<div class="info"><a class="t" href="' + esc(v.url) + '" target="_blank" rel="noopener">' + esc(v.title) + '</a>' + pills
+    + memberLinks(v)
+    + '<div class="meta">' + esc(v.channel_title) + ' ・ ' + ymd(v.pub) + " " + hm(v.pub).split(" ")[1] + ' ・ 再生 ' + fmtViews(v.views) + ' ・ 高評価 ' + (v.likes == null ? "―" : v.likes.toLocaleString("ja-JP")) + '</div>'
+    + '</div></article>';
+}
+function renderAll(){
+  const q = document.getElementById("aq").value.trim();
+  const fam = document.getElementById("af-family").value;
+  const cat = document.getElementById("af-category").value;
+  const mem = document.getElementById("af-member").value;
+  const gen = document.getElementById("af-gen").value;
+  const sort = document.getElementById("af-sort").value;
+  let list = VIDEOS.filter(v =>
+    (allFilter === "all" || (allFilter === "active" ? v.hasActive : v.hasOG)) &&
+    (!q || v.title.includes(q) || (v.channel_title || "").includes(q) || v.members.some(n => n.includes(q))) &&
+    (!cat || v.category === cat) &&
+    (!fam || v.members.some(n => { const m = memberByName[n]; return m && m.family === fam; })) &&
+    (!mem || v.members.includes(mem)) &&
+    (!gen || v.members.some(n => { const m = memberByName[n]; return m && genKeyOf(m) === gen; }))
+  );
+  list.sort((a,b) => sort === "views" ? (b.views ?? -1) - (a.views ?? -1) : b.pub - a.pub);
+  document.getElementById("all-count").innerHTML = "<b>" + list.length + "</b> 件の動画";
+  document.getElementById("all-list").innerHTML = list.map(vrowHTML).join("");
+  document.getElementById("all-empty").classList.toggle("hidden", list.length > 0);
+}
+
+/* ---------- メンバー ---------- */
+let memFilter = "all";
+function renderMembers(){
+  const q = document.getElementById("mq").value.trim();
+  const fam = document.getElementById("mf-family").value;
+  const gen = document.getElementById("mf-gen").value;
+  const sort = document.getElementById("mf-sort").value;
+  let list = MEMBERS.filter(m =>
+    (memFilter === "all" || statusOf(m) === memFilter) &&
+    (!q || m.name.includes(q) || (m.yomi || "").includes(q)) &&
+    (!fam || m.family === fam) &&
+    (!gen || genKeyOf(m) === gen)
+  );
+  if(sort === "count") list = [...list].sort((a,b) => (memberStats[b.name]?.count || 0) - (memberStats[a.name]?.count || 0));
+  if(sort === "recent") list = [...list].sort((a,b) => (memberStats[b.name]?.latest || "") .localeCompare(memberStats[a.name]?.latest || ""));
+  document.getElementById("members-count").innerHTML = "<b>" + list.length + "</b> 名のメンバー";
+  document.getElementById("members-grid").innerHTML = list.map(m => {
+    const st = statusOf(m);
+    const stText = st === "og" ? "OG" : (m.graduation_date ? "現役（" + m.graduation_date + " 卒業予定）" : "現役");
+    const s = memberStats[m.name] || {count:0, latest:null};
+    return '<a class="mcard" href="#/member/' + encodeURIComponent(m.name) + '">'
+      + '<div class="nm"><span class="dot" style="background:' + FAMCOLOR[m.family] + '"></span>' + esc(m.name) + '</div>'
+      + '<div class="yomi">' + esc(m.yomi || "") + '</div>'
+      + '<div class="row"><span>' + esc(groupNameOf(m)) + ' ・ ' + esc(m.generation.label) + '</span><span>' + stText + '</span></div>'
+      + '<div class="row"><span>出演動画</span><b>' + s.count + '件' + (s.latest ? '（最新 ' + s.latest.slice(5).replace("-", "/") + '）' : '') + '</b></div>'
+      + '</a>';
+  }).join("");
+  document.getElementById("members-empty").classList.toggle("hidden", list.length > 0);
+}
+function renderMember(name){
+  const m = memberByName[name];
+  const root = document.getElementById("member-detail");
+  if(!m){ root.innerHTML = '<p class="empty">メンバーが見つかりません。</p>'; return; }
+  const st = statusOf(m);
+  const list = VIDEOS.filter(v => v.members.includes(name));
+  const facts = [
+    ["グループ", groupNameOf(m) + "（" + (MEMBERS_META.families?.[m.family] || "") + "）"],
+    ["期", m.generation.label],
+    ["状態", st === "og" ? "OG" : "現役"],
+    ["加入日", m.join_date || "―"],
+    ["卒業日", m.graduation_date ? m.graduation_date + (st === "active" ? "（予定）" : "") : "―"],
+    ["出演動画", list.length + "件"],
+  ];
+  root.innerHTML = '<div class="member-head"><h2><span class="dot" style="background:' + FAMCOLOR[m.family] + '"></span>' + esc(m.name) + '</h2>'
+    + '<div class="yomi" style="font-size:13px;color:var(--on-surface-variant)">' + esc(m.yomi || "") + '</div></div>'
+    + '<div class="member-facts">' + facts.map(([k,v]) => '<div>' + k + '<b>' + esc(v) + '</b></div>').join("") + '</div>'
+    + (m.note ? '<p class="member-note">' + esc(m.note) + '</p>' : "")
+    + '<h3 class="sec">出演動画</h3>'
+    + (list.length ? '<div class="vlist">' + list.map(vrowHTML).join("") + '</div>' : '<p class="empty">掲載中の出演動画はまだありません。</p>');
+}
+
+/* ---------- ルーター ---------- */
+const VIEWS = ["new", "all", "members", "member"];
+function route(){
+  const h = location.hash || "#/new";
+  let view = "new", param = null;
+  if(h.startsWith("#/all")) view = "all";
+  else if(h.startsWith("#/members")) view = "members";
+  else if(h.startsWith("#/member/")){ view = "member"; param = decodeURIComponent(h.slice("#/member/".length)); }
+  VIEWS.forEach(v => document.getElementById("view-" + v).classList.toggle("hidden", v !== view));
+  const navKey = view === "member" ? "members" : view;
+  document.querySelectorAll("nav a[data-route]").forEach(a => a.classList.toggle("active", a.dataset.route === navKey));
+  if(view === "new") renderNew();
+  else if(view === "all") renderAll();
+  else if(view === "members") renderMembers();
+  else if(view === "member") renderMember(param);
+  window.scrollTo(0, 0);
+}
+function wireSegment(id, set){
+  const el = document.getElementById(id);
+  el.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+    el.querySelectorAll("button").forEach(x => x.classList.remove("on"));
+    b.classList.add("on");
+    set(b.dataset.filter);
+  }));
+}
+function genOptions(sel){
+  const seen = new Map();
+  for(const m of MEMBERS){
+    const key = genKeyOf(m);
+    if(!seen.has(key)) seen.set(key, {key, label: FAM_SHORT[m.family] + " " + m.generation.label, sort: (m.generation.sort ?? 999)});
+  }
+  [...seen.values()].sort((a,b) => a.sort - b.sort).forEach(o => {
     const el = document.createElement("option");
     el.value = o.key; el.textContent = o.label;
     sel.appendChild(el);
   });
 }
-const genKeyOf = m => m.family + ":" + (m.generation.group == null ? "label:" + m.generation.label : "group:" + m.generation.group);
 
-function renderStats() {
-  const active = MEMBERS.filter(m => statusOf(m) === "active").length;
-  document.getElementById("stats").innerHTML = [
-    ["対象メンバー", MEMBERS.length + "名"],
-    ["現役", active + "名"],
-    ["掲載動画", VIDEOS.length + "件"],
-    ["うち公式", (META.official ?? 0) + "件"],
-    ["うち出演", (META.appearance ?? 0) + "件"],
-    ["収集した候補", (META.collected_total ?? 0) + "件"],
-  ].map(([k, v]) => `<div class="stat">${k} <b>${v}</b></div>`).join("");
-}
-
-function renderVideos() {
-  const q = document.getElementById("q").value.trim();
-  const cat = document.getElementById("f-category").value;
-  const fam = document.getElementById("f-family").value;
-  const mem = document.getElementById("f-member").value;
-  const gen = document.getElementById("f-gen").value;
-  const sort = document.getElementById("f-sort").value;
-  let list = VIDEOS.filter(v =>
-    (!q || v.title.includes(q) || (v.channel_title || "").includes(q)) &&
-    (!cat || v.category === cat) &&
-    (!fam || v.members.some(name => memberByName[name] && memberByName[name].family === fam)) &&
-    (!mem || v.members.includes(mem)) &&
-    (!gen || v.members.some(name => memberByName[name] && genKeyOf(memberByName[name]) === gen))
-  );
-  list.sort((a, b) => sort === "views" ? (b.views ?? -1) - (a.views ?? -1) : (b.published_at || "").localeCompare(a.published_at || ""));
-  document.getElementById("videos").innerHTML = list.map(v => `
-    <article class="card">
-      <a href="${v.url}" target="_blank" rel="noopener"><img src="${v.thumbnail}" alt="" loading="lazy"></a>
-      <div class="body">
-        <div><span class="badge">${v.category === "official" ? "公式" : "出演"}</span>${v.broadcast_content === "upcoming" ? ` <span class="badge og">公開予約${v.scheduled_start_time ? " " + fmtDate(v.scheduled_start_time) : ""}</span>` : ""}</div>
-        <div class="title"><a href="${v.url}" target="_blank" rel="noopener">${v.title}</a></div>
-        <div class="meta">${v.channel_title || ""}</div>
-        <div class="meta">${fmtDate(v.published_at)} ・ 再生 ${fmt(v.views)} ・ 高評価 ${fmt(v.likes)}</div>
-        <div class="tags">${v.members.map(name => `<button class="tag" type="button" data-member="${name}">${name}</button>`).join("")}</div>
-      </div>
-    </article>`).join("");
-  document.getElementById("videos-empty").classList.toggle("hidden", list.length > 0);
-  document.querySelectorAll(".tag[data-member]").forEach(el =>
-    el.addEventListener("click", () => {
-      document.getElementById("f-member").value = el.dataset.member;
-      renderVideos();
+async function init(){
+  try {
+    const [mj, vj] = await Promise.all([
+      fetch("data/members.json").then(r => r.json()),
+      fetch("data/videos.json").then(r => r.json()),
+    ]);
+    MEMBERS = mj.members; MEMBERS_META = mj.meta || {};
+    MEMBERS.forEach(m => memberByName[m.name] = m);
+    VIDEOS = vj.videos.map(enrich).sort((a,b) => b.pub - a.pub);
+    VIDEOS.forEach(v => v.members.forEach(n => {
+      const s = memberStats[n] || (memberStats[n] = {count:0, latest:null});
+      s.count++;
+      const d = v.published_at.slice(0,10);
+      if(!s.latest || d > s.latest) s.latest = d;
     }));
-}
-
-function renderMembers() {
-  const q = document.getElementById("mq").value.trim();
-  const st = document.getElementById("mf-status").value;
-  const fam = document.getElementById("mf-family").value;
-  const gen = document.getElementById("mf-gen").value;
-  const list = MEMBERS.filter(m =>
-    (!q || m.name.includes(q) || (m.yomi || "").includes(q)) &&
-    (!st || statusOf(m) === st) &&
-    (!fam || m.family === fam) &&
-    (!gen || genKeyOf(m) === gen)
-  );
-  document.getElementById("members").innerHTML = list.map(m => {
-    const st = statusOf(m);
-    const future = st === "active" && m.graduation_date;
-    return `<tr>
-      <td><b>${m.name}</b><br><span class="meta">${m.yomi || ""}</span></td>
-      <td>${groupNameOf(m)}</td>
-      <td>${m.generation.label}</td>
-      <td><span class="badge ${st === "og" ? "og" : ""}">${st === "og" ? "OG" : "現役"}</span>${future ? `<br><span class="meta">${m.graduation_date} 卒業予定</span>` : ""}</td>
-      <td>${m.join_date || "―"}</td>
-      <td>${m.graduation_date || "―"}</td>
-      <td class="meta">${m.note || ""}</td>
-    </tr>`;
-  }).join("");
-  document.getElementById("members-empty").classList.toggle("hidden", list.length > 0);
-}
-
-async function init() {
-  const [mj, vj] = await Promise.all([
-    fetch("data/members.json").then(r => r.json()),
-    fetch("data/videos.json").then(r => r.json()),
-  ]);
-  MEMBERS = mj.members; VIDEOS = vj.videos; META = vj.meta; MEMBERS_META = mj.meta || {};
-  MEMBERS.forEach(m => memberByName[m.name] = m);
-  const memSel = document.getElementById("f-member");
-  for (const fam of ["nogizaka", "keyaki_sakura", "keyaki_hinata"]) {
-    const og = document.createElement("optgroup");
-    og.label = FAM_SHORT[fam];
-    MEMBERS.filter(m => m.family === fam).forEach(m => {
-      const el = document.createElement("option");
-      el.value = m.name; el.textContent = `${m.name}（${m.generation.label}）`;
-      og.appendChild(el);
-    });
-    memSel.appendChild(og);
+    const memSel = document.getElementById("af-member");
+    for(const fam of ["nogizaka", "keyaki_sakura", "keyaki_hinata"]){
+      const og = document.createElement("optgroup");
+      og.label = (MEMBERS_META.families || {})[fam] || fam;
+      MEMBERS.filter(m => m.family === fam).forEach(m => {
+        const el = document.createElement("option");
+        el.value = m.name; el.textContent = m.name + "（" + m.generation.label + "）";
+        og.appendChild(el);
+      });
+      memSel.appendChild(og);
+    }
+    genOptions(document.getElementById("af-gen"));
+    genOptions(document.getElementById("mf-gen"));
+    wireSegment("seg-new", f => { newFilter = f; renderNew(); });
+    wireSegment("seg-all", f => { allFilter = f; renderAll(); });
+    wireSegment("seg-members", f => { memFilter = f; renderMembers(); });
+    ["aq", "af-family", "af-category", "af-member", "af-gen", "af-sort"].forEach(id =>
+      document.getElementById(id).addEventListener("input", renderAll));
+    ["mq", "mf-family", "mf-gen", "mf-sort"].forEach(id =>
+      document.getElementById(id).addEventListener("input", renderMembers));
+    document.getElementById("loading").classList.add("hidden");
+    window.addEventListener("hashchange", route);
+    route();
+  } catch(e) {
+    document.getElementById("loading").textContent = "データの読み込みに失敗しました。";
   }
-  genOptions(document.getElementById("f-gen"));
-  genOptions(document.getElementById("mf-gen"));
-  renderStats(); renderVideos(); renderMembers();
-  ["q", "f-category", "f-family", "f-member", "f-gen", "f-sort"].forEach(id =>
-    document.getElementById(id).addEventListener("input", renderVideos));
-  ["mq", "mf-status", "mf-family", "mf-gen"].forEach(id =>
-    document.getElementById(id).addEventListener("input", renderMembers));
-  const tv = document.getElementById("tab-videos"), tm = document.getElementById("tab-members");
-  tv.addEventListener("click", () => {
-    tv.classList.add("on"); tm.classList.remove("on");
-    document.getElementById("view-videos").classList.remove("hidden");
-    document.getElementById("view-members").classList.add("hidden");
-  });
-  tm.addEventListener("click", () => {
-    tm.classList.add("on"); tv.classList.remove("on");
-    document.getElementById("view-members").classList.remove("hidden");
-    document.getElementById("view-videos").classList.add("hidden");
-  });
 }
 init();
 </script>
