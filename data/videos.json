@@ -1,13 +1,307 @@
 {
  "meta": {
-  "collected_total": 2172,
-  "official": 11,
-  "appearance": 87,
-  "excluded_not_legit_or_noise": 2067,
+  "collected_total": 2876,
+  "official": 14,
+  "appearance": 134,
+  "excluded_not_legit_or_noise": 2719,
   "excluded_user": 7,
-  "held_no_member_match": 0
+  "held_no_member_match": 2
  },
  "videos": [
+  {
+   "video_id": "xclUVQkqLXQ",
+   "title": "「愛してる」とどうしてあと一回 ちゃんと言えなかったのかな #乃木坂46_君ロス#乃木坂46",
+   "url": "https://www.youtube.com/watch?v=xclUVQkqLXQ",
+   "thumbnail": "https://i.ytimg.com/vi/xclUVQkqLXQ/mqdefault.jpg",
+   "channel_id": "UCUzpZpX2wRYOk3J8QTFGxDg",
+   "channel_title": "乃木坂46 OFFICIAL YouTube CHANNEL",
+   "published_at": "2026-11-27T08:30:09Z",
+   "category": "official",
+   "members": [],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3556,
+   "likes": 507,
+   "comments": 24,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "do_hpo6Wjwk",
+   "title": "【佐々木久美】最新レジに大苦戦!",
+   "url": "https://www.youtube.com/watch?v=do_hpo6Wjwk",
+   "thumbnail": "https://i.ytimg.com/vi/do_hpo6Wjwk/mqdefault.jpg",
+   "channel_id": "UCYTvGgFlQeuzKLfA1WZggFw",
+   "channel_title": "しごとリアル【しごりあ】dip公式",
+   "published_at": "2026-11-27T08:00:29Z",
+   "category": "appearance",
+   "members": [
+    "佐々木久美"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 844,
+   "likes": 11,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "-IBNySWbPPI",
+   "title": "【松村沙友理】自炊する時間がなくても…トマトケチャップとマヨネーズを使って5分！さゆりんご「ケチャマヨでいいんだ」「今後は絶対これ」簡単アレンジレシピ【Tasty's Secret】",
+   "url": "https://www.youtube.com/watch?v=-IBNySWbPPI",
+   "thumbnail": "https://i.ytimg.com/vi/-IBNySWbPPI/mqdefault.jpg",
+   "channel_id": "UCQXGqxhKJM-pHm3HNjDcqfg",
+   "channel_title": "BuzzFeed Japan",
+   "published_at": "2026-11-27T08:00:05Z",
+   "category": "appearance",
+   "members": [
+    "松村沙友理"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2,
+   "likes": 0,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "iqy9aHhjGm8",
+   "title": "【⬆️本編はコチラ⬆️】松田vs森田！勝敗はお察しの通りです…⚔【ダイジェスト 】#shorts #櫻坂チャンネル",
+   "url": "https://www.youtube.com/watch?v=iqy9aHhjGm8",
+   "thumbnail": "https://i.ytimg.com/vi/iqy9aHhjGm8/mqdefault.jpg",
+   "channel_id": "UCDNDlqJRz4FsO_ByfUNOSuQ",
+   "channel_title": "櫻坂チャンネル",
+   "published_at": "2026-11-27T07:52:13Z",
+   "category": "official",
+   "members": [
+    "遠藤光莉",
+    "大園玲",
+    "大沼晶保",
+    "幸阪茉里乃",
+    "田村保乃",
+    "藤吉夏鈴",
+    "松田里奈",
+    "森田ひかる",
+    "守屋麗奈",
+    "山﨑天"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2830,
+   "likes": 448,
+   "comments": 10,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "CrFeNvTkAAw",
+   "title": "ドラムに会いに行こう！",
+   "url": "https://www.youtube.com/watch?v=CrFeNvTkAAw",
+   "thumbnail": "https://i.ytimg.com/vi/CrFeNvTkAAw/mqdefault.jpg",
+   "channel_id": "UC9BihA2GY6ATFR__KvRWudA",
+   "channel_title": "かりんチャンネル",
+   "published_at": "2026-11-27T07:48:45Z",
+   "category": "appearance",
+   "members": [
+    "伊藤かりん"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 849,
+   "likes": 38,
+   "comments": 3,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "cqlU9DipNVU",
+   "title": "『赤ひげ』2026-2027 丹生明里コメント動画",
+   "url": "https://www.youtube.com/watch?v=cqlU9DipNVU",
+   "thumbnail": "https://i.ytimg.com/vi/cqlU9DipNVU/mqdefault.jpg",
+   "channel_id": "UCG1gvkmxc78Z-3ZEjPTC5Fw",
+   "channel_title": "明治座公式YouTubeチャンネル",
+   "published_at": "2026-11-27T03:00:03Z",
+   "category": "appearance",
+   "members": [
+    "丹生明里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 465,
+   "likes": 38,
+   "comments": 3,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "EQXlhQa7Yl4",
+   "title": "【松村沙友理】自炊する時間がなくても…トマトケチャップとマヨネーズを使って5分！さゆりんご「ケチャマヨでいいんだ」「今後は絶対これ」簡単アレンジレシピ【Tasty's Secret】",
+   "url": "https://www.youtube.com/watch?v=EQXlhQa7Yl4",
+   "thumbnail": "https://i.ytimg.com/vi/EQXlhQa7Yl4/mqdefault.jpg",
+   "channel_id": "UCilGprjH_UBgR5vLVXPff3Q",
+   "channel_title": "Tasty Japan",
+   "published_at": "2026-11-27T01:00:14Z",
+   "category": "appearance",
+   "members": [
+    "松村沙友理"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 925,
+   "likes": 11,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "E1JwXoeCFRc",
+   "title": "田村保乃×八木アリサの超溺愛MYベスコス発表【2026年下半期】",
+   "url": "https://www.youtube.com/watch?v=E1JwXoeCFRc",
+   "thumbnail": "https://i.ytimg.com/vi/E1JwXoeCFRc/mqdefault.jpg",
+   "channel_id": "UCZ9qH9bedbEp7IDhlbNJfRw",
+   "channel_title": "VOCEchannel",
+   "published_at": "2026-11-26T11:00:21Z",
+   "category": "appearance",
+   "members": [
+    "田村保乃"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 17564,
+   "likes": 225,
+   "comments": 8,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "S2Ha5TMZ554",
+   "title": "【⬆️本編はコチラ⬆️】ういろがいも堀りで大家族を掘り起こす！🍠【ダイジェスト 】#shorts #櫻坂チャンネル",
+   "url": "https://www.youtube.com/watch?v=S2Ha5TMZ554",
+   "thumbnail": "https://i.ytimg.com/vi/S2Ha5TMZ554/mqdefault.jpg",
+   "channel_id": "UCDNDlqJRz4FsO_ByfUNOSuQ",
+   "channel_title": "櫻坂チャンネル",
+   "published_at": "2026-11-26T10:07:15Z",
+   "category": "official",
+   "members": [
+    "目黒陽色",
+    "山川宇衣"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 11950,
+   "likes": 1119,
+   "comments": 17,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "Uz9nPZuZWqQ",
+   "title": "【ゲスト：夏川椎菜】ポイントカードの話でここまで盛り上がるとは - 文化部特派員「宮田愛萌」【#67】",
+   "url": "https://www.youtube.com/watch?v=Uz9nPZuZWqQ",
+   "thumbnail": "https://i.ytimg.com/vi/Uz9nPZuZWqQ/mqdefault.jpg",
+   "channel_id": "UChhzfM8_vJOeea3_KQf2iMg",
+   "channel_title": "TVLIFE",
+   "published_at": "2026-11-26T10:00:39Z",
+   "category": "appearance",
+   "members": [
+    "渡邉美穂",
+    "宮田愛萌"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1018,
+   "likes": null,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "YDJRO0UC2t8",
+   "title": "まったりするさとるくんとかまってほしいアッシュくん",
+   "url": "https://www.youtube.com/watch?v=YDJRO0UC2t8",
+   "thumbnail": "https://i.ytimg.com/vi/YDJRO0UC2t8/mqdefault.jpg",
+   "channel_id": "UCIi9mBHzuN_fSgV_ZEOMbbA",
+   "channel_title": "佐々木琴子とアッシュとさとるの成長記録",
+   "published_at": "2026-11-26T10:00:07Z",
+   "category": "appearance",
+   "members": [
+    "佐々木琴子"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": "2026-11-26T10:00:00Z",
+   "views": 1292,
+   "likes": 124,
+   "comments": 8,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "aca4t-W1COk",
+   "title": "#山下美月 「ジェットコースター作りたい」もし大学祭に参加するなら？｜#地雷グリコ",
+   "url": "https://www.youtube.com/watch?v=aca4t-W1COk",
+   "thumbnail": "https://i.ytimg.com/vi/aca4t-W1COk/mqdefault.jpg",
+   "channel_id": "UCheZV4T3Wylfs1raT8YbfDw",
+   "channel_title": "【公式】マイナビ学生の窓口 公式チャンネル",
+   "published_at": "2026-11-26T09:00:25Z",
+   "category": "appearance",
+   "members": [
+    "山下美月"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 907,
+   "likes": 7,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "UsQ5YZMlPds",
+   "title": "📢 #ドラマ地雷グリコ ｜堀田真由さんと山下美月さんがインディアンポーカーに挑戦♠✨ドラマではさらに複雑な「フォールームポーカー」が出てくるよ！プライムビデオで独占配信中✋✌️✊",
+   "url": "https://www.youtube.com/watch?v=UsQ5YZMlPds",
+   "thumbnail": "https://i.ytimg.com/vi/UsQ5YZMlPds/mqdefault.jpg",
+   "channel_id": "UCOMLsUCr8F0zf6LSwxBnuRA",
+   "channel_title": "Prime Video JP - プライムビデオ",
+   "published_at": "2026-11-26T09:00:19Z",
+   "category": "appearance",
+   "members": [
+    "山下美月"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 5132,
+   "likes": 154,
+   "comments": 5,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "fv03R95ATPM",
+   "title": "乃木坂46 6期生 鈴木佑捺 初めてのチアダンスに挑戦してみて…『乃木坂スター誕生！SIX』未公開映像【Blu-ray BOX 第2巻 発売中】",
+   "url": "https://www.youtube.com/watch?v=fv03R95ATPM",
+   "thumbnail": "https://i.ytimg.com/vi/fv03R95ATPM/mqdefault.jpg",
+   "channel_id": "UCazjJ6udlwl6cP_om1zqTQQ",
+   "channel_title": "VAP Official",
+   "published_at": "2026-11-26T09:00:05Z",
+   "category": "appearance",
+   "members": [
+    "鈴木佑捺"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3844,
+   "likes": 48,
+   "comments": null,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "IfZ8TLqYrI8",
+   "title": "#山下美月 「楽しむことを忘れずに」就活で悩む学生へメッセージ｜#地雷グリコ",
+   "url": "https://www.youtube.com/watch?v=IfZ8TLqYrI8",
+   "thumbnail": "https://i.ytimg.com/vi/IfZ8TLqYrI8/mqdefault.jpg",
+   "channel_id": "UCheZV4T3Wylfs1raT8YbfDw",
+   "channel_title": "【公式】マイナビ学生の窓口 公式チャンネル",
+   "published_at": "2026-11-26T09:00:00Z",
+   "category": "appearance",
+   "members": [
+    "山下美月"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 932,
+   "likes": 4,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
   {
    "video_id": "Ak4LgadpC44",
    "title": "寂しさとは当たり前のようにそこにいたはずの誰かの影 #乃木坂46_君ロス#乃木坂46",
@@ -20,10 +314,48 @@
    "members": [],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6578,
-   "likes": 550,
-   "comments": 24,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 97399,
+   "likes": 4670,
+   "comments": 132,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "vNBDT6SzYOg",
+   "title": "坂東龍汰×高石あかりW主演　齋藤飛鳥＆令和ロマンくるまも出演　映画「サタデー・ナイト・シアター」特報映像",
+   "url": "https://www.youtube.com/watch?v=vNBDT6SzYOg",
+   "thumbnail": "https://i.ytimg.com/vi/vNBDT6SzYOg/mqdefault.jpg",
+   "channel_id": "UCDE_gujqIP9wEBZy0lVH_8Q",
+   "channel_title": "MANTAN TV",
+   "published_at": "2026-11-26T08:00:18Z",
+   "category": "appearance",
+   "members": [
+    "齋藤飛鳥"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3563,
+   "likes": 22,
+   "comments": 1,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "fK-rZ6J2FbE",
+   "title": "【佐々木久美】10年ぶりの接客に大絶賛!",
+   "url": "https://www.youtube.com/watch?v=fK-rZ6J2FbE",
+   "thumbnail": "https://i.ytimg.com/vi/fK-rZ6J2FbE/mqdefault.jpg",
+   "channel_id": "UCYTvGgFlQeuzKLfA1WZggFw",
+   "channel_title": "しごとリアル【しごりあ】dip公式",
+   "published_at": "2026-11-26T08:00:12Z",
+   "category": "appearance",
+   "members": [
+    "佐々木久美"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 11076,
+   "likes": 204,
+   "comments": 7,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "UcNNTcUWeUs",
@@ -43,10 +375,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 20999,
-   "likes": 785,
-   "comments": 38,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 182497,
+   "likes": 2691,
+   "comments": 85,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "EwIV0YaVT5U",
@@ -66,10 +398,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 7756,
-   "likes": 321,
-   "comments": 11,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 33919,
+   "likes": 757,
+   "comments": 21,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "aSCPW4dlmyo",
@@ -89,10 +421,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 16130,
-   "likes": 517,
-   "comments": 21,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 91793,
+   "likes": 1420,
+   "comments": 41,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "QzqWNFIC8Ls",
@@ -108,10 +440,86 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 233,
+   "views": 339,
    "likes": 9,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "QZHxREeII4Y",
+   "title": "宮世琉弥さん、今年のベストバイはまさかの「セリ」。「えらぶ！ ポケモン イルミネーション 1025」点灯式",
+   "url": "https://www.youtube.com/watch?v=QZHxREeII4Y",
+   "thumbnail": "https://i.ytimg.com/vi/QZHxREeII4Y/mqdefault.jpg",
+   "channel_id": "UCM7CSHqlGgZbUd79i9Rjdng",
+   "channel_title": "35-45WOMAN公式動画チャンネル",
+   "published_at": "2026-11-25T13:55:09Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 740,
+   "likes": 19,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "-AfnGG_P-Q4",
+   "title": "桐谷健太＆八村倫太郎(WATWING)＆秋元真夏、何故か全員ギャル化！？",
+   "url": "https://www.youtube.com/watch?v=-AfnGG_P-Q4",
+   "thumbnail": "https://i.ytimg.com/vi/-AfnGG_P-Q4/mqdefault.jpg",
+   "channel_id": "UCD0CcyMnVhEeAV5tNVM04cg",
+   "channel_title": "マイナビニュース【エンタメ・ホビー】",
+   "published_at": "2026-11-25T13:53:49Z",
+   "category": "appearance",
+   "members": [
+    "秋元真夏"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2899,
+   "likes": 50,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "1u6Ar9ees58",
+   "title": "秋元真夏、自身のファンを「あぶり出しときます」独特な表現にWATWING・八村倫太郎も驚き",
+   "url": "https://www.youtube.com/watch?v=1u6Ar9ees58",
+   "thumbnail": "https://i.ytimg.com/vi/1u6Ar9ees58/mqdefault.jpg",
+   "channel_id": "UCD0CcyMnVhEeAV5tNVM04cg",
+   "channel_title": "マイナビニュース【エンタメ・ホビー】",
+   "published_at": "2026-11-25T13:16:47Z",
+   "category": "appearance",
+   "members": [
+    "秋元真夏"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 7159,
+   "likes": 74,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "anjBMNLPpsA",
+   "title": "【Let’s 広島ドライブ旅】富田鈴花と巡る！家族で楽しむ尾道・生口島・世羅",
+   "url": "https://www.youtube.com/watch?v=anjBMNLPpsA",
+   "thumbnail": "https://i.ytimg.com/vi/anjBMNLPpsA/mqdefault.jpg",
+   "channel_id": "UCOecthoxjF2muBC4qjb6KPQ",
+   "channel_title": "朝だ!生です旅サラダ【公式】",
+   "published_at": "2026-11-25T11:19:01Z",
+   "category": "appearance",
+   "members": [
+    "富田鈴花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 54762,
+   "likes": 1351,
+   "comments": 65,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Ea9K0nR26Xw",
@@ -127,10 +535,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-25T10:00:00Z",
-   "views": 12246,
-   "likes": 376,
-   "comments": 34,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 21956,
+   "likes": 471,
+   "comments": 35,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "BvPoFN60LqA",
@@ -146,10 +554,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1125,
-   "likes": 30,
+   "views": 1178,
+   "likes": 33,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "pEa2ihvYhsM",
+   "title": "【長期保有してしまうワケ】株主優待の驚くべき正体とは？プロが教える“好きな会社”から始める投資術｜高山一実の推しごと",
+   "url": "https://www.youtube.com/watch?v=pEa2ihvYhsM",
+   "thumbnail": "https://i.ytimg.com/vi/pEa2ihvYhsM/mqdefault.jpg",
+   "channel_id": "UCRCI6zdxPdDyBLKNH0q3vug",
+   "channel_title": "mynt  公式チャンネル",
+   "published_at": "2026-11-25T10:00:01Z",
+   "category": "appearance",
+   "members": [
+    "高山一実"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 13480,
+   "likes": 35,
+   "comments": 4,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "CaH5DeWfRvY",
@@ -163,10 +590,48 @@
    "members": [],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 68084,
-   "likes": 3628,
-   "comments": 108,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 81996,
+   "likes": 4165,
+   "comments": 115,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "OA6CmA-g_1E",
+   "title": "【佐々木久美】10年ぶりにPLAZAバイトしてみた。【看板娘】",
+   "url": "https://www.youtube.com/watch?v=OA6CmA-g_1E",
+   "thumbnail": "https://i.ytimg.com/vi/OA6CmA-g_1E/mqdefault.jpg",
+   "channel_id": "UCYTvGgFlQeuzKLfA1WZggFw",
+   "channel_title": "しごとリアル【しごりあ】dip公式",
+   "published_at": "2026-11-25T08:00:23Z",
+   "category": "appearance",
+   "members": [
+    "佐々木久美"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 189227,
+   "likes": 3318,
+   "comments": 423,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "r_BNZRL_Pa8",
+   "title": "【アオハル旅見逃し配信】原田葵アナ＆高崎春アナが秋の京都で青春女子旅！着物姿で街ブラ♪SNSで話題のフォトスポットや京都名物おばんざいに舌鼓！世界遺産に光る紅葉に感動",
+   "url": "https://www.youtube.com/watch?v=r_BNZRL_Pa8",
+   "thumbnail": "https://i.ytimg.com/vi/r_BNZRL_Pa8/mqdefault.jpg",
+   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
+   "channel_title": "めざましテレビチャンネル",
+   "published_at": "2026-11-25T08:00:07Z",
+   "category": "appearance",
+   "members": [
+    "原田葵"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 22635,
+   "likes": 235,
+   "comments": 13,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "kR6m_kyFOis",
@@ -182,10 +647,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1415,
-   "likes": 15,
+   "views": 1698,
+   "likes": 25,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "RjKcMVGvorU",
@@ -199,10 +664,10 @@
    "members": [],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 279401,
-   "likes": 6219,
-   "comments": 396,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 331920,
+   "likes": 6762,
+   "comments": 428,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "3WzqWQ1GeMA",
@@ -218,10 +683,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 850,
+   "views": 894,
    "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "DjODNfYIUmw",
@@ -241,10 +706,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-24T11:00:00Z",
-   "views": 506244,
-   "likes": 7935,
-   "comments": 246,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 540538,
+   "likes": 8165,
+   "comments": 268,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "p_VX-J39eRc",
@@ -260,10 +725,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 103966,
+   "views": 125456,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "nvTQ53uDiZY",
@@ -279,10 +744,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 36770,
+   "views": 43401,
    "likes": null,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "PBt8PaRgdc0",
@@ -298,10 +763,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-25T10:30:00Z",
-   "views": 25443,
-   "likes": 386,
-   "comments": 13,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 29177,
+   "likes": 405,
+   "comments": 15,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "SZzhH6evVDM",
@@ -317,10 +782,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 30626,
-   "likes": 468,
-   "comments": 9,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 36624,
+   "likes": 518,
+   "comments": 11,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "xdf2-SFtUW4",
@@ -336,10 +801,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 22323,
-   "likes": 1221,
+   "views": 23179,
+   "likes": 1272,
    "comments": 19,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "aKmhalJpx7M",
@@ -355,10 +820,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1370,
-   "likes": 9,
+   "views": 1392,
+   "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Y8jeUzU6Tis",
@@ -374,10 +839,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 4715,
+   "views": 4822,
    "likes": 18,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "yUCxsIyvkgI",
@@ -393,10 +858,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 15705,
-   "likes": 1329,
+   "views": 16584,
+   "likes": 1379,
    "comments": 25,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "YEOXv5Y9fZw",
@@ -412,10 +877,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 438,
-   "likes": 4,
+   "views": 501,
+   "likes": 5,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "geOi0W-BGbc",
@@ -431,10 +896,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5028,
-   "likes": 37,
+   "views": 5282,
+   "likes": 39,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "C2LzQZP7Yhc",
@@ -450,10 +915,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2921,
-   "likes": 17,
+   "views": 3036,
+   "likes": 18,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "bnN1mRDrVbk",
@@ -469,10 +934,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 7440,
-   "likes": 41,
+   "views": 7496,
+   "likes": 42,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "EjCSD_7kBWc",
@@ -488,10 +953,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 3186,
+   "views": 3278,
    "likes": 38,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "0OqX9YtnZ5s",
@@ -507,10 +972,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 19521,
-   "likes": 97,
-   "comments": 2,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 22470,
+   "likes": 109,
+   "comments": 7,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "HATCahv5Y44",
@@ -526,10 +991,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 11040,
-   "likes": 91,
+   "views": 11344,
+   "likes": 96,
    "comments": 3,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "oWSDF0Nf3og",
@@ -545,10 +1010,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 118107,
-   "likes": 430,
+   "views": 129317,
+   "likes": 461,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "W--AgjRjTWM",
+   "title": "#2 「そ」じゃなくないですか？",
+   "url": "https://www.youtube.com/watch?v=W--AgjRjTWM",
+   "thumbnail": "https://i.ytimg.com/vi/W--AgjRjTWM/mqdefault.jpg",
+   "channel_id": "UCYAyn8wOO_JIsIDtnnqgvGw",
+   "channel_title": "ニッポン放送PODCAST STATION",
+   "published_at": "2026-11-24T09:00:15Z",
+   "category": "appearance",
+   "members": [
+    "富田鈴花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 41223,
+   "likes": 1010,
+   "comments": 58,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "-691RRTuoP8",
@@ -564,10 +1048,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 26658,
-   "likes": 183,
+   "views": 28249,
+   "likes": 189,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "UlDXV-at-Vw",
+   "title": "原田葵アナ＆高崎春アナが秋の京都で青春女子旅！着物姿で街ブラ♪SNSで話題のフォトスポットや京都名物おばんざいに舌鼓！世界遺産に光る紅葉に感動 #めざましテレビ #アオハル旅",
+   "url": "https://www.youtube.com/watch?v=UlDXV-at-Vw",
+   "thumbnail": "https://i.ytimg.com/vi/UlDXV-at-Vw/mqdefault.jpg",
+   "channel_id": "UC3gp1pr5NYX87DU7nPjlmpA",
+   "channel_title": "めざましmedia",
+   "published_at": "2026-11-24T09:00:06Z",
+   "category": "appearance",
+   "members": [
+    "原田葵"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 3019,
+   "likes": 101,
+   "comments": 2,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "V9yaVsQDIzM",
@@ -581,10 +1084,10 @@
    "members": [],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 58021,
-   "likes": 2782,
-   "comments": 73,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 66103,
+   "likes": 3068,
+   "comments": 80,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "L336msL3dwY",
@@ -600,10 +1103,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 8353,
-   "likes": 114,
+   "views": 9252,
+   "likes": 120,
    "comments": 8,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "suTiTJz9rRE",
@@ -619,10 +1122,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 41740,
-   "likes": 121,
-   "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 50369,
+   "likes": 136,
+   "comments": 2,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "PhUNS1M5YMg",
@@ -638,10 +1141,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1182,
-   "likes": 41,
+   "views": 1288,
+   "likes": 43,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "aDlNBNyBbr8",
@@ -657,10 +1160,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2128,
-   "likes": 55,
+   "views": 2269,
+   "likes": 56,
    "comments": 2,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "N2o1ovXjCkA",
@@ -676,10 +1179,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1475,
-   "likes": 27,
+   "views": 1516,
+   "likes": 30,
    "comments": 2,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "xgxrbUS88Yc",
@@ -695,10 +1198,48 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 115722,
+   "views": 192015,
    "likes": null,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "_dKap4X2ma4",
+   "title": "【着回し】神戸レタスで冬服7着購入◎｜低身長の着回しコーデもご紹介します💡",
+   "url": "https://www.youtube.com/watch?v=_dKap4X2ma4",
+   "thumbnail": "https://i.ytimg.com/vi/_dKap4X2ma4/mqdefault.jpg",
+   "channel_id": "UCC4iZzCZMJBVxghrzwvMp8w",
+   "channel_title": "畠中清羅 / Seira Hatanaka",
+   "published_at": "2026-11-23T11:00:28Z",
+   "category": "appearance",
+   "members": [
+    "畠中清羅"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 8916,
+   "likes": 57,
+   "comments": 4,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "Ou3s-RVjmr0",
+   "title": "アイドル卒業後の悲しすぎる現実",
+   "url": "https://www.youtube.com/watch?v=Ou3s-RVjmr0",
+   "thumbnail": "https://i.ytimg.com/vi/Ou3s-RVjmr0/mqdefault.jpg",
+   "channel_id": "UCYAyn8wOO_JIsIDtnnqgvGw",
+   "channel_title": "ニッポン放送PODCAST STATION",
+   "published_at": "2026-11-23T10:30:26Z",
+   "category": "appearance",
+   "members": [
+    "富田鈴花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 6964,
+   "likes": 145,
+   "comments": 2,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "bHRwcITrqx8",
@@ -714,10 +1255,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 652,
+   "views": 674,
    "likes": 1,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "UNO_i5UjWSs",
@@ -733,10 +1274,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1258,
-   "likes": 35,
+   "views": 1262,
+   "likes": 36,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "g4Ctwhx2QNI",
@@ -752,10 +1293,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 13468,
-   "likes": 82,
+   "views": 14078,
+   "likes": 84,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "8AKVSb8XrzY",
+   "title": "原田葵アナ＆高崎春アナが秋の京都で青春女子旅！着物姿で街ブラ♪SNSで話題のフォトスポットや京都名物おばんざいに舌鼓！世界遺産に光る紅葉に感動【アオハル旅】",
+   "url": "https://www.youtube.com/watch?v=8AKVSb8XrzY",
+   "thumbnail": "https://i.ytimg.com/vi/8AKVSb8XrzY/mqdefault.jpg",
+   "channel_id": "UC3gp1pr5NYX87DU7nPjlmpA",
+   "channel_title": "めざましmedia",
+   "published_at": "2026-11-23T09:00:33Z",
+   "category": "appearance",
+   "members": [
+    "原田葵"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 65912,
+   "likes": 666,
+   "comments": 51,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "C6sy4vKZELU",
@@ -771,10 +1331,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 50312,
-   "likes": 504,
-   "comments": 32,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 52995,
+   "likes": 522,
+   "comments": 33,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "ogL_ZXBfT7U",
+   "title": "【富田鈴花】すーじーと街パン巡り06＃街パンと彼女。",
+   "url": "https://www.youtube.com/watch?v=ogL_ZXBfT7U",
+   "thumbnail": "https://i.ytimg.com/vi/ogL_ZXBfT7U/mqdefault.jpg",
+   "channel_id": "UCHuNUgyOvQfS7xo8aR3FyZQ",
+   "channel_title": "街パンと彼女。",
+   "published_at": "2026-11-23T08:15:23Z",
+   "category": "appearance",
+   "members": [
+    "富田鈴花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 271,
+   "likes": 30,
+   "comments": 4,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "a9iTtdycD-I",
@@ -790,10 +1369,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 132901,
-   "likes": 1117,
-   "comments": 69,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 145025,
+   "likes": 1205,
+   "comments": 70,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "VzoLv3-Rnt0",
@@ -810,10 +1389,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 495705,
-   "likes": 10553,
-   "comments": 610,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 516651,
+   "likes": 10763,
+   "comments": 618,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "P7becuO3AdE",
@@ -829,10 +1408,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-23T11:00:00Z",
-   "views": 236513,
-   "likes": 4308,
-   "comments": 132,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 245682,
+   "likes": 4370,
+   "comments": 134,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Z6xkP2OiumY",
@@ -848,10 +1427,48 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 27409,
-   "likes": 1659,
+   "views": 28633,
+   "likes": 1715,
    "comments": 42,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "Eq6jS4u2p1c",
+   "title": "アンチ耐性と愛萌のぶっ飛んだ読書愛｜宮田愛萌×芦沢央｜ほんのキモチ",
+   "url": "https://www.youtube.com/watch?v=Eq6jS4u2p1c",
+   "thumbnail": "https://i.ytimg.com/vi/Eq6jS4u2p1c/mqdefault.jpg",
+   "channel_id": "UChfCQe-wMkNL2P_dACertgQ",
+   "channel_title": "JFN Pods",
+   "published_at": "2026-11-22T21:00:27Z",
+   "category": "appearance",
+   "members": [
+    "宮田愛萌"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1899,
+   "likes": 30,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "1bSQ1GwCX8A",
+   "title": "西野七瀬、理想は「友達みたいな夫婦」　伊武雅刀の“毎朝ハグ”日課に共感「心の距離もいい感じになりそう」",
+   "url": "https://www.youtube.com/watch?v=1bSQ1GwCX8A",
+   "thumbnail": "https://i.ytimg.com/vi/1bSQ1GwCX8A/mqdefault.jpg",
+   "channel_id": "UCVCjfH_lIJGUdfotrN5Fftg",
+   "channel_title": "ENCOUNT｜エンカウント",
+   "published_at": "2026-11-22T16:57:27Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 5064,
+   "likes": 35,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Jk--UkyfB7I",
@@ -865,10 +1482,29 @@
    "members": [],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 885940,
-   "likes": 13317,
-   "comments": 1811,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 923733,
+   "likes": 13466,
+   "comments": 1849,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "RVklx4nTLW0",
+   "title": "西野七瀬「がんばって怒った」　“母”永作博美とのぶつかり合いを振り返る　映画「あきらめません！」完成披露上映会",
+   "url": "https://www.youtube.com/watch?v=RVklx4nTLW0",
+   "thumbnail": "https://i.ytimg.com/vi/RVklx4nTLW0/mqdefault.jpg",
+   "channel_id": "UCDE_gujqIP9wEBZy0lVH_8Q",
+   "channel_title": "MANTAN TV",
+   "published_at": "2026-11-22T14:15:16Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 6113,
+   "likes": 30,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "G4fTG2nJt9Q",
@@ -884,10 +1520,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1331,
-   "likes": 27,
+   "views": 1342,
+   "likes": 29,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "AV7OuR9Zhog",
@@ -909,6 +1545,44 @@
    "stats_at": "2026-11-25T17:57:17.240784+09:00"
   },
   {
+   "video_id": "SYFMbr4B5HM",
+   "title": "⚫︎FLaMmeカメラ⚫︎長濱ねる『sweet 夏祭り2026（宝島社）』Part3",
+   "url": "https://www.youtube.com/watch?v=SYFMbr4B5HM",
+   "thumbnail": "https://i.ytimg.com/vi/SYFMbr4B5HM/mqdefault.jpg",
+   "channel_id": "UCXuq4Ev_pJPrAp6LmD1C5aQ",
+   "channel_title": "FLaMme／フラーム",
+   "published_at": "2026-11-22T11:00:06Z",
+   "category": "appearance",
+   "members": [
+    "長濱ねる"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 800,
+   "likes": 13,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "LM4r6ZvkbPs",
+   "title": "西野七瀬、理想は“友達のような夫婦”「すごく良いなと思う」 夫は山田裕貴　映画『あきらめません！』完成披露上映会舞台あいさつ",
+   "url": "https://www.youtube.com/watch?v=LM4r6ZvkbPs",
+   "thumbnail": "https://i.ytimg.com/vi/LM4r6ZvkbPs/mqdefault.jpg",
+   "channel_id": "UCbZvkG2uAgr6Oiva4FytscQ",
+   "channel_title": "oricon",
+   "published_at": "2026-11-22T10:14:54Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 24949,
+   "likes": 39,
+   "comments": 1,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
    "video_id": "6orTkyPpXZ0",
    "title": "【店で出すレベル！】恩人・齋藤飛鳥を喜ばせるためつけ汁を開発！蕎麦つゆオタクDEEN池森の元で修業！",
    "url": "https://www.youtube.com/watch?v=6orTkyPpXZ0",
@@ -923,10 +1597,48 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 180003,
-   "likes": 2624,
-   "comments": 136,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 187849,
+   "likes": 2659,
+   "comments": 137,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "91q2pPEkdEk",
+   "title": "永作博美・西野七瀬・中尾ミエ・伊武雅刀が語る「リアルな夫婦像」とは？爆笑＆感動のトーク！映画『あきらめません！』完成披露上映会舞台挨拶【トークノーカット】",
+   "url": "https://www.youtube.com/watch?v=91q2pPEkdEk",
+   "thumbnail": "https://i.ytimg.com/vi/91q2pPEkdEk/mqdefault.jpg",
+   "channel_id": "UC5tpqrGMUhFrlOvdkr3IYbA",
+   "channel_title": "NB Press Online",
+   "published_at": "2026-11-22T09:59:05Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2764,
+   "likes": 29,
+   "comments": 2,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "UdtAIsT4DTI",
+   "title": "西野七瀬、“いい夫婦の日”に理想の夫婦像を語る 伊武雅刀のラブラブエピソードにキャスト大盛り上がり",
+   "url": "https://www.youtube.com/watch?v=UdtAIsT4DTI",
+   "thumbnail": "https://i.ytimg.com/vi/UdtAIsT4DTI/mqdefault.jpg",
+   "channel_id": "UCD0CcyMnVhEeAV5tNVM04cg",
+   "channel_title": "マイナビニュース【エンタメ・ホビー】",
+   "published_at": "2026-11-22T09:57:24Z",
+   "category": "appearance",
+   "members": [
+    "西野七瀬"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 22924,
+   "likes": 41,
+   "comments": 2,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "cZTErpnu-fw",
@@ -942,10 +1654,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 4105,
+   "views": 4237,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "k2_QvucbTu4",
@@ -961,10 +1673,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1399,
-   "likes": 20,
+   "views": 1426,
+   "likes": 24,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "VEb1hYioyNU",
@@ -999,10 +1711,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 135439,
-   "likes": 1628,
+   "views": 139585,
+   "likes": 1648,
    "comments": 136,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "zRCDqI8K8Pw",
@@ -1018,10 +1730,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 290,
+   "views": 295,
    "likes": 3,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "hZZ1sgLQZI0",
@@ -1037,10 +1749,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1595,
-   "likes": 23,
-   "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 1682,
+   "likes": 25,
+   "comments": 1,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "TcbAqojjkgU",
@@ -1057,10 +1769,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 508598,
-   "likes": 6845,
-   "comments": 670,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 529922,
+   "likes": 7033,
+   "comments": 691,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "U47wafKH92I",
@@ -1077,10 +1789,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 16254,
-   "likes": 415,
+   "views": 17030,
+   "likes": 424,
    "comments": 25,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "djl6F5zJhtw",
@@ -1099,10 +1811,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 8448,
-   "likes": 301,
-   "comments": 7,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 8648,
+   "likes": 303,
+   "comments": 8,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "fq6A-_1fvzw",
@@ -1118,10 +1830,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 9470,
-   "likes": 121,
+   "views": 9664,
+   "likes": 127,
    "comments": 8,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "gk-uZJhMIF4",
@@ -1137,10 +1849,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1418,
+   "views": 1425,
    "likes": 27,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "xIpbb5yTpIU",
@@ -1156,10 +1868,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1567,
-   "likes": 18,
+   "views": 1607,
+   "likes": 19,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "VlWzkjhJn9U",
+   "title": "⚫︎FLaMmeカメラ⚫︎長濱ねる『sweet 夏祭り2026（宝島社）』Part2",
+   "url": "https://www.youtube.com/watch?v=VlWzkjhJn9U",
+   "thumbnail": "https://i.ytimg.com/vi/VlWzkjhJn9U/mqdefault.jpg",
+   "channel_id": "UCXuq4Ev_pJPrAp6LmD1C5aQ",
+   "channel_title": "FLaMme／フラーム",
+   "published_at": "2026-11-21T11:00:11Z",
+   "category": "appearance",
+   "members": [
+    "長濱ねる"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1753,
+   "likes": 21,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "lA0myamGewE",
@@ -1179,10 +1910,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-21T10:59:00Z",
-   "views": 52927,
-   "likes": 600,
-   "comments": 59,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 55684,
+   "likes": 609,
+   "comments": 60,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "D3wzIsUOzzU",
@@ -1198,10 +1929,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6914,
-   "likes": 65,
+   "views": 7163,
+   "likes": 67,
    "comments": 12,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "1pGV2rifyDs",
@@ -1217,10 +1948,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 473,
+   "views": 511,
    "likes": 9,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "avi9Z4GXwkc",
@@ -1236,10 +1967,143 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12966,
-   "likes": 690,
+   "views": 13413,
+   "likes": 700,
    "comments": 54,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "aYhPDehTJqo",
+   "title": "眠る前にぜひ聴いてください。川後陽菜 & YONAKA Band「銀河鉄道、メテオ行き」🪐",
+   "url": "https://www.youtube.com/watch?v=aYhPDehTJqo",
+   "thumbnail": "https://i.ytimg.com/vi/aYhPDehTJqo/mqdefault.jpg",
+   "channel_id": "UCygUvA0j15FpHp6kv2IuQYA",
+   "channel_title": "川後陽菜 / Hina Kawago",
+   "published_at": "2026-11-21T10:00:15Z",
+   "category": "appearance",
+   "members": [
+    "川後陽菜"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1338,
+   "likes": 45,
+   "comments": 5,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "FSwsMPfEDb8",
+   "title": "【Vlog】新婚旅行モルディブ4泊5日の旅💍🏝️後編",
+   "url": "https://www.youtube.com/watch?v=FSwsMPfEDb8",
+   "thumbnail": "https://i.ytimg.com/vi/FSwsMPfEDb8/mqdefault.jpg",
+   "channel_id": "UCQOM0vJ9axJScRaYRCCG28w",
+   "channel_title": "能條愛未チャンネル",
+   "published_at": "2026-11-21T10:00:02Z",
+   "category": "appearance",
+   "members": [
+    "能條愛未"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 67622,
+   "likes": 331,
+   "comments": 8,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "lp3iQEZGv-Q",
+   "title": "元日向坂４６の河田陽菜さん、出身地の下関市で一日警察署長",
+   "url": "https://www.youtube.com/watch?v=lp3iQEZGv-Q",
+   "thumbnail": "https://i.ytimg.com/vi/lp3iQEZGv-Q/mqdefault.jpg",
+   "channel_id": "UCdcEhhmXDVrKTukbKqnC5bw",
+   "channel_title": "読売新聞オンライン動画",
+   "published_at": "2026-11-21T09:46:35Z",
+   "category": "appearance",
+   "members": [
+    "河田陽菜"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 8637,
+   "likes": 301,
+   "comments": null,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "EzezYuMgeZA",
+   "title": "「今も、ありがとう」「Erika Ikuta Tour 2026 『I.K.T』～I Know Tomorrow～」（2026.10.14）",
+   "url": "https://www.youtube.com/watch?v=EzezYuMgeZA",
+   "thumbnail": "https://i.ytimg.com/vi/EzezYuMgeZA/mqdefault.jpg",
+   "channel_id": "UCKEeXu8tcgOCp5Gi63POwrQ",
+   "channel_title": "生田絵梨花 Official YouTube Channel",
+   "published_at": "2026-11-21T09:30:36Z",
+   "category": "appearance",
+   "members": [
+    "生田絵梨花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 56284,
+   "likes": 1862,
+   "comments": 70,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "RQEa7nLKa3A",
+   "title": "【山口】日向坂４６の元メンバー　下関出身の河田陽菜さんが一日警察署長",
+   "url": "https://www.youtube.com/watch?v=RQEa7nLKa3A",
+   "thumbnail": "https://i.ytimg.com/vi/RQEa7nLKa3A/mqdefault.jpg",
+   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
+   "channel_title": "yab山口ニュース",
+   "published_at": "2026-11-21T09:16:34Z",
+   "category": "appearance",
+   "members": [
+    "河田陽菜"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 53060,
+   "likes": 1053,
+   "comments": null,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "nSUzNG-uL_A",
+   "title": "久保史緒里さんがセラピストにお悩み相談！こんなときどうすればいいですか？ | COCHO COCHO",
+   "url": "https://www.youtube.com/watch?v=nSUzNG-uL_A",
+   "thumbnail": "https://i.ytimg.com/vi/nSUzNG-uL_A/mqdefault.jpg",
+   "channel_id": "UCUXZ9ml3K0VDqCfj1uIxrwQ",
+   "channel_title": "COCHO COCHO",
+   "published_at": "2026-11-21T09:15:28Z",
+   "category": "appearance",
+   "members": [
+    "久保史緒里"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 102899,
+   "likes": 2028,
+   "comments": 97,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "5HJYRx0lcvw",
+   "title": "「東京クリスマスマーケット2026」は、新豊洲と芝公園の2会場で開催！オープニングセレモニーに生田絵梨花が登場「ワクワクした気分に包まれている」",
+   "url": "https://www.youtube.com/watch?v=5HJYRx0lcvw",
+   "thumbnail": "https://i.ytimg.com/vi/5HJYRx0lcvw/mqdefault.jpg",
+   "channel_id": "UCulQWizo_DF4uOOVTAjzp0A",
+   "channel_title": "Tokyo Now",
+   "published_at": "2026-11-21T09:00:38Z",
+   "category": "appearance",
+   "members": [
+    "生田絵梨花"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 2863,
+   "likes": 87,
+   "comments": 4,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "33n94jfF0wM",
@@ -1255,10 +2119,29 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 13372,
-   "likes": 45,
+   "views": 14230,
+   "likes": 47,
    "comments": 3,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "VfMJ29sCC3o",
+   "title": "遠山大輔・潮紗理菜「ル レクチエをいただきます」in 新潟県 新潟市【JA全農COUNTDOWN JAPAN】",
+   "url": "https://www.youtube.com/watch?v=VfMJ29sCC3o",
+   "thumbnail": "https://i.ytimg.com/vi/VfMJ29sCC3o/mqdefault.jpg",
+   "channel_id": "UC8CacOJbkzypw_SQU5RThhw",
+   "channel_title": "JA全農 COUNTDOWN JAPAN",
+   "published_at": "2026-11-21T04:50:31Z",
+   "category": "appearance",
+   "members": [
+    "潮紗理菜"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 19995,
+   "likes": null,
+   "comments": 41,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "usFl8XS37oc",
@@ -1274,10 +2157,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 22564,
-   "likes": 474,
+   "views": 23243,
+   "likes": 477,
    "comments": 39,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "YOSoQ5ozBLo",
@@ -1296,7 +2179,7 @@
    "views": 18,
    "likes": 0,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "-0UuQPpT_BI",
@@ -1312,10 +2195,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1490,
+   "views": 1508,
    "likes": 32,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "HhCrGvXSHXE",
@@ -1333,10 +2216,49 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 196818,
-   "likes": 1828,
-   "comments": 92,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 204167,
+   "likes": 1867,
+   "comments": 94,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "pKyqOKOoxtA",
+   "title": "#井上小百合 元メンバーのお友達と陶芸体験してきた日。",
+   "url": "https://www.youtube.com/watch?v=pKyqOKOoxtA",
+   "thumbnail": "https://i.ytimg.com/vi/pKyqOKOoxtA/mqdefault.jpg",
+   "channel_id": "UCmVJtdqSRFSsJb5hjHL4QKg",
+   "channel_title": "井上小百合 / Sayuri Inoue",
+   "published_at": "2026-11-20T12:39:34Z",
+   "category": "appearance",
+   "members": [
+    "宮澤成良",
+    "井上小百合"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 12671,
+   "likes": 596,
+   "comments": 20,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "-elO-8pYh1A",
+   "title": "⚫︎FLaMmeカメラ⚫︎長濱ねる『sweet 夏祭り2026（宝島社）』Part1",
+   "url": "https://www.youtube.com/watch?v=-elO-8pYh1A",
+   "thumbnail": "https://i.ytimg.com/vi/-elO-8pYh1A/mqdefault.jpg",
+   "channel_id": "UCXuq4Ev_pJPrAp6LmD1C5aQ",
+   "channel_title": "FLaMme／フラーム",
+   "published_at": "2026-11-20T11:00:06Z",
+   "category": "appearance",
+   "members": [
+    "長濱ねる"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 664,
+   "likes": 14,
+   "comments": 0,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Z_S4TB0wUwM",
@@ -1352,10 +2274,48 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": "2026-11-20T01:10:00Z",
-   "views": 137124,
-   "likes": 240,
+   "views": 137270,
+   "likes": 241,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "QvRaUxjBMA0",
+   "title": "#平手友梨奈 オフィシャルカレンダー2027「offline」💐✨",
+   "url": "https://www.youtube.com/watch?v=QvRaUxjBMA0",
+   "thumbnail": "https://i.ytimg.com/vi/QvRaUxjBMA0/mqdefault.jpg",
+   "channel_id": "UCSSTKnBtb17FFScT6q55iOw",
+   "channel_title": "平手友梨奈",
+   "published_at": "2026-11-20T09:00:10Z",
+   "category": "appearance",
+   "members": [
+    "平手友梨奈"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 18036,
+   "likes": 1104,
+   "comments": 28,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "kR_s52J4pvs",
+   "title": "【リアルバイ】USAGI ONLINEで気になるアイテムをゲット！#76",
+   "url": "https://www.youtube.com/watch?v=kR_s52J4pvs",
+   "thumbnail": "https://i.ytimg.com/vi/kR_s52J4pvs/mqdefault.jpg",
+   "channel_id": "UCUApURCve0BEqv6Sa9x_OJg",
+   "channel_title": "my channel【白石麻衣 公式】",
+   "published_at": "2026-11-20T09:00:07Z",
+   "category": "appearance",
+   "members": [
+    "白石麻衣"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 237886,
+   "likes": 3399,
+   "comments": 208,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "coIJmQpOaAo",
@@ -1372,10 +2332,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6758,
-   "likes": 324,
+   "views": 7077,
+   "likes": 329,
    "comments": 6,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "0BOwWGdFzvo",
@@ -1392,10 +2352,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 437865,
-   "likes": 4596,
-   "comments": 230,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 461877,
+   "likes": 4690,
+   "comments": 231,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "B9y3ZPO0vFk",
@@ -1411,10 +2371,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 53393,
-   "likes": 1559,
-   "comments": 84,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 54875,
+   "likes": 1581,
+   "comments": 88,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "ht8c7eFMFxk",
@@ -1430,10 +2390,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2108,
-   "likes": 79,
+   "views": 2147,
+   "likes": 80,
    "comments": 3,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "E_qTBid6NdA",
@@ -1449,10 +2409,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 57657,
-   "likes": 175,
+   "views": 61584,
+   "likes": 190,
    "comments": null,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "83z7r3e-KKk",
@@ -1470,10 +2430,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 39763,
-   "likes": 831,
-   "comments": 48,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 40111,
+   "likes": 830,
+   "comments": 49,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "VzbuQFIo6Zw",
@@ -1489,10 +2449,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 306924,
-   "likes": 832,
+   "views": 333569,
+   "likes": 850,
    "comments": 37,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "iTfIS5w2t1k",
@@ -1508,10 +2468,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 11725,
-   "likes": 132,
+   "views": 12267,
+   "likes": 134,
    "comments": 17,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "atTHf0PGJzw",
@@ -1527,10 +2487,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 10910,
-   "likes": 34,
+   "views": 11060,
+   "likes": 35,
    "comments": 2,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "5hicWFp0wDw",
@@ -1546,10 +2506,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12047,
-   "likes": 50,
+   "views": 12224,
+   "likes": 51,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "kpVTL4ImGP8",
@@ -1565,10 +2525,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1162,
-   "likes": 24,
+   "views": 1170,
+   "likes": 25,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "yFjZUC9fezg",
@@ -1584,10 +2544,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 126366,
-   "likes": 96,
+   "views": 147322,
+   "likes": 104,
    "comments": 7,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "KDv6kCpO3kc",
@@ -1603,10 +2563,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5364,
+   "views": 5391,
    "likes": 251,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "nQIJMoaKxtg",
@@ -1622,10 +2582,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5531,
+   "views": 5536,
    "likes": 9,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "zO1UzIZbG2s",
@@ -1641,10 +2601,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 2837,
+   "views": 2839,
    "likes": 10,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "kOzDxqmeQqo",
@@ -1660,10 +2620,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 1626,
-   "likes": 6,
+   "views": 1648,
+   "likes": 8,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "-iRhcOE6eYw",
@@ -1679,10 +2639,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 37135,
+   "views": 37420,
    "likes": 916,
    "comments": 102,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "r5AHFO8EWx8",
@@ -1698,10 +2658,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 168,
+   "views": 170,
    "likes": 8,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "XTPJLnYOekI",
@@ -1717,10 +2677,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 98,
+   "views": 100,
    "likes": 4,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "o8snuxl420I",
@@ -1736,10 +2696,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 689,
+   "views": 740,
    "likes": 15,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "ACUN4yPhdPQ",
@@ -1755,10 +2715,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 856,
+   "views": 871,
    "likes": 4,
    "comments": 1,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "g0y-ONqRo3A",
@@ -1774,10 +2734,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 5416,
+   "views": 5438,
    "likes": 48,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "zpXxZbwsbpk",
@@ -1793,10 +2753,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 175,
+   "views": 177,
    "likes": 2,
    "comments": 0,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "Fnxj0eHZ0Ck",
@@ -1812,10 +2772,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 532688,
-   "likes": 5186,
-   "comments": 231,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 544458,
+   "likes": 5276,
+   "comments": 232,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "nPFlk76t_sI",
@@ -1831,10 +2791,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 12239,
-   "likes": 32,
+   "views": 12342,
+   "likes": 33,
    "comments": 4,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "jGlyorwrCOw",
@@ -1850,10 +2810,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 171269,
-   "likes": 1412,
-   "comments": 60,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 176378,
+   "likes": 1443,
+   "comments": 61,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "EWoew1JC5N4",
@@ -1869,10 +2829,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 95621,
-   "likes": 636,
-   "comments": 58,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "views": 97004,
+   "likes": 643,
+   "comments": 59,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
    "video_id": "WNb7T_5u7MU",
@@ -1890,10 +2850,10 @@
    ],
    "broadcast_content": "none",
    "scheduled_start_time": null,
-   "views": 6653,
+   "views": 6733,
    "likes": null,
    "comments": 3,
-   "stats_at": "2026-11-26T17:57:04.301614+09:00"
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
   }
  ]
 }
