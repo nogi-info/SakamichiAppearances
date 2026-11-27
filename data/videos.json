@@ -2,10 +2,10 @@
  "meta": {
   "collected_total": 2876,
   "official": 14,
-  "appearance": 134,
-  "excluded_not_legit_or_noise": 2719,
-  "excluded_user": 7,
-  "held_no_member_match": 2
+  "appearance": 135,
+  "excluded_not_legit_or_noise": 2718,
+  "excluded_user": 9,
+  "held_no_member_match": 0
  },
  "videos": [
   {
@@ -994,6 +994,25 @@
    "views": 11344,
    "likes": 96,
    "comments": 3,
+   "stats_at": "2026-11-27T17:57:18.234487+09:00"
+  },
+  {
+   "video_id": "ms8AfULWNuo",
+   "title": "清宮レイと世界王者🤣真逆すぎる性格とは!?",
+   "url": "https://www.youtube.com/watch?v=ms8AfULWNuo",
+   "thumbnail": "https://i.ytimg.com/vi/ms8AfULWNuo/mqdefault.jpg",
+   "channel_id": "UCnlDkBwhO4LRVu6_ylsNfTQ",
+   "channel_title": "Glow Bal",
+   "published_at": "2026-11-24T10:00:29Z",
+   "category": "appearance",
+   "members": [
+    "清宮レイ"
+   ],
+   "broadcast_content": "none",
+   "scheduled_start_time": null,
+   "views": 1254,
+   "likes": 22,
+   "comments": 1,
    "stats_at": "2026-11-27T17:57:18.234487+09:00"
   },
   {
